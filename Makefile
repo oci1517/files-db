@@ -239,3 +239,8 @@ putcorrige: corrige
 
 youtube-patch:
 	curl https://gist.githubusercontent.com/donnerc/2df4c5daea4c2b92312dec524bb00194/raw/b412c7424e4635f816f9a2f95cdd2095b476b7ec/youtube.py > venv/lib/python3.4/site-packages/sphinxcontrib/youtube/youtube.py
+
+prepare: youtube-patch
+	mkdir -p source/persistence-files/solutions/tjwordlist
+	cd source/persistence-files/solutions/tjwordlist && wget http://www.tigerjython.ch/download/tjwordlist.zip && unzip tjwordlist.zip
+	rm -f source/persistence-files/solutions/tjwordlist/tjwordlist.zip
