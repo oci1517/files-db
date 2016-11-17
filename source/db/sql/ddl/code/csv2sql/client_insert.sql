@@ -1,0 +1,15 @@
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '1', 'Archambault', '2 Lindenstrasse', 'Zürich', 'ZH', '8000' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '2', 'Au plaisir de Lire', '10 route du Jura', 'Fribourg', 'FR', '1700' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '3', 'Librairie du Nouveau Monde', '35 rue des Acacias', 'Neuchâtel', 'NE', '2000' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '4', 'Librairie La Liberté', '1 avenue du Temple', 'Fribourg', 'FR', '1700' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '5', 'Globe Trotteur', '150 rue du Lac', 'Genève', 'GE', '1200' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '6', 'Arts Lettres et Technique', '20 Chaletweg', 'Basel', 'BS', '4000' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '7', 'Camelot', '7 Kramgasse', 'Luzern', 'LU', '6000' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '8', 'Livres et Jardins', '25 rue des Lilas', 'Bulle', 'FR', '1630' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '9', 'Librairie du Centre', '3 Place du Port', 'Nyon', 'GE', '1260' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '10', 'Papyrus', '40 rue de Carouge', 'Genève', 'GE', '1200' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '11', 'Mes Lectures Jeunesse', '12 rue des Sources', 'Genève', 'GE', '1200' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '12', 'Univers Bandes Dessinées', '52 avenue de la Gare', 'Lausanne', 'VD', '1000' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '13', 'Librairie Ulysse', '100 route de Meyrin', 'Genève', 'GE', '1200' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '14', 'Librairie de l''Université', '6 Haldenstrasse', 'Berne', 'BE', '3000' );
+INSERT INTO client ( no_client, nom, adresse, ville, canton, no_postal ) VALUES ( '15', 'Le Bouquiniste', '1 place de Bel-Air', 'Genève', 'GE', '1200' );
