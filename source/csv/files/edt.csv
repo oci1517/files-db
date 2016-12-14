@@ -1,0 +1,2146 @@
+NUMERO;DUREE;FREQUENCE;MAT_CODE;MAT_LIBELLE;PROF_NOM;PROF_PRENOM;CLASSE;SALLE;ALTERNANCE;MODALITE;CO-ENS.;POND.;JOUR;H.DEBUT;EFFECTIF
+1;2h30;H;GY;Education physique;Catillaz;Marco;1EC1;;H;CG;N;1;lundi;08h10;0
+2;2h30;H;GY;Education physique;Gillard;Sylvie;1ECG1;;H;CG;N;1;lundi;08h10;0
+3;2h30;H;GY;Education physique;Sauteur;Stéphane;1GY03;;H;CG;N;1;lundi;08h10;0
+4;2h00;H;AV;Arts visuels;Gex;Dominique;3GY6;201 (ARV);H;CG;N;1;lundi;08h10;0
+05.janv;2h00;H;MU;Musique;Bochud;Marc;[2GY1/2_MU];125 (MUS);H;CG;N;1;lundi;08h10;0
+05.f�vr;2h00;H;AV;Arts visuels;Despond;Pierre-André;[2GY1_AV];302 (ARV);H;CG;N;1;lundi;08h10;0
+05.mars;2h00;H;AV;Arts visuels;Savary;Daniel;[2GY2_AV];301 (ARV);H;CG;N;1;lundi;08h10;0
+6;2h00;H;MU;Musique;Emery;Marc-Antoine;1ECG5;123 (GEO/MUS);H;CG;N;1;lundi;08h10;0
+07.janv;1h00;Q2;BIO;Biologie;Chardonnens;Florence;1GY06;128 (BIO);Q;CG;N;1;lundi;09h00;0
+07.f�vr;2h00;Q1;TPB;Biologie labo;Chardonnens;Florence;1GY06;118 (BIL);Q;CG;N;1;lundi;08h10;0
+07.mars;1h00;Q2;.;Pas de cours;Chardonnens;Florence;1GY06;;Q;CG;N;1;lundi;08h10;0
+08.janv;1h00;Q1;BIO;Biologie;Galley;Yves;2ECG1;128 (BIO);Q;CG;N;1;lundi;09h00;0
+08.f�vr;2h00;Q2;TPB;Biologie labo;Galley;Yves;2ECG1;118 (BIL);Q;CG;N;1;lundi;08h10;0
+08.mars;1h00;Q1;.;Pas de cours;Galley;Yves;2ECG1;;Q;CG;N;1;lundi;08h10;0
+09.janv;1h00;Q2;CHI;Chimie;Beauverd;Luc;1GY01;228 (CHI);Q;CG;N;1;lundi;09h00;0
+09.f�vr;2h00;Q1;TPC;Chimie labo;Beauverd;Luc;1GY01;218 (CHL);Q;CG;N;1;lundi;08h10;0
+09.mars;1h00;Q2;.;Pas de cours;Beauverd;Luc;;;Q;CG;N;1;lundi;08h10;0
+10.janv;1h00;Q1;CHI;Chimie;Vienney-Legagneur;Vanessa;2ECG4;228 (CHI);Q;CG;N;1;lundi;09h00;0
+10.f�vr;2h00;Q2;TPC;Chimie labo;Vienney-Legagneur;Vanessa;2ECG4;218 (CHL);Q;CG;N;1;lundi;08h10;0
+10.mars;1h00;Q1;.;Pas de cours;Vienney-Legagneur;Vanessa;2ECG4;;Q;CG;N;1;lundi;08h10;0
+11.janv;1h00;Q1;PHK;Physik;Bergem;Patrick;2GY4;217 (PHY);Q;CG;N;1;lundi;09h00;0
+11.f�vr;2h00;Q2;PHL;Physique labo;Bergem;Patrick;2GY4;225 (PHL);Q;CG;N;1;lundi;08h10;0
+11.mars;1h00;Q1;.;Pas de cours;Bergem;Patrick;2GY4;;Q;CG;N;1;lundi;08h10;0
+12.janv;2h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[3GY1_MA+];203;H;CG;N;1;lundi;08h10;0
+12.f�vr;1h00;H;MA;Mathématiques;Scyboz;Jacques;[3GY1_MA];315;H;CG;N;1;lundi;08h10;0
+13.janv;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[3GY3/5_MAK];206;H;CG;N;1;lundi;09h00;0
+13.f�vr;2h00;H;MAK+;Mathematik plus;Scherer;Heike;[3GY3_MAK+];113;H;CG;N;1;lundi;08h10;0
+13.mars;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[3GY5_MA];111;H;CG;N;1;lundi;09h00;0
+14;1h00;H;AN;Anglais;Morard;Aurélie;2GY6;105;H;CG;N;1;lundi;08h10;0
+15.janv;1h00;H; ;Informatique;Donner, Simillion;Cédric, Fabian;1GY04;102 (INF);H;CG;O;1;lundi;08h10;0
+15.f�vr;1h00;H;INF;Informatique;Donner, Simillion;Cédric, Fabian;1GY09;102 (INF);H;CG;O;1;lundi;09h00;0
+16;2h00;H;AL;Allemand;Dillon;Bernard;2GY8;10;H;CG;N;1;lundi;08h10;0
+17;2h00;H;AL;Allemand;Brülhart;Karin;3GY8;8;H;CG;N;1;lundi;08h10;0
+18;2h00;H;AL;Allemand;Herzog;Beat;3GY7;214;H;CG;N;1;lundi;08h10;0
+19;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY1;204;H;CG;N;1;lundi;08h10;0
+20;2h00;H;AL;Allemand;Piller;Angelo;3ECG5;103;H;CG;N;1;lundi;08h10;0
+21;1h00;H;MA;Mathématiques;Galley;Muriel;1GY09;314;H;CG;N;1;lundi;08h10;0
+22;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY10;2;H;CG;N;1;lundi;08h10;0
+23;1h00;H;MA;Mathématiques;Gremaud;Nicolas;3GY2;111;H;CG;N;1;lundi;08h10;0
+24;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;4GY4;206;H;CG;N;1;lundi;08h10;0
+25;1h00;H;MA;Mathématiques;Andrey;Marielle;4GY2;112;H;CG;N;1;lundi;08h10;0
+26;1h00;H;MA;Mathématiques;Chatagny;Richard;4MSPE;207;H;CG;N;1;lundi;08h10;0
+27;1h00;H;HI;Histoire;Allaman;Jérôme;2GY5;212;H;CG;N;1;lundi;08h10;0
+28;1h00;H;HI;Histoire;Fragnière;Pierre;4GY6;209;H;CG;N;1;lundi;08h10;0
+29;1h00;H;GESC;Geschichte;Schubert;Holger;4GY3;211;H;CG;N;1;lundi;08h10;0
+30;1h00;H;GEO;Géographie;Rime;François;2GY3;117 (GEO);H;CG;N;1;lundi;08h10;0
+31;2h00;H;FICO;Gestion financière (FICO);Monney;Florent;1EC2;104;H;CG;N;1;lundi;08h10;0
+32;1h00;H;EP;Economie politique;Fragnière;Thomas;2EC2;205;H;CG;N;1;lundi;08h10;0
+33;1h00;H;PHI;Philosophie;Becquart;Philippe;3GY4;319;H;CG;N;1;lundi;08h10;0
+34;1h00;H;PHE;Philosophie / étique;Mousson;Laurent;3ECG2;106;H;CG;N;1;lundi;08h10;0
+35;2h00;H;ANA;Anatomie;Wannier;Thierry;1ECG2;116 (BIO);H;CG;N;1;lundi;08h10;0
+36;1h00;H;CA;Culture antique;Pernet;Christian;1ECG4;114;H;CG;N;1;lundi;08h10;0
+37;1h00;H;SOC;Sociologie;Gremion;François;[2ECG3_SOC];107;H;CG;N;1;lundi;08h10;0
+38;2h00;H;FR;Français;Collomb;Jean-Paul;1GY08;303;H;CG;N;1;lundi;08h10;0
+39;2h00;H;FR;Français;Gachet;Alexandre;2GY9;304;H;CG;N;1;lundi;08h10;0
+40;2h00;H;FR;Français;Morard;Monique;2GY7;308;H;CG;N;1;lundi;08h10;0
+41;2h00;H;FR;Français;Python;Stéphanie;1ECG3;213;H;CG;N;1;lundi;08h10;0
+42;2h00;H;FR;Français;Zumwald;David;3ECG1;320;H;CG;N;1;lundi;08h10;0
+43;1h00;H;FR;Français;Chauvie;Pascal;3ECG3;310;H;CG;N;1;lundi;08h10;0
+44;1h00;H;PC;Prof de classe;Brantschen;Karin;1GY05;115;H;CG;N;1;lundi;08h10;0
+45;1h00;H;PC;Prof de classe;Vieitez;Araceli;2ECG5;307;H;CG;N;1;lundi;08h10;0
+46;2h00;H;Cons. dir.;Conseil direction;Bays, Caligiuri, Morin, Piller, Sudan;Anne, Angelo, Cédric, Christian, Mélanie;;;H;CG;N;1;lundi;08h10;0
+47.1;2h00;H;FR;Français;Castella;Serge;3EC1;6;H;CG;N;1;lundi;08h10;0
+47.2;2h00;H;FR;Français;Mauron;Charly;3EC2;208;H;CG;N;1;lundi;08h10;0
+48;1h00;H;PHY;Physique;Burckel;Alice;4GY7;217 (PHY);H;CG;N;1;lundi;08h10;0
+49;1h00;H;METH;Méthologie 2e ECG;Charrière;Stéphanie;2ECG2;202 (INF);H;CG;N;1;lundi;08h10;0
+50;1h00;Q2;GR;Grec;Sudan;Bruno;[1GY1/2_GR];109;Q2;CG;N;1;lundi;08h10;0
+51;1h00;H;Réserve;Réserve;Fidanza;Laurence;;101 (INF);H;CG;N;1;lundi;08h10;0
+52;1h00;H;PHY;Physique;Oberli;Guillaume;2GY6;215 (PHY);H;CG;N;1;lundi;09h00;0
+53;1h00;H;AN;Anglais;Lauber;Josiane;1GY10;210;H;CG;N;1;lundi;09h00;0
+54;1h00;H;AN;Anglais;Nottage;Jeff;2GY5;2;H;CG;N;1;lundi;09h00;0
+55;1h00;H;AN;Anglais;Vogt;Jacqueline;4GY4;1;H;CG;N;1;lundi;09h00;0
+56;1h00;H;BUR;Bureautique;Fidanza;Laurence;1ECG4;101 (INF);H;CG;N;1;lundi;09h00;0
+57;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY2;204;H;CG;N;1;lundi;09h00;0
+58;1h00;H;AL;Allemand;Brantschen;Karin;4GY5;115;H;CG;N;1;lundi;09h00;0
+59;1h00;H;AL;Allemand;Schläfle;Gabriela;4GY6;110;H;CG;N;1;lundi;09h00;0
+60;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY02;207;H;CG;N;1;lundi;09h00;0
+61;1h00;H;MA;Mathématiques;Clerc;Christine;1GY04;209;H;CG;N;1;lundi;09h00;0
+62;1h00;H;MA;Mathématiques;Andrey;Marielle;4GY7;112;H;CG;N;1;lundi;09h00;0
+63;1h00;H;HI;Histoire;Morard;Aurélie;1GY05;105;H;CG;N;1;lundi;09h00;0
+64;1h00;H;GESC;Geschichte;Schubert;Holger;2GY3;211;H;CG;N;1;lundi;09h00;0
+65;1h00;H;HI;Histoire;Allaman;Jérôme;3GY2;212;H;CG;N;1;lundi;09h00;0
+66;1h00;H;HI;Histoire;Rime;François;4MSPE;108;H;CG;N;1;lundi;09h00;0
+67;1h00;H;GEO;Géographie;Baeriswyl;Valentin;2ECG3;117 (GEO);H;CG;N;1;lundi;09h00;0
+68;1h00;H;ECD;Economie et droit;Fragnière;Thomas;1GY07;205;H;CG;N;1;lundi;09h00;0
+69;1h00;H;PHI;Philosophie;Mousson;Laurent;4GY1;106;H;CG;N;1;lundi;09h00;0
+70;1h00;H;PHI;Philosophie;Becquart;Philippe;4GY3;319;H;CG;N;1;lundi;09h00;0
+71;1h00;H;CA;Culture antique;Pernet;Christian;1ECG6;114;H;CG;N;1;lundi;09h00;0
+72;1h00;H;SOC;Sociologie;Vieitez;Araceli;2ECG5;307;H;CG;N;1;lundi;09h00;0
+73;1h00;H;PSY;Psychologie;Charrière;Stéphanie;3ECG3;309;H;CG;N;1;lundi;09h00;0
+74;1h00;H;PSY;Psychologie;Gremion;François;3ECG4;107;H;CG;N;1;lundi;09h00;0
+75;1h00;H;FR;Français;Wyssa;Anne-Catherine;3GY4;316;H;CG;N;1;lundi;09h00;0
+76;1h00;H;FR;Français;Chauvie;Pascal;3ECG2;310;H;CG;N;1;lundi;09h00;0
+77;1h00;H;FR;Français;Albasini;Marie;2ECG2;313;H;CG;N;1;lundi;09h00;0
+78.1;1h00;H;MA;Mathématiques;Galley;Muriel;2EC1;314;H;CG;N;1;lundi;09h00;0
+78.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;2EC2;315;H;CG;N;1;lundi;09h00;0
+79;2h00;H;AV;Arts visuels;Savary;Daniel;3GY8;301 (ARV);H;CG;N;1;lundi;10h05;0
+80;2h00;H;AV;Arts visuels;Ottiger;Vincent;1GY10;201 (ARV);H;CG;N;1;lundi;10h05;0
+81;2h00;H;4sAV;OS 4 Arts visuels;Despond;Pierre-André;;302 (ARV);H;CG;N;1;lundi;10h05;0
+82;2h00;H;4sMU;OS 4 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;lundi;10h05;0
+83;2h00;H;MU;Musique;Emery;Marc-Antoine;1ECG6;123 (GEO/MUS);H;CG;N;1;lundi;10h05;0
+84;1h00;H;BIO;Biologie;Chardonnens;Florence;2ECG2;128 (BIO);H;CG;N;1;lundi;10h05;0
+85;1h00;H;BIO;Biologie;Sudan;Mélanie;3ECG2;116 (BIO);H;CG;N;1;lundi;10h05;0
+86;1h00;H;PHY;Physique;Savoy;Isabelle;3ECG1;217 (PHY);H;CG;N;1;lundi;10h05;0
+87.1;1h00;H;MA+;Mathématiques plus;Andrey;Marielle;[2GY1/2_MA+];112;H;CG;N;1;lundi;10h05;0
+87.2;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[2GY1/2_MA];111;H;CG;N;1;lundi;10h05;0
+88;2h00;H;4sGR;OS 4 Grec;Sudan;Bruno;;109;H;CG;N;1;lundi;10h05;0
+89;2h00;H;4sAN;OS 4 Anglais;Reidy Miller;Sharon;;211;H;CG;N;1;lundi;10h05;0
+90;2h00;H;4sIT;OS 4 Italien;Andreetta;Tibisay;;214;H;CG;N;1;lundi;10h05;0
+91;1h00;H;4sES;OS 4 Espagnol;Vieitez;Araceli;;307;H;CG;N;1;lundi;10h05;0
+92;1h00;H;4sES;OS 4 Espagnol;Rivas;Maria;;210;H;CG;N;1;lundi;10h05;0
+93;1h00;H;4sED;OS 4 Economie et droit;Girard;Raoul;;108;H;CG;N;1;lundi;10h05;0
+94;2h00;H;4sED;OS 4 Economie et droit;Kolly;Anne-Claude;;113;H;CG;N;1;lundi;10h05;0
+95;1h00;H;AN;Anglais;Grandjean;Michel;1GY07;208;H;CG;N;1;lundi;10h05;0
+96;1h00;H;AN;Anglais;Roehlk;Nadine;2GY7;204;H;CG;N;1;lundi;10h05;0
+97;2h00;H;AN;Anglais;Nottage;Jeff;3GY6;2;H;CG;N;1;lundi;10h05;0
+98;1h00;H;AN;Anglais;Uldry;Jean-Maurice;3GY7;6;H;CG;N;1;lundi;10h05;0
+99;1h00;H;AN;Anglais;Morard;Aurélie;3ECG5;105;H;CG;N;1;lundi;10h05;0
+100;1h00;H;AN;Anglais;Akin;Banu;4MSPE;114;H;CG;N;1;lundi;10h05;0
+101;2h00;H;BUR;Bureautique;Fidanza;Laurence;2ECG4;101 (INF);H;CG;N;1;lundi;10h05;0
+102.1;1h00;H;BUR;Bureautique;Pernet;Christian;3EC1;102 (INF);H;CG;N;1;lundi;10h05;0
+102.2;1h00;H;INF;Informatique;Pernet;Christian;3EC1;102 (INF);H;CG;N;1;lundi;10h55;0
+102.3;1h00;H;BUR;Bureautique;Simillion;Fabian;3EC2;202 (INF);H;CG;N;1;lundi;10h05;0
+102.4;1h00;H;INF;Informatique;Simillion;Fabian;3EC2;202 (INF);H;CG;N;1;lundi;10h55;0
+103;1h00;H;AL;Allemand;Brantschen;Karin;1GY02;115;H;CG;N;1;lundi;10h05;0
+104;1h00;H;AL;Allemand;Schläfle;Gabriela;2GY3;110;H;CG;N;1;lundi;10h05;0
+105;1h00;H;AL;Allemand;Dillon;Bernard;2GY9;10;H;CG;N;1;lundi;10h05;0
+106;2h00;H;AL;Allemand;Brülhart;Karin;3GY4;8;H;CG;N;1;lundi;10h05;0
+107;1h00;H;AL;Allemand;Armbruster;Michèle;2EC2;206;H;CG;N;1;lundi;10h05;0
+108;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY06;207;H;CG;N;1;lundi;10h05;0
+109;1h00;H;MA;Mathématiques;Clerc;Christine;1GY08;209;H;CG;N;1;lundi;10h05;0
+110;1h00;H;MA;Mathématiques;Charrière;Jérôme;2GY5;203;H;CG;N;1;lundi;10h05;0
+111;1h00;H;MA;Mathématiques;Galley;Muriel;2GY6;314;H;CG;N;1;lundi;10h05;0
+112;1h00;H;MA;Mathématiques;Oberli;Guillaume;2GY8;1;H;CG;N;1;lundi;10h05;0
+113;1h00;H;MA;Mathématiques;Mattei;Stéphane;1ECG4;303;H;CG;N;1;lundi;10h05;0
+114;1h00;H;MA;Mathématiques;Donner;Cédric;1ECG5;213;H;CG;N;1;lundi;10h05;0
+115;1h00;H;HI;Histoire;Wyssa;Anne-Catherine;1GY01;316;H;CG;N;1;lundi;10h05;0
+116;1h00;H;HI;Histoire;Fragnière;Pierre;3GY1;212;H;CG;N;1;lundi;10h05;0
+117;1h00;H;GEO;Géographie;Morin;Cédric;2GY4;117 (GEO);H;CG;N;1;lundi;10h05;0
+118;1h00;H;ECD;Economie et droit;Fragnière;Thomas;1GY09;205;H;CG;N;1;lundi;10h05;0
+119;1h00;H;PHI;Philosophie;Mousson;Laurent;3GY5;106;H;CG;N;1;lundi;10h05;0
+120.1;1h00;H;PHI;Philosophie;Monay;Didier;3GY3;304;H;CG;N;1;lundi;10h05;0
+120.2;1h00;H;PHI;Philosophie;Monay;Didier;3GY1;304;H;CG;N;1;lundi;10h55;0
+121;2h00;H;PHI;Philosophie;Becquart;Philippe;3GY2;319;H;CG;N;1;lundi;10h05;0
+122;1h00;H;ECD;Economie et droit;Monney;Florent;[3ECG3_SOC];104;H;CG;N;1;lundi;10h05;0
+123;1h00;H;ANA;Anatomie;Coquoz;Jean-Luc;[2ECG3_SAN];126 (BIL);H;CG;N;1;lundi;10h05;0
+124;1h00;H;CA;Culture antique;Aeby;Evelyne;1ECG3;308;H;CG;N;1;lundi;10h05;0
+125;1h00;H;PSY;Psychologie;Charrière;Stéphanie;[2ECG3_SOC];309;H;CG;N;1;lundi;10h05;0
+126;2h00;H;FR;Français;Möri;Frédéric;1GY05;103;H;CG;N;1;lundi;10h05;0
+127;2h00;H;FR;Français;Zumwald;David;2ECG1;320;H;CG;N;1;lundi;10h05;0
+128;1h00;H;FR;Français;Chauvie;Pascal;3ECG4;310;H;CG;N;1;lundi;10h05;0
+129;1h00;H;FR;Français;Albasini;Marie;2ECG5;313;H;CG;N;1;lundi;10h05;0
+130;1h00;H;FR;Français;Rossier;Serge;2EC1;315;H;CG;N;1;lundi;10h05;0
+131;2h00;H;OS 4;OS 4;;;4GY2;;H;CG;N;1;lundi;10h05;0
+132;2h00;H;OS 4;OS 4;;;4GY4;;H;CG;N;1;lundi;10h05;0
+133;2h00;H;OS 4;OS 4;;;4GY5;;H;CG;N;1;lundi;10h05;0
+134;2h00;H;OS 4;OS 4;;;4GY7;;H;CG;N;1;lundi;10h05;0
+135;2h00;H;OS 4;OS 4;;;4GY6;;H;CG;N;1;lundi;10h05;0
+136;2h00;H;OS 4;OS 4;;;[4GY1_NPAM];;H;CG;N;1;lundi;10h05;0
+137;2h00;H;OS 4;OS 4;;;[4GY3_NPAM];;H;CG;N;1;lundi;10h05;0
+138;2h00;H;4sPHY;OS 4 Physique;Charrière;Florian;[4GY1/3_PAM];225 (PHL);H;CG;N;1;lundi;10h05;0
+139.1;2h00;Q1;4sCHI;OS 4 Chimie;Beauverd;Luc;;230 (CHL);Q1;CG;N;1;lundi;10h05;0
+139.2;2h00;Q2;4sCHI;OS 4 Chimie;Beauverd;Luc;;230 (CHL);Q2;CG;N;1;lundi;10h05;0
+139.3;2h00;Q1;4sBIO-TP;4sBIO-TP;Galley;Yves;;118 (BIL);Q1;CG;N;1;lundi;10h05;0
+139.4;2h00;Q2;.;Pas de cours;Galley;Yves;;;Q2;CG;N;1;lundi;10h05;0
+140;2h30;H;GY;Education physique;Catillaz;Marco;1EC2;;H;CG;N;1;lundi;00h00;0
+141;2h30;H;GY;Education physique;Sauteur;Stéphane;1ECG2;;H;CG;N;1;lundi;00h00;0
+142;2h30;H;GY;Education physique;Sugnaux;Patrice;1GY04;;H;CG;N;1;lundi;00h00;0
+143;1h00;H;BIO;Biologie;Chardonnens;Florence;1GY03;128 (BIO);H;CG;N;1;lundi;10h55;0
+144;1h00;H;BIO;Biologie;Wannier;Thierry;1GY07;126 (BIL);H;CG;N;1;lundi;10h55;0
+145.1;1h00;Q1;CHI;Chimie;Braillard;Grégory;1ECG3;228 (CHI);Q;CG;N;1;lundi;10h55;0
+145.2;2h00;Q2;TPC;Chimie labo;Braillard;Grégory;1ECG3;218 (CHL);Q;CG;N;1;lundi;10h55;0
+145.3;1h00;Q1;.;Pas de cours;Braillard;Grégory;1ECG3;;Q;CG;N;1;lundi;11h45;0
+146;1h00;H;PHY;Physique;Savoy;Isabelle;2ECG2;217 (PHY);H;CG;N;1;lundi;10h55;0
+147;1h00;H;4sES;OS 4 Espagnol;Vieitez;Araceli;;307;H;CG;N;1;lundi;10h55;0
+148;1h00;H;4sES;OS 4 Espagnol;Rivas;Maria;;210;H;CG;N;1;lundi;10h55;0
+149;1h00;H;4sED;OS 4 Economie et droit;Girard;Raoul;;108;H;CG;N;1;lundi;10h55;0
+150;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG3;110;H;CG;N;1;lundi;10h55;0
+151;1h00;H;MA;Mathématiques;Scyboz;Jacques;1GY01;10;H;CG;N;1;lundi;10h55;0
+152.1;1h00;H;MA;Mathématiques;Clerc;Christine;2GY9;209;H;CG;N;1;lundi;10h55;0
+152.2;1h00;H;MA;Mathématiques;Clerc;Christine;2GY7;209;H;CG;N;1;lundi;11h45;0
+153.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[2GY3_MA+];203;H;CG;N;1;lundi;10h55;0
+153.2;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[2GY3/4_MAK];114;H;CG;N;1;lundi;10h55;0
+153.3;1h00;H;MAK;Mathematik;Scherer;Heike;[2GY4_MAK];115;H;CG;N;1;lundi;10h55;0
+154;1h00;H;HI;Histoire;Uldry;Jean-Maurice;3GY7;6;H;CG;N;1;lundi;10h55;0
+155;1h00;H;HI;Histoire;Grandjean;Sylvain;1ECG5;204;H;CG;N;1;lundi;10h55;0
+156;1h00;H;GEO;Géographie;Morin;Cédric;2GY7;117 (GEO);H;CG;N;1;lundi;10h55;0
+157;1h00;H;EP;Economie politique;Fragnière;Thomas;2EC1;205;H;CG;N;1;lundi;10h55;0
+158;1h00;H;GEO;Géographie;Rime;François;4MSPE;1;H;CG;N;1;lundi;10h55;0
+159;1h00;H;FR;Français;Rossier;Serge;2GY1;315;H;CG;N;1;lundi;10h55;0
+160;1h00;H;FR;Français;Python;Stéphanie;3GY3;208;H;CG;N;1;lundi;10h55;0
+161;2h00;H;FR;Français;Morard;Monique;3GY5;106;H;CG;N;1;lundi;10h55;0
+162;1h00;H;FR;Français;Bagnoud;François-Xavier;1ECG1;112;H;CG;N;1;lundi;10h55;0
+163.1;1h00;H;MA;Mathématiques;Aeby;Evelyne;3ECG5;308;H;CG;N;1;lundi;10h55;0
+163.2;1h00;H;MA;Mathématiques;Burckel;Alice;3ECG3;212;H;CG;N;1;lundi;10h55;0
+163.3;1h00;H;MA;Mathématiques;Donner;Cédric;3ECG1;213;H;CG;N;1;lundi;10h55;0
+163.4;1h00;H;MA;Mathématiques;Gremaud;Nicolas;3ECG2;111;H;CG;N;1;lundi;10h55;0
+163.5;1h00;H;MA;Mathématiques;Mattei;Stéphane;3ECG4;303;H;CG;N;1;lundi;10h55;0
+164.1;2h00;H;MU;Musique;Bochud;Marc;[2GY6/8_MU];125 (MUS);H;CG;N;1;lundi;11h45;0
+164.2;2h00;H;AV;Arts visuels;Despond;Pierre-André;[2GY6/8_AV];302 (ARV);H;CG;N;1;lundi;11h45;0
+164.3;2h00;H;AV;Arts visuels;Gex;Dominique;[2GY5/6_AV];301 (ARV);H;CG;N;1;lundi;11h45;0
+165;1h00;H;BIO;Biologie;Wannier;Thierry;3ECG1;116 (BIO);H;CG;N;1;lundi;11h45;0
+166;1h00;H;CHI;Chimie;Beauverd;Luc;2ECG1;228 (CHI);H;CG;N;1;lundi;11h45;0
+167.1;1h00;Q2;CHI;Chimie;Vienney-Legagneur;Vanessa;2ECG5;228 (CHI);Q;CG;N;1;lundi;12h35;0
+167.2;2h00;Q1;TPC;Chimie labo;Vienney-Legagneur;Vanessa;2ECG5;218 (CHL);Q;CG;N;1;lundi;11h45;0
+167.3;1h00;Q2;.;Pas de cours;Vienney-Legagneur;Vanessa;2ECG5;;Q;CG;N;1;lundi;11h45;0
+168.1;1h00;H;CHI;Chimie;Galley;Muriel;1ECG6;216 (CHI);H;CG;N;1;lundi;11h45;0
+168.2;1h00;H;CHI;Chimie;Galley;Muriel;1ECG1;216 (CHI);H;CG;N;1;lundi;12h35;0
+169;1h00;H;PHY;Physique;Savoy;Isabelle;3ECG3;215 (PHY);H;CG;N;1;lundi;11h45;0
+170.1;1h00;H;MAK+;Mathematik plus;Kohlprath;Emmanuel;[4GY3_MAK+];114;H;CG;N;1;lundi;11h45;0
+170.2;1h00;H;MAK;Mathematik;Scherer;Heike;[4GY3_MAK];115;H;CG;N;1;lundi;11h45;0
+171;1h00;H;AN;Anglais;Miller;Eric;1GY02;2;H;CG;N;1;lundi;11h45;0
+172;1h00;H;AN;Anglais;Vogt;Jacqueline;2GY2;104;H;CG;N;1;lundi;11h45;0
+173;1h00;H;AN;Anglais;Lauber;Josiane;4GY7;6;H;CG;N;1;lundi;11h45;0
+174;1h00;H;MA;Mathématiques;Scyboz;Jacques;3GY7;10;H;CG;N;1;lundi;11h45;0
+175;1h00;H;HI;Histoire;Fragnière;Pierre;4GY1;1;H;CG;N;1;lundi;11h45;0
+176;1h00;H;HI;Histoire;Chauvie;Pascal;3ECG2;111;H;CG;N;1;lundi;11h45;0
+177;1h00;H;HI;Histoire;Grandjean;Sylvain;1EC1;204;H;CG;N;1;lundi;11h45;0
+178;1h00;H;GEO;Géographie;Morin;Cédric;1GY09;117 (GEO);H;CG;N;1;lundi;11h45;0
+179;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;2EC1;123 (GEO/MUS);H;CG;N;1;lundi;11h45;0
+180;1h00;H;FR;Français;Roubaty;Jean-Benoît;1GY06;310;H;CG;N;1;lundi;11h45;0
+181;1h00;H;FR;Français;Bagnoud;François-Xavier;1GY03;112;H;CG;N;1;lundi;11h45;0
+182;1h00;H;PHK;Physik;Bergem;Patrick;4GY4;217 (PHY);H;CG;N;1;lundi;11h45;0
+183;1h00;H;COAL;Correspondance allemande;Armbruster;Michèle;2EC2;206;H;CG;N;1;lundi;11h45;0
+184;1h00;H;PC;Prof de classe;Gerber;Eva;1ECG4;107;H;CG;N;1;lundi;11h45;0
+185;1h00;H;PC;Prof de classe;Collomb;Jean-Paul;1GY08;303;H;CG;N;1;lundi;11h45;0
+186;1h00;H;HAR;Histoire de l'art;Zumwald;David;3ECG4;201 (ARV);H;CG;N;1;lundi;11h45;0
+187;1h00;H;3sED;OS 3 Economie et droit;Kolly;Anne-Claude;3GY6;113;H;CG;N;1;lundi;11h45;0
+188;1h00;H;BIO;Biologie;Chardonnens;Florence;4MSPE;128 (BIO);H;CG;N;1;lundi;11h45;0
+189.1;1h00;H;COFR;Correspondance française;Castella;Serge;3EC1;101 (INF);H;CG;N;1;lundi;11h45;0
+189.2;1h00;H;COFR;Correspondance française;Mauron;Charly;3EC2;102 (INF);H;CG;N;1;lundi;11h45;0
+190;2h00;H;MU;Musique;Emery;Marc-Antoine;1ECG4;123 (GEO/MUS);H;CG;N;1;lundi;12h35;0
+191;1h00;H;BIO;Biologie;Coquoz;Jean-Luc;1GY02;118 (BIL);H;CG;N;1;lundi;12h35;0
+192.1;1h00;H;AN;Anglais;Akin;Banu;[2GY4_AN];111;H;CG;N;1;lundi;12h35;0
+192.2;1h00;H;IT;Italien;Coowar-Ringenbach;Rhéa Esther;[2GY1/3/4/9_IT];6;H;CG;N;1;lundi;12h35;0
+192.3;1h00;H;AN;Anglais;Roehlk;Nadine;[2GY1/3_AN];110;H;CG;N;1;lundi;12h35;0
+192.4;1h00;H;LA;Latin;Sudan;Bruno;[2GY1/3/4_LA];109;H;CG;N;1;lundi;12h35;0
+192.5;1h00;H;AN;Anglais;Morard;Aurélie;[2GY9_AN];2;H;CG;N;1;lundi;12h35;0
+193.1;1h00;H;AN;Anglais;Herzog;Beat;[3GY1/3_AN];115;H;CG;N;1;lundi;12h35;0
+193.2;1h00;H;IT;Italien;Andreetta;Tibisay;[3GY1/2/3_IT];114;H;CG;N;1;lundi;12h35;0
+193.3;1h00;H;AN;Anglais;Nottage;Jeff;[3GY2_AN];212;H;CG;N;1;lundi;12h35;0
+193.4;1h00;H;LA;Latin;Caligiuri;Angelo;[3GY1/3_LA];112;H;CG;N;1;lundi;12h35;0
+194;1h00;H;AN;Anglais;Vogt;Jacqueline;3GY4;104;H;CG;N;1;lundi;12h35;0
+195.1;1h00;H;BUR;Bureautique;Donner;Cédric;1ECG5;101 (INF);H;CG;N;1;lundi;12h35;0
+195.2;1h00;H;BUR;Bureautique;Donner;Cédric;1ECG2;202 (INF);H;CG;N;1;lundi;13h25;0
+196;1h00;H;AL;Allemand;Brantschen;Karin;1GY05;205;H;CG;N;1;lundi;12h35;0
+197;1h00;H;AL;Allemand;Pollozek;Rose;1GY09;113;H;CG;N;1;lundi;12h35;0
+198.1;1h00;H;AL;Allemand;Grandjean;Michel;1GY10;314;H;CG;N;1;lundi;12h35;0
+198.2;1h00;H;AL;Allemand;Grandjean;Michel;1GY08;314;H;CG;N;1;lundi;13h25;0
+199;2h00;H;AL;Allemand;Piller;Angelo;2ECG4;321;H;CG;N;1;lundi;12h35;0
+200;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;1EC1;107;H;CG;N;1;lundi;12h35;0
+201;1h00;H;HI;Histoire;Collomb;Jean-Paul;1GY08;303;H;CG;N;1;lundi;12h35;0
+202;1h00;H;HI;Histoire;Fragnière;Pierre;3GY8;1;H;CG;N;1;lundi;12h35;0
+203;1h00;H;HI;Histoire;Allaman;Jérôme;4GY2;207;H;CG;N;1;lundi;12h35;0
+204;1h00;H;ECD;Economie et droit;Monney;Florent;1GY06;10;H;CG;N;1;lundi;12h35;0
+205;1h00;H;EE;Economie d'entreprise;Girard;Raoul;2EC2;103;H;CG;N;1;lundi;12h35;0
+206;1h00;H;SR;Science des religions;Möri;Frédéric;1GY07;105;H;CG;N;1;lundi;12h35;0
+207;1h00;H;PHI;Philosophie;Monay;Didier;4GY6;206;H;CG;N;1;lundi;12h35;0
+208;1h00;H;FR;Français;Roubaty;Jean-Benoît;1GY01;310;H;CG;N;1;lundi;12h35;0
+209;1h00;H;FR;Français;Gachet;Alexandre;2GY2;8;H;CG;N;1;lundi;12h35;0
+210;1h00;H;PHY;Physique;Piller;Christian;4GY5;217 (PHY);H;CG;N;1;lundi;12h35;0
+211;5h00;H;GY;Education physique;Sottas;Aurélien;3EC1;;H;CG;N;1;lundi;13h25;0
+212;5h00;H;GY;Education physique;Gillard;Sylvie;3ECG1;;H;CG;N;1;lundi;13h25;0
+213;5h00;H;GY;Education physique;Meyer;David;3ECG2;;H;CG;N;1;lundi;13h25;0
+214;5h00;H;GY;Education physique;Oberson;Jérôme;3ECG3;;H;CG;N;1;lundi;13h25;0
+215;5h00;H;GY;Education physique;Sugnaux;Patrice;3ECG4;;H;CG;N;1;lundi;13h25;0
+216;5h00;H;GY;Education physique;Baeriswyl;Valentin;3ECG5;;H;CG;N;1;lundi;13h25;0
+217;5h00;H;GY;Education physique;Gattoni;Lionel;3EC2;;H;CG;N;1;lundi;13h25;0
+218;5h00;H;GY;Education physique;Sauteur;Stéphane;4MSPE;;H;CG;N;1;lundi;13h25;0
+219;2h00;H;AV;Arts visuels;Ottiger;Vincent;2GY9;201 (ARV);H;CG;N;1;lundi;13h25;0
+220;2h00;H;3sAV;OS 3 Arts visuels;Gex;Dominique;;302 (ARV);H;CG;N;1;lundi;13h25;0
+221;2h00;H;3sMU;OS 3 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;lundi;13h25;0
+222.1;1h00;Q2;CHI;Chimie;Vienney-Legagneur;Vanessa;1GY07;228 (CHI);Q;CG;N;1;lundi;13h25;0
+222.2;2h00;Q1;TPC;Chimie labo;Vienney-Legagneur;Vanessa;1GY07;218 (CHL);Q;CG;N;1;lundi;13h25;0
+222.3;1h00;Q2;.;Pas de cours;Vienney-Legagneur;Vanessa;1GY07;;Q;CG;N;1;lundi;14h15;0
+223.1;1h00;Q1;CHI;Chimie;Braillard;Grégory;2ECG2;228 (CHI);Q;CG;N;1;lundi;14h15;0
+223.2;2h00;Q2;TPC;Chimie labo;Braillard;Grégory;2ECG2;218 (CHL);Q;CG;N;1;lundi;13h25;0
+223.3;1h00;Q1;.;Pas de cours;Braillard;Grégory;2ECG2;;Q;CG;N;1;lundi;13h25;0
+224.1;1h00;Q1;PHY;Physique;Bergem;Patrick;2GY7;217 (PHY);Q;CG;N;1;lundi;14h15;0
+224.2;2h00;Q2;PHL;Physique labo;Bergem;Patrick;2GY7;227 (PHL);Q;CG;N;1;lundi;13h25;0
+224.3;1h00;Q1;.;Pas de cours;Bergem;Patrick;2GY7;;Q;CG;N;1;lundi;13h25;0
+225;1h00;H;PHY;Physique;Mattei;Stéphane;2GY1;217 (PHY);H;CG;N;1;lundi;13h25;0
+226;1h00;H;PHY;Physique;Savoy;Isabelle;1ECG1;215 (PHY);H;CG;N;1;lundi;13h25;0
+227.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[4GY1_MA+];107;H;CG;N;1;lundi;13h25;0
+227.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;[4GY1_MA];307;H;CG;N;1;lundi;13h25;0
+228;1h00;H;3sGR;OS 3 Grec;Sudan;Bruno;;109;H;CG;N;1;lundi;13h25;0
+229;2h00;H;3sAN;OS 3 Anglais;Lauber;Josiane;;1;H;CG;N;1;lundi;13h25;0
+230;2h00;H;3sIT;OS 3 Italien;Coowar-Ringenbach;Rhéa Esther;;6;H;CG;N;1;lundi;13h25;0
+231;2h00;H;3sES;OS 3 Espagnol;Rivas;Maria;;210;H;CG;N;1;lundi;13h25;0
+232;2h00;H;3sES;OS 3 Espagnol;Vieitez;Araceli;;105;H;CG;N;1;lundi;13h25;0
+233;1h00;H;AN;Anglais;Roehlk;Nadine;1GY05;110;H;CG;N;1;lundi;13h25;0
+234;1h00;H;AN;Anglais;Akin;Banu;2GY8;111;H;CG;N;1;lundi;13h25;0
+235;1h00;H;AN;Anglais;Bays;Anne;1EC1;108;H;CG;N;1;lundi;13h25;0
+236;1h00;H;AN;Anglais;Miller;Eric;1EC2;103;H;CG;N;1;lundi;13h25;0
+237;1h00;H;INF;Informatique;Mauron, Simillion;Charly, Fabian;1GY10;102 (INF);H;CG;N;1;lundi;13h25;0
+238;2h00;H;BUR;Bureautique;Fidanza;Laurence;2ECG1;101 (INF);H;CG;N;1;lundi;13h25;0
+239;1h00;H;AL;Allemand;Herzog;Beat;1GY01;115;H;CG;N;1;lundi;13h25;0
+240;1h00;H;AL;Allemand;Schubert;Holger;4GY4;313;H;CG;N;1;lundi;13h25;0
+241;1h00;H;AL;Allemand;Brünisholz;Tina;1ECG3;2;H;CG;N;1;lundi;13h25;0
+242;1h00;H;MA;Mathématiques;Chatagny;Richard;4GY5;315;H;CG;N;1;lundi;13h25;0
+243;1h00;H;HI;Histoire;Allaman;Jérôme;1GY06;207;H;CG;N;1;lundi;13h25;0
+244;1h00;H;HI;Histoire;Rime;François;2ECG5;208;H;CG;N;1;lundi;13h25;0
+245;1h00;H;GEO;Géographie;Trezzini;Nicole;2GY2;117 (GEO);H;CG;N;1;lundi;13h25;0
+246;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY03;211;H;CG;N;1;lundi;13h25;0
+247;2h00;H;PHI;Philosophie;Mousson;Laurent;4GY2;10;H;CG;N;1;lundi;13h25;0
+248;1h00;H;AN;Anglais;Nottage;Jeff;1GY09;212;H;CG;N;1;lundi;13h25;0
+249;1h00;H;FR;Français;Castella;Serge;4GY6;204;H;CG;N;1;lundi;13h25;0
+250;1h00;H;FR;Français;Python;Stéphanie;4GY7;214;H;CG;N;1;lundi;13h25;0
+251;1h00;H;FR;Français;Collomb;Jean-Paul;1GY02;303;H;CG;N;1;lundi;13h25;0
+252;2h00;H;FR;Français;Albasini;Marie;1GY04;106;H;CG;N;1;lundi;13h25;0
+253;2h00;H;FR;Français;Roubaty;Jean-Benoît;4GY3;310;H;CG;N;1;lundi;13h25;0
+254;1h00;H;FR;Français;Repond;Micheline;2GY4;114;H;CG;N;1;lundi;13h25;0
+255;2h00;H;FR;Français;Morard;Monique;2GY3;320;H;CG;N;1;lundi;13h25;0
+256;1h00;H;FR;Français;Perroud;Corinne;1ECG6;304;H;CG;N;1;lundi;13h25;0
+257;1h00;H;FR;Français;Bagnoud;François-Xavier;1ECG5;112;H;CG;N;1;lundi;13h25;0
+258;1h00;H;FR;Français;Currat;Martine;2ECG3;104;H;CG;N;1;lundi;13h25;0
+259;1h00;H;PC;Prof de classe;Rossier;Serge;2EC1;209;H;CG;N;1;lundi;13h25;0
+260;1h00;H;PC;Prof de classe;Charrière;Florian;3GY6;213;H;CG;N;1;lundi;13h25;0
+261;2h00;H;3sED;OS 3 Economie et droit;Rime;Sylvie;;8;H;CG;N;1;lundi;13h25;0
+262;1h00;H;3sED;OS 3 Economie et droit;Kolly;Anne-Claude;;308;H;CG;N;1;lundi;13h25;0
+263;2h00;H;3sPHY;OS 3 Physique;Kohlprath;Emmanuel;[3GY1/3_PAM];225 (PHL);H;CG;N;1;lundi;13h25;0
+264;2h00;H;OS 3;OS 3;;;3GY5;;H;CG;N;1;lundi;13h25;0
+265;2h00;H;OS 3;OS 3;;;3GY8;;H;CG;N;1;lundi;13h25;0
+266;2h00;H;OS 3;OS 3;;;3GY2;;H;CG;N;1;lundi;13h25;0
+267;2h00;H;OS 3;OS 3;;;3GY4;;H;CG;N;1;lundi;13h25;0
+268;2h00;H;OS 3;OS 3;;;3GY7;;H;CG;N;1;lundi;13h25;0
+269;2h00;H;OS 3;OS 3;;;[3GY1_NPAM];;H;CG;N;1;lundi;13h25;0
+270;2h00;H;OS 3;OS 3;;;[3GY3_NPAM];;H;CG;N;1;lundi;13h25;0
+271.1;2h00;Q1;3sBIO;OS 3 Biologie;Coquoz;Jean-Luc;;118 (BIL);Q1;CG;N;1;lundi;13h25;0
+271.2;2h00;Q1;3sCHI;OS 3 Chimie;Marion-Veyron;Emmanuel;;230 (CHL);Q1;CG;N;1;lundi;13h25;0
+271.3;2h00;Q2;3sBIO;OS 3 Biologie;Coquoz;Jean-Luc;;118 (BIL);Q2;CG;N;1;lundi;13h25;0
+271.4;2h00;Q2;3sCHI;OS 3 Chimie;Marion-Veyron;Emmanuel;;230 (CHL);Q2;CG;N;1;lundi;13h25;0
+272;1h00;H;PHY;Physique;Charrière;Florian;2GY8;215 (PHY);H;CG;N;1;lundi;14h15;0
+273;1h00;H;3sGR;OS 3 Grec;Sudan;Bruno;;109;H;CG;N;1;lundi;14h15;0
+274;1h00;H;AN;Anglais;Herzog;Beat;1GY03;115;H;CG;N;1;lundi;14h15;0
+275;1h00;H;AN;Anglais;Vogt;Jacqueline;1GY08;203;H;CG;N;1;lundi;14h15;0
+276.1;1h00;H;AN;Anglais;Nottage;Jeff;4GY6;212;H;CG;N;1;lundi;14h15;0
+276.2;1h00;H;AN;Anglais;Nottage;Jeff;4GY2;212;H;CG;N;1;lundi;15h05;0
+277;1h00;H;AN;Anglais;Morard;Aurélie;1ECG3;108;H;CG;N;1;lundi;14h15;0
+278;1h00;H;AN;Anglais;Miller;Eric;2EC2;103;H;CG;N;1;lundi;14h15;0
+279;1h00;H;AL;Allemand;Brünisholz;Tina;1GY06;2;H;CG;N;1;lundi;14h15;0
+280;1h00;H;AL;Allemand;Piller;Angelo;4GY7;321;H;CG;N;1;lundi;14h15;0
+281;1h00;H;AL;Allemand;Brülhart;Karin;1EC2;107;H;CG;N;1;lundi;14h15;0
+282.1;1h00;H;MA;Mathématiques;Chatagny;Richard;2ECG5;315;H;CG;N;1;lundi;14h15;0
+282.2;1h00;H;MA;Mathématiques;Chatagny;Richard;2ECG1;315;H;CG;N;1;lundi;15h05;0
+282.3;1h00;H;MA;Mathématiques;Mattei;Stéphane;2ECG2;213;H;CG;N;1;lundi;15h05;0
+282.4;1h00;H;MA;Mathématiques;Donner;Cédric;2ECG4;316;H;CG;N;1;lundi;14h15;0
+282.5;1h00;H;MA;Mathématiques;Mattei;Stéphane;2ECG3;213;H;CG;N;1;lundi;14h15;0
+283;1h00;H;FR;Français;Castella;Serge;4GY1;204;H;CG;N;1;lundi;14h15;0
+284;1h00;H;MA;Mathématiques;Scyboz;Jacques;1EC1;307;H;CG;N;1;lundi;14h15;0
+285;1h00;H;HI;Histoire;Fragnière;Pierre;2GY6;111;H;CG;N;1;lundi;14h15;0
+286;1h00;H;HI;Histoire;Allaman;Jérôme;4GY5;207;H;CG;N;1;lundi;14h15;0
+287;1h00;H;HI;Histoire;Grandjean;Sylvain;1ECG2;206;H;CG;N;1;lundi;14h15;0
+288;1h00;H;HI;Histoire;Rossier;Serge;2EC1;209;H;CG;N;1;lundi;14h15;0
+289;1h00;H;GEO;Géographie;Trezzini;Nicole;1GY05;117 (GEO);H;CG;N;1;lundi;14h15;0
+290;1h00;H;GEO;Géographie;Rime;François;2GY1;123 (GEO/MUS);H;CG;N;1;lundi;14h15;0
+291;1h00;H;ECD;Economie et droit;Girard;Raoul;1GY01;214;H;CG;N;1;lundi;14h15;0
+292;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY02;211;H;CG;N;1;lundi;14h15;0
+293;2h00;H;PHI;Philosophie;Monay;Didier;4GY4;208;H;CG;N;1;lundi;14h15;0
+294;2h00;H;FR;Français;Bagnoud;François-Xavier;1GY10;112;H;CG;N;1;lundi;14h15;0
+295;1h00;H;FR;Français;Currat;Martine;2GY5;104;H;CG;N;1;lundi;14h15;0
+296;1h00;H;FR;Français;Zumwald;David;3GY6;303;H;CG;N;1;lundi;14h15;0
+297;1h00;H;FR;Français;Perroud;Corinne;1ECG4;304;H;CG;N;1;lundi;14h15;0
+298;1h00;H;PC;Prof de classe;Repond;Micheline;2GY4;114;H;CG;N;1;lundi;14h15;0
+299;1h00;H;3sLAA;OS 3 Latin avancés;Pernet;Christian;;205;H;CG;N;1;lundi;14h15;0
+300;1h00;H;3sED;OS 3 Economie et droit;Kolly;Anne-Claude;;308;H;CG;N;1;lundi;14h15;0
+301.1;1h00;H;AL;Allemand;Gerber;Eva;1ECG4;314;H;CG;N;1;lundi;15h05;0
+301.2;1h00;H;AL;Allemand;Pollozek;Rose;1ECG1;110;H;CG;N;1;lundi;14h15;0
+301.3;1h00;H;AL;Allemand;Schubert;Holger;1ECG5;313;H;CG;N;1;lundi;14h15;0
+301.4;1h00;H;AL;Allemand;Gerber;Eva;1ECG6;314;H;CG;N;1;lundi;14h15;0
+302;2h00;H;2sAV;OS 2 Arts visuels;Savary;Daniel;;301 (ARV);H;CG;N;1;lundi;15h05;0
+303;2h00;H;2sAV;OS 2 Arts visuels;Ottiger;Vincent;;201 (ARV);H;CG;N;1;lundi;15h05;0
+304;2h00;H;2sMU;OS 2 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;lundi;15h05;0
+305;1h00;H;BIO;Biologie;Galley;Yves;2GY7;128 (BIO);H;CG;N;1;lundi;15h05;0
+306;1h00;H;BIO;Biologie;Chardonnens;Florence;1ECG2;116 (BIO);H;CG;N;1;lundi;15h05;0
+307;1h00;H;BIO;Biologie;Coquoz;Jean-Luc;1ECG3;118 (BIL);H;CG;N;1;lundi;15h05;0
+308;1h00;H;CHI;Chimie;Braillard;Grégory;1ECG5;228 (CHI);H;CG;N;1;lundi;15h05;0
+309.1;1h00;Q1;PHY;Physique;Charrière;Florian;3GY7;215 (PHY);Q;CG;N;1;lundi;15h05;0
+309.2;2h00;Q2;PHL;Physique labo;Charrière;Florian;3GY7;227 (PHL);Q;CG;N;1;lundi;15h05;0
+309.3;1h00;Q1;.;Pas de cours;Charrière;Florian;3GY7;;Q;CG;N;1;lundi;15h55;0
+310.1;1h00;Q2;PHY;Physique;Savoy;Isabelle;2ECG3;217 (PHY);Q;CG;N;1;lundi;15h05;0
+310.2;2h00;Q1;PHL;Physique labo;Savoy;Isabelle;2ECG3;227 (PHL);Q;CG;N;1;lundi;15h05;0
+310.3;1h00;Q2;.;Pas de cours;Savoy;Isabelle;2ECG3;;Q;CG;N;1;lundi;15h55;0
+311.1;1h00;H;AN;Anglais;Lauber;Josiane;[4GY1/3_AN];1;H;CG;N;1;lundi;15h05;0
+311.2;1h00;H;IT;Italien;Andreetta;Tibisay;[4GY1/3_IT];108;H;CG;N;1;lundi;15h05;0
+311.3;1h00;H;LA;Latin;Sudan;Bruno;[4GY1/3_LA];109;H;CG;N;1;lundi;15h05;0
+312;1h00;H;2sGR;OS 2 Grec;Caligiuri;Angelo;;205;H;CG;N;1;lundi;15h05;0
+313;2h00;H;2sAN;OS 2 Anglais;Akin;Banu;;106;H;CG;N;1;lundi;15h05;0
+314;2h00;H;2sIT;OS 2 Italien;Coowar-Ringenbach;Rhéa Esther;;6;H;CG;N;1;lundi;15h05;0
+315;1h00;H;2sES;OS 2 Espagnol;Rivas;Maria;;210;H;CG;N;1;lundi;15h05;0
+316;1h00;H;2sED;OS 2 Economie et droit;Kolly;Anne-Claude;;308;H;CG;N;1;lundi;15h05;0
+317;1h00;H;2sED;OS 2 Economie et droit;Rime;Sylvie;;8;H;CG;N;1;lundi;15h05;0
+318;1h00;H;AN;Anglais;Miller;Eric;1GY01;103;H;CG;N;1;lundi;15h05;0
+319;2h00;H;AN;Anglais;Herzog;Beat;3GY8;115;H;CG;N;1;lundi;15h05;0
+320;1h00;H;AN;Anglais;Bays;Anne;1ECG1;214;H;CG;N;1;lundi;15h05;0
+321.1;1h00;H;BUR;Bureautique;Pernet;Christian;2EC2;101 (INF);H;CG;N;1;lundi;15h05;0
+321.2;1h00;H;INF;Informatique;Pernet;Christian;2EC2;101 (INF);H;CG;N;1;lundi;15h55;0
+321.3;1h00;H;BUR;Bureautique;Simillion;Fabian;2EC1;102 (INF);H;CG;N;1;lundi;15h05;0
+321.4;1h00;H;INF;Informatique;Simillion;Fabian;2EC1;102 (INF);H;CG;N;1;lundi;15h55;0
+322;1h00;H;AL;Allemand;Pollozek;Rose;1GY04;110;H;CG;N;1;lundi;15h05;0
+323;1h00;H;MA;Mathématiques;Gremaud;Nicolas;4GY6;2;H;CG;N;1;lundi;15h05;0
+324;1h00;H;GESC;Geschichte;Brülhart;Karin;3GY3;107;H;CG;N;1;lundi;15h05;0
+325.1;1h00;H;HI;Histoire;Fragnière;Pierre;[3GY5_NBIL];111;H;CG;N;1;lundi;15h05;0
+325.2;1h00;H;GESC;Geschichte;Schubert;Holger;[3GY5_BIL];313;H;CG;N;1;lundi;15h05;0
+326;1h00;H;HI;Histoire;Allaman;Jérôme;4GY7;207;H;CG;N;1;lundi;15h05;0
+327;1h00;H;HI;Histoire;Grandjean;Sylvain;1EC2;206;H;CG;N;1;lundi;15h05;0
+328;1h00;H;GEO;Géographie;Trezzini;Nicole;1GY03;117 (GEO);H;CG;N;1;lundi;15h05;0
+329;2h00;H;PHI;Philosophie;Mousson;Laurent;3GY6;10;H;CG;N;1;lundi;15h05;0
+330;1h00;H;PSY;Psychologie;Vieitez;Araceli;2ECG5;105;H;CG;N;1;lundi;15h05;0
+331;1h00;H;FR;Français;Repond;Micheline;4GY5;114;H;CG;N;1;lundi;15h05;0
+332;1h00;H;FR;Français;Gachet;Alexandre;3GY1;113;H;CG;N;1;lundi;15h05;0
+333;1h00;H;FR;Français;Castella;Serge;3GY2;204;H;CG;N;1;lundi;15h05;0
+334;1h00;H;FR;Français;Currat;Martine;2ECG4;104;H;CG;N;1;lundi;15h05;0
+335;1h00;H;PC;Prof de classe;Piccand;Trudi;1GY02;211;H;CG;N;1;lundi;15h05;0
+336;2h00;H;2sPHY;OS 2 Physique;Bergem;Patrick;[2GY2/3_PAM];225 (PHL);H;CG;N;1;lundi;15h05;0
+337;2h00;H;OS 2;OS 2;;;[2GY1_NBIC];;H;CG;N;1;lundi;15h05;0
+338;2h00;H;OS 2;OS 2;;;2GY4;;H;CG;N;1;lundi;15h05;0
+339;2h00;H;OS 2;OS 2;;;2GY5;;H;CG;N;1;lundi;15h05;0
+340;2h00;H;OS 2;OS 2;;;2GY6;;H;CG;N;1;lundi;15h05;0
+341;2h00;H;OS 2;OS 2;;;2GY9;;H;CG;N;1;lundi;15h05;0
+342;2h00;H;OS 2;OS 2;;;[2GY3_NBIC-NPAM];;H;CG;N;1;lundi;15h05;0
+343;2h00;H;OS 2;OS 2;;;[2GY2_NBIC-NPAM];;H;CG;N;1;lundi;15h05;0
+344.1;2h00;Q1;2sBIO;OS 2 Biologie;Wannier;Thierry;[2GY3_BIC];126 (BIL);Q;CG;N;1;lundi;15h05;0
+344.2;1h00;Q2;2sBIO;OS 2 Biologie;Wannier;Thierry;[2GY3_BIC];128 (BIO);Q;CG;N;1;lundi;15h55;0
+344.3;1h00;Q2;.;Pas de cours;Wannier;Thierry;[2GY3_BIC];;Q;CG;N;1;lundi;15h05;0
+345.1;2h00;Q1;2sCHI;OS 2 Chimie;Beauverd;Luc;[2GY1/2_BIC];218 (CHL);Q1;CG;N;1;lundi;15h05;0
+345.2;2h00;Q2;2sCHI;OS 2 Chimie;Beauverd;Luc;[2GY1/2_BIC];218 (CHL);Q2;CG;N;1;lundi;15h05;0
+346;1h00;H;AN;Anglais;Lauber;Josiane;[4GY1/3_AN];1;H;CG;N;1;lundi;15h55;0
+347;1h00;H;2sES;OS 2 Espagnol;Rivas;Maria;;210;H;CG;N;1;lundi;15h55;0
+348;1h00;H;2sED;OS 2 Economie et droit;Rime;Sylvie;;8;H;CG;N;1;lundi;15h55;0
+349;1h00;H;HI;Histoire;Gachet;Alexandre;1ECG3;113;H;CG;N;1;lundi;15h55;0
+350;1h00;H;GEO;Géographie;Trezzini;Nicole;2ECG4;117 (GEO);H;CG;N;1;lundi;15h55;0
+351;1h00;H;ANA;Anatomie;Chardonnens;Florence;2ECG2;116 (BIO);H;CG;N;1;lundi;15h55;0
+352;1h00;H;PC;Prof de classe;Grandjean;Sylvain;1ECG1;206;H;CG;N;1;lundi;15h55;0
+353;1h00;H;PC;Prof de classe;Schubert;Holger;1ECG5;313;H;CG;N;1;lundi;15h55;0
+354;2h00;H;BE;Basic English;Miller;Eric;[3GY_BE];103;H;CG;N;1;lundi;15h55;0
+355;2h30;H;GY;Education physique;Sugnaux;Patrice;1ECG3;;H;CG;N;1;mardi;08h10;0
+356;2h30;H;GY;Education physique;Oberson;Jérôme;1GY09;;H;CG;N;1;mardi;08h10;0
+357;2h30;H;GY;Education physique;Molleyres;Isabelle;1GY10;;H;CG;N;1;mardi;08h10;0
+358.1;2h00;H;MU;Musique;Bochud;Marc;[2GY3/4_MU];125 (MUS);H;CG;N;1;mardi;08h10;0
+358.2;2h00;H;AV;Arts visuels;Despond;Pierre-André;[2GY4_AV];302 (ARV);H;CG;N;1;mardi;08h10;0
+358.3;2h00;H;AV;Arts visuels;Savary;Daniel;[2GY3_AV];301 (ARV);H;CG;N;1;mardi;08h10;0
+359;1h00;H;BIO;Biologie;Künzli;Esther;1GY08;128 (BIO);H;CG;N;1;mardi;08h10;0
+360.1;1h00;Q2;BIO;Biologie;Wannier;Thierry;2GY1;128 (BIO);Q;CG;N;1;mardi;09h00;0
+360.2;2h00;Q1;TPB;Biologie labo;Wannier;Thierry;2GY1;118 (BIL);Q;CG;N;1;mardi;08h10;0
+360.3;1h00;Q2;.;Pas de cours;Wannier;Thierry;2GY1;;Q;CG;N;1;mardi;08h10;0
+361.1;1h00;Q1;BIO;Biologie;Chardonnens;Florence;2ECG2;128 (BIO);Q;CG;N;1;mardi;09h00;0
+361.2;2h00;Q2;TPB;Biologie labo;Chardonnens;Florence;2ECG2;118 (BIL);Q;CG;N;1;mardi;08h10;0
+361.3;1h00;Q1;.;Pas de cours;Chardonnens;Florence;2ECG2;;Q;CG;N;1;mardi;08h10;0
+362.1;1h00;Q1;CHI;Chimie;Scanu;David;1GY06;228 (CHI);Q;CG;N;1;mardi;09h00;0
+362.2;2h00;Q2;TPC;Chimie labo;Scanu;David;1GY06;218 (CHL);Q;CG;N;1;mardi;08h10;0
+362.3;1h00;Q1;.;Pas de cours;Scanu;David;1GY06;;Q;CG;N;1;mardi;08h10;0
+363.1;1h00;Q2;CHI;Chimie;Beauverd;Luc;2ECG1;228 (CHI);Q;CG;N;1;mardi;09h00;0
+363.2;2h00;Q1;TPC;Chimie labo;Beauverd;Luc;2ECG1;218 (CHL);Q;CG;N;1;mardi;08h10;0
+363.3;1h00;Q2;.;Pas de cours;Beauverd;Luc;2ECG1;;Q;CG;N;1;mardi;08h10;0
+364.1;1h00;Q1;PHY;Physique;Bergem;Patrick;2GY5;217 (PHY);Q;CG;N;1;mardi;09h00;0
+364.2;2h00;Q2;PHL;Physique labo;Bergem;Patrick;2GY5;225 (PHL);Q;CG;N;1;mardi;08h10;0
+364.3;1h00;Q1;.;Pas de cours;Bergem;Patrick;2GY5;;Q;CG;N;1;mardi;08h10;0
+365;1h00;H;PHY;Physique;Mattei;Stéphane;2GY9;215 (PHY);H;CG;N;1;mardi;08h10;0
+366.1;1h00;Q2;PHY;Physique;Charrière;Florian;1ECG6;217 (PHY);Q;CG;N;1;mardi;09h00;0
+366.2;2h00;Q1;PHL;Physique labo;Charrière;Florian;1ECG6;225 (PHL);Q;CG;N;1;mardi;08h10;0
+366.3;1h00;Q2;.;Pas de cours;Charrière;Florian;1ECG6;;Q;CG;N;1;mardi;08h10;0
+367.1;1h00;H;AN;Anglais;Herzog;Beat;[3GY1/3_AN];105;H;CG;N;1;mardi;08h10;0
+367.2;1h00;H;IT;Italien;Andreetta;Tibisay;[3GY1/2/3_IT];103;H;CG;N;1;mardi;08h10;0
+367.3;1h00;H;AN;Anglais;Nottage;Jeff;[3GY2_AN];214;H;CG;N;1;mardi;08h10;0
+367.4;1h00;H;LA;Latin;Caligiuri;Angelo;[3GY1/3_LA];109;H;CG;N;1;mardi;08h10;0
+368;1h00;H;GR;Grec;Sudan;Bruno;[1GY1/2_GR];113;H;CG;N;1;mardi;08h10;0
+369;1h00;H;AN;Anglais;Roehlk;Nadine;2GY7;107;H;CG;N;1;mardi;08h10;0
+370;1h00;H;AN;Anglais;Vogler;Nicole;1ECG5;108;H;CG;N;1;mardi;08h10;0
+371;1h00;H;AN;Anglais;Miller;Eric;1EC2;10;H;CG;N;1;mardi;08h10;0
+372;1h00;H;BUR;Bureautique;Fidanza;Laurence;2ECG4;101 (INF);H;CG;N;1;mardi;08h10;0
+373;2h00;H;AL;Allemand;Piller;Angelo;1GY03;320;H;CG;N;1;mardi;08h10;0
+374;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG5;111;H;CG;N;1;mardi;08h10;0
+375;1h00;H;MA;Mathématiques;Monferini;Catherine;1GY07;110;H;CG;N;1;mardi;08h10;0
+376;1h00;H;MA;Mathématiques;Galley;Muriel;1GY05;208;H;CG;N;1;mardi;08h10;0
+377;1h00;H;MA;Mathématiques;Scyboz;Jacques;3GY7;114;H;CG;N;1;mardi;08h10;0
+378;1h00;H;MAK;Mathematik;Scherer;Heike;3GY4;115;H;CG;N;1;mardi;08h10;0
+379;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG2;213;H;CG;N;1;mardi;08h10;0
+380;1h00;H;FR;Français;Castella;Serge;4GY1;204;H;CG;N;1;mardi;08h10;0
+381;1h00;H;FR;Français;Lüthi;Sylvie;4GY2;322;H;CG;N;1;mardi;08h10;0
+382.1;1h00;H;HI;Histoire;Fragnière;Pierre;[3GY5_NBIL];2;H;CG;N;1;mardi;08h10;0
+382.2;1h00;H;GESC;Geschichte;Schubert;Holger;[3GY5_BIL];207;H;CG;N;1;mardi;08h10;0
+383;1h00;H;HI;Histoire;Allaman;Jérôme;4GY7;104;H;CG;N;1;mardi;08h10;0
+384;1h00;H;GEO;Géographie;Gillard;Sylvie;2GY6;117 (GEO);H;CG;N;1;mardi;08h10;0
+385;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;2EC2;123 (GEO/MUS);H;CG;N;1;mardi;08h10;0
+386;1h00;H;FICO;Gestion financière (FICO);Fragnière;Thomas;3EC2;209;H;CG;N;1;mardi;08h10;0
+387;1h00;H;DR;Droit;Rime;Sylvie;2EC1;315;H;CG;N;1;mardi;08h10;0
+388;2h00;H;PHI;Philosophie;Becquart;Philippe;4GY5;6;H;CG;N;1;mardi;08h10;0
+389;1h00;H;ECD;Economie et droit;Monney;Florent;3ECG5;112;H;CG;N;1;mardi;08h10;0
+390;2h00;H;ANA;Anatomie;Conus;Sébastien;3ECG2;126 (BIL);H;CG;N;1;mardi;08h10;0
+391;1h00;H;SOC;Sociologie;Vieitez;Araceli;3ECG1;212;H;CG;N;1;mardi;08h10;0
+392;1h00;H;PSY;Psychologie;Gremion;François;3ECG4;319;H;CG;N;1;mardi;08h10;0
+393;1h00;H;FR;Français;Roubaty;Jean-Benoît;4GY3;8;H;CG;N;1;mardi;08h10;0
+394;2h00;H;FR;Français;Gachet;Alexandre;2GY2;211;H;CG;N;1;mardi;08h10;0
+395;1h00;H;FR;Français;Chauvie;Pascal;3ECG3;1;H;CG;N;1;mardi;08h10;0
+396.1;1h00;H;FR;Français;Lepourtois;Annaïk;1EC1;309;H;CG;N;1;mardi;08h10;0
+396.2;1h00;H;FR;Français;Lepourtois;Annaïk;1EC2;309;H;CG;N;1;mardi;09h00;0
+397;2h00;H;FR;Français;Pasquier;Claire-Lyse;4MSPE;303;H;CG;N;1;mardi;08h10;0
+398;1h00;H;PC;Prof de classe;Piccand;Trudi;1GY04;304;H;CG;N;1;mardi;08h10;0
+399;1h00;H;PC;Prof de classe;Brülhart;Karin;3GY8;307;H;CG;N;1;mardi;08h10;0
+400;2h00;H;3sED;OS 3 Economie et droit;Kolly;Anne-Claude;3GY6;314;H;CG;N;1;mardi;08h10;0
+401;1h00;H;2sES;OS 2 Espagnol;Rivas;Maria;2GY8;210;H;CG;N;1;mardi;08h10;0
+402;1h00;H;PHY;Physique;Burckel;Alice;4GY6;217 (PHY);H;CG;N;1;mardi;08h10;0
+403;1h00;H;METH;Méthologie 2e ECG;Charrière;Stéphanie;2ECG3;102 (INF);H;CG;N;1;mardi;08h10;0
+404;1h00;H;Réserve;Réserve;Armbruster;Michèle;;310;H;CG;N;1;mardi;08h10;0
+405.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[4GY1_MA+];205;H;CG;N;1;mardi;09h00;0
+405.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;[4GY1_MA];114;H;CG;N;1;mardi;09h00;0
+406;1h00;H;LA;Latin;Aeby;Evelyne;[1GY2_LA];214;H;CG;N;1;mardi;09h00;0
+407;1h00;H;3sGR;OS 3 Grec;Sudan;Bruno;;109;H;CG;N;1;mardi;09h00;0
+408;1h00;H;3sAN;OS 3 Anglais;Lauber;Josiane;;203;H;CG;N;1;mardi;09h00;0
+409;1h00;H;3sIT;OS 3 Italien;Coowar-Ringenbach;Rhéa Esther;;103;H;CG;N;1;mardi;09h00;0
+410;1h00;H;3sES;OS 3 Espagnol;Rivas;Maria;;210;H;CG;N;1;mardi;09h00;0
+411;1h00;H;3sES;OS 3 Espagnol;Vieitez;Araceli;;212;H;CG;N;1;mardi;09h00;0
+412;1h00;H;AN;Anglais;Miller;Eric;1GY01;10;H;CG;N;1;mardi;09h00;0
+413.1;1h00;H;AN;Anglais;Grandjean;Michel;1GY07;316;H;CG;N;1;mardi;09h00;0
+413.2;1h00;H;AN;Anglais;Grandjean;Michel;1GY06;316;H;CG;N;1;mardi;10h05;0
+414;1h00;H;AN;Anglais;Roehlk;Nadine;1GY05;107;H;CG;N;1;mardi;09h00;0
+415;1h00;H;AN;Anglais;Vogler;Nicole;1ECG4;108;H;CG;N;1;mardi;09h00;0
+416;1h00;H;AN;Anglais;Borloz;Isabelle;3ECG4;111;H;CG;N;1;mardi;09h00;0
+417;1h00;H;BUR;Bureautique;Fidanza;Laurence;1EC1;101 (INF);H;CG;N;1;mardi;09h00;0
+418;1h00;H;AL;Allemand;Pollozek;Rose;2GY6;206;H;CG;N;1;mardi;09h00;0
+419;1h00;H;AL;Allemand;Armbruster;Michèle;2GY7;310;H;CG;N;1;mardi;09h00;0
+420;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY2;313;H;CG;N;1;mardi;09h00;0
+421;1h00;H;AL;Allemand;Meyer;Urs;4GY3;204;H;CG;N;1;mardi;09h00;0
+422;1h00;H;AL;Allemand;Schubert;Holger;1ECG5;207;H;CG;N;1;mardi;09h00;0
+423;1h00;H;MA;Mathématiques;Gremaud;Nicolas;4GY6;321;H;CG;N;1;mardi;09h00;0
+424;1h00;H;MA;Mathématiques;Mattei;Stéphane;2ECG3;115;H;CG;N;1;mardi;09h00;0
+425;1h00;H;MA;Mathématiques;Burckel;Alice;3ECG3;213;H;CG;N;1;mardi;09h00;0
+426;1h00;H;MA;Mathématiques;Galley;Muriel;2EC1;208;H;CG;N;1;mardi;09h00;0
+427;1h00;H;HI;Histoire;Fragnière;Pierre;2GY9;2;H;CG;N;1;mardi;09h00;0
+428;1h00;H;AN;Anglais;Uldry;Jean-Maurice;3ECG1;110;H;CG;N;1;mardi;09h00;0
+429;1h00;H;HI;Histoire;Rime;François;2ECG5;105;H;CG;N;1;mardi;09h00;0
+430;1h00;H;GEO;Géographie;Morin;Cédric;1GY08;117 (GEO);H;CG;N;1;mardi;09h00;0
+431;1h00;H;GEO;Géographie;Gillard;Sylvie;2GY8;123 (GEO/MUS);H;CG;N;1;mardi;09h00;0
+432;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY04;304;H;CG;N;1;mardi;09h00;0
+433;1h00;H;EE;Economie d'entreprise;Girard;Raoul;2EC2;106;H;CG;N;1;mardi;09h00;0
+434;1h00;H;DR;Droit;Fragnière;Thomas;3EC2;209;H;CG;N;1;mardi;09h00;0
+435;1h00;H;PHE;Philosophie / étique;Meyer;Pierre-Yves;3EC1;1;H;CG;N;1;mardi;09h00;0
+436;1h00;H;SOC;Sociologie;Gremion;François;2ECG4;319;H;CG;N;1;mardi;09h00;0
+437;1h00;H;PSY;Psychologie;Charrière;Stéphanie;3ECG5;308;H;CG;N;1;mardi;09h00;0
+438;1h00;H;FR;Français;Lüthi;Sylvie;4GY4;322;H;CG;N;1;mardi;09h00;0
+439;1h00;H;FR;Français;Python;Stéphanie;4GY7;104;H;CG;N;1;mardi;09h00;0
+440;1h00;H;FR;Français;Bagnoud;François-Xavier;1ECG1;112;H;CG;N;1;mardi;09h00;0
+441;1h00;H;FR;Français;Roubaty;Jean-Benoît;1ECG2;8;H;CG;N;1;mardi;09h00;0
+442;1h00;H;3sLAA;OS 3 Latin avancés;Pernet;Christian;;113;H;CG;N;1;mardi;09h00;0
+443;1h00;H;3sED;OS 3 Economie et droit;Rime;Sylvie;;315;H;CG;N;1;mardi;09h00;0
+444;1h00;H;3sPHY;OS 3 Physique;Kohlprath;Emmanuel;[3GY1/3_PAM];227 (PHL);H;CG;N;1;mardi;09h00;0
+445;1h00;H;OS 3;OS 3;;;3GY2;;H;CG;N;1;mardi;09h00;0
+446;1h00;H;OS 3;OS 3;;;3GY4;;H;CG;N;1;mardi;09h00;0
+447;1h00;H;OS 3;OS 3;;;3GY5;;H;CG;N;1;mardi;09h00;0
+448;1h00;H;OS 3;OS 3;;;3GY7;;H;CG;N;1;mardi;09h00;0
+449;1h00;H;OS 3;OS 3;;;3GY8;;H;CG;N;1;mardi;09h00;0
+450;1h00;H;OS 3;OS 3;;;[3GY1_NPAM];;H;CG;N;1;mardi;09h00;0
+451;1h00;H;OS 3;OS 3;;;[3GY3_NPAM];;H;CG;N;1;mardi;09h00;0
+452;1h00;H;3sCHI;OS 3 Chimie;Marion-Veyron;Emmanuel;;216 (CHI);H;CG;N;1;mardi;09h00;0
+453.1;2h00;H;MU;Musique;Bochud;Marc;[1EC1_MU];125 (MUS);H;CG;N;1;mardi;10h05;0
+453.2;2h00;H;AV;Arts visuels;Despond;Pierre-André;[1EC1_AV];302 (ARV);H;CG;N;1;mardi;10h05;0
+454.1;1h00;Q2;BIO;Biologie;Wannier;Thierry;1GY07;126 (BIL);Q;CG;N;1;mardi;10h05;0
+454.2;2h00;Q1;TPB;Biologie labo;Wannier;Thierry;1GY07;118 (BIL);Q;CG;N;1;mardi;10h05;0
+454.3;1h00;Q2;.;Pas de cours;Wannier;Thierry;1GY07;;Q;CG;N;1;mardi;10h55;0
+455.1;1h00;Q1;BIO;Biologie;Sudan;Mélanie;3ECG2;126 (BIL);Q;CG;N;1;mardi;10h05;0
+455.2;2h00;Q2;TPB;Biologie labo;Sudan;Mélanie;3ECG2;118 (BIL);Q;CG;N;1;mardi;10h05;0
+455.3;1h00;Q1;.;Pas de cours;Sudan;Mélanie;3ECG2;;Q;CG;N;1;mardi;10h55;0
+456;1h00;H;CHI;Chimie;Marion-Veyron;Emmanuel;3ECG1;228 (CHI);H;CG;N;1;mardi;10h05;0
+457.1;1h00;Q2;PHY;Physique;Savoy;Isabelle;1ECG2;217 (PHY);Q;CG;N;1;mardi;10h05;0
+457.2;2h00;Q1;PHL;Physique labo;Savoy;Isabelle;1ECG2;227 (PHL);Q;CG;N;1;mardi;10h05;0
+457.3;1h00;Q2;.;Pas de cours;Savoy;Isabelle;1ECG2;;Q;CG;N;1;mardi;10h55;0
+458.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[3GY1_MA+];205;H;CG;N;1;mardi;10h05;0
+458.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;[3GY1_MA];114;H;CG;N;1;mardi;10h05;0
+459.1;1h00;H;IT;Italien;Coowar-Ringenbach;Rhéa Esther;[2GY1/3/4/9_IT];103;H;CG;N;1;mardi;10h05;0
+459.2;1h00;H;LA;Latin;Sudan;Bruno;[2GY1/3/4_LA];109;H;CG;N;1;mardi;10h05;0
+460;1h00;H;4sIT;OS 4 Italien;Andreetta;Tibisay;;104;H;CG;N;1;mardi;10h05;0
+461;1h00;H;4sES;OS 4 Espagnol;Vieitez;Araceli;;212;H;CG;N;1;mardi;10h05;0
+462;1h00;H;4sED;OS 4 Economie et droit;Girard;Raoul;;106;H;CG;N;1;mardi;10h05;0
+463;1h00;H;AN;Anglais;Roehlk;Nadine;1GY04;107;H;CG;N;1;mardi;10h05;0
+464;1h00;H;AN;Anglais;Akin;Banu;3GY5;108;H;CG;N;1;mardi;10h05;0
+465;1h00;H;AN;Anglais;Borloz;Isabelle;2ECG2;111;H;CG;N;1;mardi;10h05;0
+466;1h00;H;AN;Anglais;Uldry;Jean-Maurice;2ECG4;110;H;CG;N;1;mardi;10h05;0
+467;1h00;H;AN;Anglais;Herzog;Beat;2ECG3;113;H;CG;N;1;mardi;10h05;0
+468;1h00;H;AN;Anglais;Miller;Eric;2EC2;10;H;CG;N;1;mardi;10h05;0
+469;1h00;H;AN;Anglais;Luethi;Edyta;3EC1;203;H;CG;N;1;mardi;10h05;0
+470;1h00;H;AL;Allemand;Brantschen;Karin;1GY02;309;H;CG;N;1;mardi;10h05;0
+471;1h00;H;AL;Allemand;Armbruster;Michèle;2GY5;310;H;CG;N;1;mardi;10h05;0
+472;1h00;H;AL;Allemand;Meyer;Urs;3GY3;204;H;CG;N;1;mardi;10h05;0
+473;1h00;H;AL;Allemand;Brülhart;Karin;3GY8;115;H;CG;N;1;mardi;10h05;0
+474;1h00;H;AL;Allemand;Pollozek;Rose;1ECG1;206;H;CG;N;1;mardi;10h05;0
+475;2h00;H;AL;Allemand;Schläfle;Gabriela;2ECG1;8;H;CG;N;1;mardi;10h05;0
+476;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY03;211;H;CG;N;1;mardi;10h05;0
+477;1h00;H;MA;Mathématiques;Galley;Muriel;2GY6;208;H;CG;N;1;mardi;10h05;0
+478;1h00;H;MA;Mathématiques;Oberli;Guillaume;2GY8;213;H;CG;N;1;mardi;10h05;0
+479;1h00;H;MA;Mathématiques;Gremaud;Nicolas;3GY2;321;H;CG;N;1;mardi;10h05;0
+480;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG6;214;H;CG;N;1;mardi;10h05;0
+481;1h00;H;MA;Mathématiques;Chatagny;Richard;2ECG5;207;H;CG;N;1;mardi;10h05;0
+482;1h00;H;HI;Histoire;Fragnière;Pierre;2GY2;2;H;CG;N;1;mardi;10h05;0
+483;1h00;H;HI;Histoire;Allaman;Jérôme;3GY6;315;H;CG;N;1;mardi;10h05;0
+484;1h00;H;GEO;Géographie;Morin;Cédric;2GY7;117 (GEO);H;CG;N;1;mardi;10h05;0
+485;1h00;H;ECD;Economie et droit;Charrière;David;1GY05;303;H;CG;N;1;mardi;10h05;0
+486;1h00;H;FICO;Gestion financière (FICO);Monney;Florent;1EC2;307;H;CG;N;1;mardi;10h05;0
+487;1h00;H;EP;Economie politique;Fragnière;Thomas;3EC2;209;H;CG;N;1;mardi;10h05;0
+488;2h00;H;PHI;Philosophie;Becquart;Philippe;3GY4;6;H;CG;N;1;mardi;10h05;0
+489;2h00;H;PHI;Philosophie;Meyer;Pierre-Yves;3GY7;1;H;CG;N;1;mardi;10h05;0
+490;1h00;H;ANA;Anatomie;Monney;Anne-Valérie;[3ECG3_SAN];116 (BIO);H;CG;N;1;mardi;10h05;0
+491;1h00;H;SOC;Sociologie;Charrière;Stéphanie;3ECG5;308;H;CG;N;1;mardi;10h05;0
+492;1h00;H;PEDA;Pédagogie;Gremion;François;[3ECG3_SOC], 4MSPE;319;H;CG;N;1;mardi;10h05;0
+493;2h00;H;FR;Français;Bagnoud;François-Xavier;1ECG5;112;H;CG;N;1;mardi;10h05;0
+494;2h00;H;FR;Français;Chauvie;Pascal;3ECG4;105;H;CG;N;1;mardi;10h05;0
+495;1h00;H;COAL;Correspondance allemande;Wandeler;Pierre-Georges;2EC1;313;H;CG;N;1;mardi;10h05;0
+496;1h00;H;OS 4;OS 4;;;4GY2;;H;CG;N;1;mardi;10h05;0
+497;1h00;H;OS 4;OS 4;;;4GY4;;H;CG;N;1;mardi;10h05;0
+498;1h00;H;OS 4;OS 4;;;4GY5;;H;CG;N;1;mardi;10h05;0
+499;1h00;H;OS 4;OS 4;;;4GY6;;H;CG;N;1;mardi;10h05;0
+500;1h00;H;OS 4;OS 4;;;4GY7;;H;CG;N;1;mardi;10h05;0
+501;1h00;H;OS 4;OS 4;;;[4GY1_NPAM];;H;CG;N;1;mardi;10h05;0
+502;1h00;H;OS 4;OS 4;;;[4GY3_NPAM];;H;CG;N;1;mardi;10h05;0
+503.1;1h00;H;PHK;Physik;Bergem;Patrick;[4GY3_NPAM];217 (PHY);H;CG;N;1;mardi;10h55;0
+503.2;2h00;H;4sPHY;OS 4 Physique;Charrière;Florian;[4GY1/3_PAM];225 (PHL);H;CG;N;1;mardi;10h05;0
+503.3;1h00;H;PHY;Physique;Oberli;Guillaume;[4GY1_NPAM];215 (PHY);H;CG;N;1;mardi;10h55;0
+504;1h00;H;4sBIO;OS 4 Biologie;Galley;Yves;;128 (BIO);H;CG;N;1;mardi;10h05;0
+505;2h30;H;GY;Education physique;Gattoni;Lionel;1ECG4;;H;CG;N;1;mardi;00h00;0
+506;2h30;H;GY;Education physique;Gillard;Sylvie;1GY01;;H;CG;N;1;mardi;00h00;0
+507;2h30;H;GY;Education physique;Molleyres;Isabelle;1GY08;;H;CG;N;1;mardi;00h00;0
+508;2h00;H;2sAV;OS 2 Arts visuels;Savary;Daniel;;301 (ARV);H;CG;N;1;mardi;10h55;0
+509;2h00;H;2sAV;OS 2 Arts visuels;Ottiger;Vincent;;201 (ARV);H;CG;N;1;mardi;10h55;0
+510;1h00;H;BIO;Biologie;Künzli;Esther;1GY05;128 (BIO);H;CG;N;1;mardi;10h55;0
+511;2h00;H;2sGR;OS 2 Grec;Caligiuri;Angelo;;208;H;CG;N;1;mardi;10h55;0
+512;1h00;H;2sAN;OS 2 Anglais;Akin;Banu;;108;H;CG;N;1;mardi;10h55;0
+513;1h00;H;2sIT;OS 2 Italien;Coowar-Ringenbach;Rhéa Esther;;103;H;CG;N;1;mardi;10h55;0
+514;2h00;H;2sES;OS 2 Espagnol;Rivas;Maria;;210;H;CG;N;1;mardi;10h55;0
+515;2h00;H;2sED;OS 2 Economie et droit;Kolly;Anne-Claude;;314;H;CG;N;1;mardi;10h55;0
+516;2h00;H;2sED;OS 2 Economie et droit;Rime;Sylvie;;104;H;CG;N;1;mardi;10h55;0
+517;1h00;H;AN;Anglais;Herzog;Beat;3GY8;113;H;CG;N;1;mardi;10h55;0
+518;2h00;H;AN;Anglais;Nottage;Jeff;4GY2;212;H;CG;N;1;mardi;10h55;0
+519;1h00;H;AN;Anglais;Uldry;Jean-Maurice;4GY5;110;H;CG;N;1;mardi;10h55;0
+520;1h00;H;AN;Anglais;Lauber;Josiane;4GY7;203;H;CG;N;1;mardi;10h55;0
+521;1h00;H;AN;Anglais;Borloz;Isabelle;2ECG5;111;H;CG;N;1;mardi;10h55;0
+522;1h00;H;AL;Allemand;Brünisholz;Tina;3GY6;205;H;CG;N;1;mardi;10h55;0
+523;1h00;H;AL;Allemand;Brantschen;Karin;3ECG3;309;H;CG;N;1;mardi;10h55;0
+524;1h00;H;AL;Allemand;Armbruster;Michèle;3EC1;310;H;CG;N;1;mardi;10h55;0
+525;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;4GY4;206;H;CG;N;1;mardi;10h55;0
+526;1h00;H;MA;Mathématiques;Chatagny;Richard;4MSPE;207;H;CG;N;1;mardi;10h55;0
+527;1h00;H;HI;Histoire;Fragnière;Pierre;3GY1;2;H;CG;N;1;mardi;10h55;0
+528;1h00;H;GESC;Geschichte;Brülhart;Karin;3GY3;115;H;CG;N;1;mardi;10h55;0
+529;1h00;H;GEO;Géographie;Rime;François;1GY04;117 (GEO);H;CG;N;1;mardi;10h55;0
+530;1h00;H;GEO;Géographie;Baeriswyl;Valentin;2ECG3;123 (GEO/MUS);H;CG;N;1;mardi;10h55;0
+531;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY02;304;H;CG;N;1;mardi;10h55;0
+532;2h00;H;PHI;Philosophie;Mousson;Laurent;3GY5;107;H;CG;N;1;mardi;10h55;0
+533;1h00;H;ANA;Anatomie;Monney;Anne-Valérie;3ECG1;116 (BIO);H;CG;N;1;mardi;10h55;0
+534;1h00;H;CA;Culture antique;Aeby;Evelyne;1ECG1;211;H;CG;N;1;mardi;10h55;0
+535;1h00;H;FR;Français;Castella;Serge;4GY6;10;H;CG;N;1;mardi;10h55;0
+536;2h00;H;FR;Français;Roubaty;Jean-Benoît;1GY06;106;H;CG;N;1;mardi;10h55;0
+537;1h00;H;FR;Français;Möri;Frédéric;3ECG5;114;H;CG;N;1;mardi;10h55;0
+538;1h00;H;PC;Prof de classe;Karth;Laurent;1ECG6;214;H;CG;N;1;mardi;10h55;0
+539;1h00;H;PC;Prof de classe;Gremaud;Nicolas;3GY2;321;H;CG;N;1;mardi;10h55;0
+540;2h00;H;2sAM;OS 2 Applications des maths;Scherer;Heike;[2GY2/3_PAM];101 (INF);H;CG;N;1;mardi;10h55;0
+541;2h00;H;OS 2;OS 2;;;[2GY1_NBIC];;H;CG;N;1;mardi;10h55;0
+542;2h00;H;OS 2;OS 2;;;2GY4;;H;CG;N;1;mardi;10h55;0
+543;2h00;H;OS 2;OS 2;;;2GY5;;H;CG;N;1;mardi;10h55;0
+544;2h00;H;OS 2;OS 2;;;2GY6;;H;CG;N;1;mardi;10h55;0
+545;2h00;H;OS 2;OS 2;;;2GY9;;H;CG;N;1;mardi;10h55;0
+546;2h00;H;OS 2;OS 2;;;[2GY3_NBIC-NPAM];;H;CG;N;1;mardi;10h55;0
+547;2h00;H;OS 2;OS 2;;;[2GY2_NBIC-NPAM];;H;CG;N;1;mardi;10h55;0
+548.1;2h00;Q1;2sBIO;OS 2 Biologie;Galley;Yves;[2GY1/2_BIC];126 (BIL);Q;CG;N;1;mardi;10h55;0
+548.2;1h00;Q2;2sBIO;OS 2 Biologie;Galley;Yves;[2GY1/2_BIC];126 (BIL);Q;CG;N;1;mardi;11h45;0
+548.3;1h00;Q2;.;Pas de cours;Galley;Yves;[2GY1/2_BIC];;Q;CG;N;1;mardi;10h55;0
+549.1;2h00;Q1;2sCHI;OS 2 Chimie;Conus;Sébastien;[2GY3_BIC];218 (CHL);Q1;CG;N;1;mardi;10h55;0
+549.2;2h00;Q2;2sCHI;OS 2 Chimie;Conus;Sébastien;[2GY3_BIC];218 (CHL);Q2;CG;N;1;mardi;10h55;0
+550;1h00;H;2sMU;OS 2 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;mardi;11h45;0
+551;1h00;H;BIO;Biologie;Künzli;Esther;1GY10;128 (BIO);H;CG;N;1;mardi;11h45;0
+552.1;1h00;H;AN;Anglais;Lauber;Josiane;[4GY1/3_AN];203;H;CG;N;1;mardi;11h45;0
+552.2;1h00;H;IT;Italien;Andreetta;Tibisay;[4GY1/3_IT];211;H;CG;N;1;mardi;11h45;0
+552.3;1h00;H;LA;Latin;Sudan;Bruno;[4GY1/3_LA];109;H;CG;N;1;mardi;11h45;0
+553;1h00;H;AL;Allemand;Pollozek;Rose;1GY09;114;H;CG;N;1;mardi;11h45;0
+554;1h00;H;AL;Allemand;Schläfle;Gabriela;4GY6;8;H;CG;N;1;mardi;11h45;0
+555;1h00;H;AL;Allemand;Piller;Angelo;4GY7;2;H;CG;N;1;mardi;11h45;0
+556;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;2EC1;115;H;CG;N;1;mardi;11h45;0
+557;1h00;H;MA;Mathématiques;Karth;Laurent;3GY8;214;H;CG;N;1;mardi;11h45;0
+558;1h00;H;MA;Mathématiques;Chatagny;Richard;4GY5;207;H;CG;N;1;mardi;11h45;0
+559;1h00;H;MA;Mathématiques;Scyboz;Jacques;2EC2;6;H;CG;N;1;mardi;11h45;0
+560;1h00;H;HI;Histoire;Allaman;Jérôme;1GY03;103;H;CG;N;1;mardi;11h45;0
+561;1h00;H;HI;Histoire;Gachet;Alexandre;2ECG4;112;H;CG;N;1;mardi;11h45;0
+562;1h00;H;GEO;Géographie;Rime;François;2ECG5;117 (GEO);H;CG;N;1;mardi;11h45;0
+563;1h00;H;ANA;Anatomie;Monney;Anne-Valérie;1ECG1;116 (BIO);H;CG;N;1;mardi;11h45;0
+564;1h00;H;PHE;Philosophie / étique;Meyer;Pierre-Yves;3EC2;1;H;CG;N;1;mardi;11h45;0
+565;1h00;H;FR;Français;Python;Stéphanie;1ECG3;111;H;CG;N;1;mardi;11h45;0
+566;1h00;H;FR;Français;Currat;Martine;2ECG3;206;H;CG;N;1;mardi;11h45;0
+567;1h00;H;PC;Prof de classe;Miller;Eric;1EC2;113;H;CG;N;1;mardi;11h45;0
+568;1h00;H;PC;Prof de classe;Mattei;Stéphane;2ECG2;10;H;CG;N;1;mardi;11h45;0
+569;1h00;H;PC;Prof de classe;Akin;Banu;2GY8;108;H;CG;N;1;mardi;11h45;0
+570;1h00;H;PC;Prof de classe;Lüthi;Sylvie;4GY4;209;H;CG;N;1;mardi;11h45;0
+571;1h00;H;PC;Prof de classe;Pasquier;Claire-Lyse;4MSPE;110;H;CG;N;1;mardi;11h45;0
+572;1h00;H;2sCHI;OS 2 Chimie;Scanu;David;2GY7;228 (CHI);H;CG;N;1;mardi;11h45;0
+573;1h00;H;METH;Méthologie 2e ECG;Charrière;Stéphanie;2ECG1;102 (INF);H;CG;N;1;mardi;11h45;0
+574.1;2h00;H;MU;Musique;Bochud;Marc;[3GY3/4_MU];125 (MUS);H;CG;N;1;mardi;12h35;0
+574.2;2h00;H;AV;Arts visuels;Despond;Pierre-André;[3GY3/4_AV];302 (ARV);H;CG;N;1;mardi;12h35;0
+575.1;1h00;Q2;BIO;Biologie;Wannier;Thierry;3ECG3;128 (BIO);Q;CG;N;1;mardi;13h25;0
+575.2;2h00;Q1;TPB;Biologie labo;Wannier;Thierry;3ECG3;118 (BIL);Q;CG;N;1;mardi;12h35;0
+575.3;1h00;Q2;.;Pas de cours;Wannier;Thierry;3ECG3;;Q;CG;N;1;mardi;12h35;0
+576;1h00;H;CHI;Chimie;Beauverd;Luc;1GY05;228 (CHI);H;CG;N;1;mardi;12h35;0
+577.1;1h00;Q1;CHI;Chimie;Marion-Veyron;Emmanuel;1ECG2;216 (CHI);Q;CG;N;1;mardi;13h25;0
+577.2;2h00;Q2;TPC;Chimie labo;Marion-Veyron;Emmanuel;1ECG2;218 (CHL);Q;CG;N;1;mardi;12h35;0
+577.3;1h00;Q1;.;Pas de cours;Marion-Veyron;Emmanuel;1ECG2;;Q;CG;N;1;mardi;12h35;0
+578;1h00;H;CHI;Chimie;Braillard;Grégory;1ECG3;216 (CHI);H;CG;N;1;mardi;12h35;0
+579.1;1h00;Q2;PHY;Physique;Oberli;Guillaume;3GY2;217 (PHY);Q;CG;N;1;mardi;13h25;0
+579.2;2h00;Q1;PHL;Physique labo;Oberli;Guillaume;3GY2;225 (PHL);Q;CG;N;1;mardi;12h35;0
+579.3;1h00;Q2;.;Pas de cours;Oberli;Guillaume;3GY2;;Q;CG;N;1;mardi;12h35;0
+580.1;1h00;Q1;PHY;Physique;Burckel;Alice;3GY6;217 (PHY);Q;CG;N;1;mardi;13h25;0
+580.2;2h00;Q2;PHL;Physique labo;Burckel;Alice;3GY6;225 (PHL);Q;CG;N;1;mardi;12h35;0
+580.3;1h00;Q1;.;Pas de cours;Burckel;Alice;3GY6;;Q;CG;N;1;mardi;12h35;0
+581;1h00;H;PHY;Physique;Savoy;Isabelle;3ECG1;217 (PHY);H;CG;N;1;mardi;12h35;0
+582;1h00;H;AN;Anglais;Herzog;Beat;1GY03;105;H;CG;N;1;mardi;12h35;0
+583;1h00;H;INF;Informatique;Simillion;Fabian;2EC1;101 (INF);H;CG;N;1;mardi;12h35;0
+584;1h00;H;INF;Informatique;Pernet;Christian;2EC2;102 (INF);H;CG;N;1;mardi;12h35;0
+585;2h00;H;AL;Allemand;Pollozek;Rose;1GY04;114;H;CG;N;1;mardi;12h35;0
+586;2h00;H;AL;Allemand;Bongard;Ydia;1GY07;115;H;CG;N;1;mardi;12h35;0
+587;2h00;H;AL;Allemand;Gerber;Eva;1ECG6;304;H;CG;N;1;mardi;12h35;0
+588;2h00;H;AL;Allemand;Brülhart;Karin;1EC2;203;H;CG;N;1;mardi;12h35;0
+589;1h00;H;AL;Allemand;Meyer;Urs;3EC2;106;H;CG;N;1;mardi;12h35;0
+590;1h00;H;MA;Mathématiques;Clerc;Christine;2GY7;10;H;CG;N;1;mardi;12h35;0
+591;1h00;H;MA;Mathématiques;Donner;Cédric;1ECG5;210;H;CG;N;1;mardi;12h35;0
+592;1h00;H;HI;Histoire;Allaman;Jérôme;2GY8;103;H;CG;N;1;mardi;12h35;0
+593;1h00;H;HI;Histoire;Murith;Olivier;3ECG5;2;H;CG;N;1;mardi;12h35;0
+594;1h00;H;GEO;Géographie;Trezzini;Nicole;2ECG4;123 (GEO/MUS);H;CG;N;1;mardi;12h35;0
+595;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;1EC1;117 (GEO);H;CG;N;1;mardi;12h35;0
+596;1h00;H;ECD;Economie et droit;Charrière;David;1GY10;205;H;CG;N;1;mardi;12h35;0
+597;1h00;H;SR;Science des religions;Möri;Frédéric;1GY02;211;H;CG;N;1;mardi;12h35;0
+598;1h00;H;ANA;Anatomie;Chardonnens;Florence;2ECG2;126 (BIL);H;CG;N;1;mardi;12h35;0
+599;1h00;H;SOC;Sociologie;Gremion;François;3ECG2;109;H;CG;N;1;mardi;12h35;0
+600;1h00;H;FR;Français;Pasquier;Claire-Lyse;1GY09;110;H;CG;N;1;mardi;12h35;0
+601;1h00;H;PC;Prof de classe;Girard;Raoul;3EC1;213;H;CG;N;1;mardi;12h35;0
+602;1h00;Q1;PC;Prof de classe;Gachet;Alexandre;3GY1;112;Q1;CG;N;1;mardi;12h35;0
+603.1;2h00;Q2;PHL;Physique labo;Charrière;Florian;[3GY1_NPAM];227 (PHL);Q;CG;N;1;mardi;12h35;0
+603.2;1h00;Q1;PHY;Physique;Charrière;Florian;[3GY1_NPAM];215 (PHY);Q;CG;N;1;mardi;13h25;0
+604;2h00;Q2;THEA;Théâtre;Grand;Alain;3ECG4;;Q2;CG;N;1;mardi;12h35;0
+605;5h00;H;GY;Education physique;Sottas;Aurélien;4GY7;;H;CG;N;1;mardi;13h25;0
+606;5h00;H;GY;Education physique;Gillard;Sylvie;4GY3;;H;CG;N;1;mardi;13h25;0
+607;5h00;H;GY;Education physique;Meyer;David;4GY4;;H;CG;N;1;mardi;13h25;0
+608;5h00;H;GY;Education physique;Sugnaux;Patrice;4GY5;;H;CG;N;1;mardi;13h25;0
+609;5h00;H;GY;Education physique;Gattoni;Lionel;4GY1;;H;CG;N;1;mardi;13h25;0
+610;3h00;H;GY;Education physique;Bussard;Jean-Claude;4GY2;;H;CG;N;1;mardi;13h25;0
+611;5h00;H;GY;Education physique;Sauteur;Stéphane;4GY6;;H;CG;N;1;mardi;13h25;0
+612;2h00;H;AV;Arts visuels;Ottiger;Vincent;1GY05;201 (ARV);H;CG;N;1;mardi;13h25;0
+613.1;1h00;Q1;BIO;Biologie;Bapst;Valérie;2GY8;128 (BIO);Q;CG;N;1;mardi;13h25;0
+613.2;2h00;Q2;TPB;Biologie labo;Bapst;Valérie;2GY8;118 (BIL);Q;CG;N;1;mardi;13h25;0
+613.3;1h00;Q1;.;Pas de cours;Bapst;Valérie;2GY8;;Q;CG;N;1;mardi;14h15;0
+614.1;1h00;Q1;BIO;Biologie;Galley;Yves;2GY2;126 (BIL);Q;CG;N;1;mardi;14h15;0
+614.2;2h00;Q2;TPB;Biologie labo;Galley;Yves;2GY2;126 (BIL);Q;CG;N;1;mardi;13h25;0
+614.3;1h00;Q1;.;Pas de cours;Galley;Yves;2GY2;;Q;CG;N;1;mardi;13h25;0
+615;1h00;H;BIO;Biologie;Sudan;Mélanie;2ECG5;116 (BIO);H;CG;N;1;mardi;13h25;0
+616;1h00;H;CHI;Chimie;Beauverd;Luc;1GY01;228 (CHI);H;CG;N;1;mardi;13h25;0
+617.1;1h00;Q2;CHI;Chimie;Scanu;David;2ECG3;216 (CHI);Q;CG;N;1;mardi;14h15;0
+617.2;2h00;Q1;TPC;Chimie labo;Scanu;David;2ECG3;218 (CHL);Q;CG;N;1;mardi;13h25;0
+617.3;1h00;Q2;.;Pas de cours;Scanu;David;2ECG3;;Q;CG;N;1;mardi;13h25;0
+618.1;1h00;Q2;PHY;Physique;Savoy;Isabelle;1ECG5;215 (PHY);Q;CG;N;1;mardi;13h25;0
+618.2;2h00;Q1;PHL;Physique labo;Savoy;Isabelle;1ECG5;227 (PHL);Q;CG;N;1;mardi;13h25;0
+618.3;1h00;Q2;.;Pas de cours;Savoy;Isabelle;1ECG5;;Q;CG;N;1;mardi;14h15;0
+619;1h00;H;AN;Anglais;Luethi;Edyta;2EC1;105;H;CG;N;1;mardi;13h25;0
+620;1h00;H;BUR;Bureautique;Fidanza;Laurence;1ECG4;101 (INF);H;CG;N;1;mardi;13h25;0
+621;2h00;H;AL;Allemand;Brünisholz;Tina;1GY06;310;H;CG;N;1;mardi;13h25;0
+622;1h00;H;AL;Allemand;Meyer;Urs;3GY5;106;H;CG;N;1;mardi;13h25;0
+623;2h00;H;AL;Allemand;Piller;Angelo;2ECG2;113;H;CG;N;1;mardi;13h25;0
+624;1h00;H;AL;Allemand;Heldstab;Sidonia;4MSPE;1;H;CG;N;1;mardi;13h25;0
+625;1h00;H;MA;Mathématiques;Clerc;Christine;2GY9;10;H;CG;N;1;mardi;13h25;0
+626.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[2GY3_MA+];111;H;CG;N;1;mardi;13h25;0
+626.2;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[2GY3/4_MAK];209;H;CG;N;1;mardi;13h25;0
+626.3;1h00;H;MAK;Mathematik;Scherer;Heike;[2GY4_MAK];104;H;CG;N;1;mardi;13h25;0
+627;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG1;110;H;CG;N;1;mardi;13h25;0
+628;1h00;H;MA;Mathématiques;Donner;Cédric;3ECG1;210;H;CG;N;1;mardi;13h25;0
+629;1h00;H;MA;Mathématiques;Gremaud;Nicolas;3ECG2;108;H;CG;N;1;mardi;13h25;0
+630;1h00;H;HI;Histoire;Murith;Olivier;1GY10;2;H;CG;N;1;mardi;13h25;0
+631;1h00;H;HI;Histoire;Allaman;Jérôme;2GY7;103;H;CG;N;1;mardi;13h25;0
+632;1h00;H;HI;Histoire;Uldry;Jean-Maurice;3GY7;206;H;CG;N;1;mardi;13h25;0
+633;1h00;H;GEO;Géographie;Rime;François;1GY02;117 (GEO);H;CG;N;1;mardi;13h25;0
+634;1h00;H;GEO;Géographie;Trezzini;Nicole;2GY5;123 (GEO/MUS);H;CG;N;1;mardi;13h25;0
+635;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY03;6;H;CG;N;1;mardi;13h25;0
+636;1h00;H;FICO;Gestion financière (FICO);Charrière;David;1EC1;205;H;CG;N;1;mardi;13h25;0
+637;1h00;H;EE;Economie d'entreprise;Girard;Raoul;3EC1;213;H;CG;N;1;mardi;13h25;0
+638;1h00;H;DR;Droit;Rime;Sylvie;2EC2;8;H;CG;N;1;mardi;13h25;0
+639;1h00;H;SR;Science des religions;Möri;Frédéric;1GY08;211;H;CG;N;1;mardi;13h25;0
+640;2h00;H;PHI;Philosophie;Mousson;Laurent;3GY8;212;H;CG;N;1;mardi;13h25;0
+641;1h00;H;PEDA;Pédagogie;Gremion;François;3ECG5;109;H;CG;N;1;mardi;13h25;0
+642;2h00;H;FR;Français;Rossier;Serge;2GY1;107;H;CG;N;1;mardi;13h25;0
+643;2h00;H;FR;Français;Lüthi;Sylvie;2GY6;207;H;CG;N;1;mardi;13h25;0
+644;1h00;H;PC;Prof de classe;Zumwald;David;2ECG1;307;H;CG;N;1;mardi;13h25;0
+645;1h00;H;PC;Prof de classe;Fragnière;Thomas;3EC2;208;H;CG;N;1;mardi;13h25;0
+646;1h00;H;CHI;Chimie;Beauverd;Luc;[3ECG3_SAN];228 (CHI);H;CG;N;1;mardi;14h15;0
+647;1h00;H;PHY;Physique;Oberli;Guillaume;2ECG5;217 (PHY);H;CG;N;1;mardi;14h15;0
+648.1;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[3GY3/5_MAK];209;H;CG;N;1;mardi;14h15;0
+648.2;1h00;H;MAK+;Mathematik plus;Scherer;Heike;[3GY3_MAK+];104;H;CG;N;1;mardi;14h15;0
+648.3;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[3GY5_MA];108;H;CG;N;1;mardi;14h15;0
+649;1h00;H;AN;Anglais;Bays;Anne;1ECG1;106;H;CG;N;1;mardi;14h15;0
+650;1h00;H;AN;Anglais;Luethi;Edyta;1ECG6;105;H;CG;N;1;mardi;14h15;0
+651;1h00;H;HI;Histoire;Uldry;Jean-Maurice;3ECG1;206;H;CG;N;1;mardi;14h15;0
+652;1h00;H;AN;Anglais;Akin;Banu;4MSPE;112;H;CG;N;1;mardi;14h15;0
+653;1h00;H;INF;Informatique;Fidanza, Pernet;Laurence, Christian;1GY01;101 (INF);H;CG;N;1;mardi;14h15;0
+654;1h00;H;AL;Allemand;Schläfle;Gabriela;2GY3;8;H;CG;N;1;mardi;14h15;0
+655;2h00;H;AL;Allemand;Heldstab;Sidonia;2GY4;1;H;CG;N;1;mardi;14h15;0
+656;1h00;H;AL;Allemand;Bongard;Ydia;3GY2;115;H;CG;N;1;mardi;14h15;0
+657;1h00;H;AL;Allemand;Brülhart;Karin;3GY4;203;H;CG;N;1;mardi;14h15;0
+658;1h00;H;AL;Allemand;Herzog;Beat;3GY7;204;H;CG;N;1;mardi;14h15;0
+659;2h00;H;AL;Allemand;Grandjean;Michel;1ECG2;103;H;CG;N;1;mardi;14h15;0
+660;2h00;H;AL;Allemand;Gerber;Eva;1ECG4;304;H;CG;N;1;mardi;14h15;0
+661;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY02;2;H;CG;N;1;mardi;14h15;0
+662;1h00;H;MA;Mathématiques;Clerc;Christine;1GY04;10;H;CG;N;1;mardi;14h15;0
+663;1h00;H;MA;Mathématiques;Charrière;Jérôme;2GY5;111;H;CG;N;1;mardi;14h15;0
+664;1h00;H;MA;Mathématiques;Charrière;Florian;3GY6;214;H;CG;N;1;mardi;14h15;0
+665;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG3;110;H;CG;N;1;mardi;14h15;0
+666;1h00;H;MA;Mathématiques;Donner;Cédric;2ECG4;210;H;CG;N;1;mardi;14h15;0
+667;1h00;H;GEO;Géographie;Rime;François;2GY9;117 (GEO);H;CG;N;1;mardi;14h15;0
+668;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;1EC2;123 (GEO/MUS);H;CG;N;1;mardi;14h15;0
+669;1h00;H;ECD;Economie et droit;Charrière;David;1GY08;205;H;CG;N;1;mardi;14h15;0
+670;1h00;H;ECD;Economie et droit;Fragnière;Thomas;1GY09;208;H;CG;N;1;mardi;14h15;0
+671;1h00;H;EE;Economie d'entreprise;Girard;Raoul;1EC1;213;H;CG;N;1;mardi;14h15;0
+672;1h00;H;SR;Science des religions;Möri;Frédéric;2GY7;211;H;CG;N;1;mardi;14h15;0
+673;1h00;H;ECD;Economie et droit;Monney;Florent;3ECG4;303;H;CG;N;1;mardi;14h15;0
+674;2h00;H;FR;Français;Repond;Micheline;1GY07;114;H;CG;N;1;mardi;14h15;0
+675;1h00;H;FR;Français;Gachet;Alexandre;3GY1;313;H;CG;N;1;mardi;14h15;0
+676;1h00;H;FR;Français;Zumwald;David;2ECG1;307;H;CG;N;1;mardi;14h15;0
+677;1h00;H;FR;Français;Chauvie;Pascal;3ECG2;308;H;CG;N;1;mardi;14h15;0
+678;1h00;H;FR;Français;Castella;Serge;3EC1;309;H;CG;N;1;mardi;14h15;0
+679;2h00;Q1;THEA;Théâtre;Grand;Alain;3ECG5;;Q1;CG;N;1;mardi;14h15;0
+680;2h00;Q2;THEA;Théâtre;Grand;Alain;[3ECG3_SOC];;Q2;CG;N;1;mardi;14h15;0
+681;2h00;H;AV;Arts visuels;Ottiger;Vincent;3ECG4;201 (ARV);H;CG;N;1;mardi;15h05;0
+682;2h00;H;AV;Arts visuels;Despond;Pierre-André;4MSPE;302 (ARV);H;CG;N;1;mardi;15h05;0
+683;2h00;H;3cAV;OC 3 Arts visuels;Savary;Daniel;;301 (ARV);H;CG;N;1;mardi;15h05;0
+684;2h00;H;3cMU;OC 3 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;mardi;15h05;0
+685.1;1h00;Q2;BIO;Biologie;Bapst;Valérie;2GY9;118 (BIL);Q;CG;N;1;mardi;15h05;0
+685.2;2h00;Q1;TPB;Biologie labo;Bapst;Valérie;2GY9;118 (BIL);Q;CG;N;1;mardi;15h05;0
+685.3;1h00;Q2;.;Pas de cours;Bapst;Valérie;2GY9;;Q;CG;N;1;mardi;15h55;0
+686.1;1h00;Q2;CHI;Chimie;Conus;Sébastien;1GY02;216 (CHI);Q;CG;N;1;mardi;15h05;0
+686.2;2h00;Q1;TPC;Chimie labo;Conus;Sébastien;1GY02;218 (CHL);Q;CG;N;1;mardi;15h05;0
+686.3;1h00;Q2;.;Pas de cours;Conus;Sébastien;1GY02;;Q;CG;N;1;mardi;15h55;0
+687.1;1h00;Q1;CHI;Chimie;Braillard;Grégory;1GY04;216 (CHI);Q;CG;N;1;mardi;15h05;0
+687.2;2h00;Q2;TPC;Chimie labo;Braillard;Grégory;1GY04;218 (CHL);Q;CG;N;1;mardi;15h05;0
+687.3;1h00;Q1;.;Pas de cours;Braillard;Grégory;1GY04;;Q;CG;N;1;mardi;15h55;0
+688.1;1h00;Q2;PHY;Physique;Oberli;Guillaume;2GY6;217 (PHY);Q;CG;N;1;mardi;15h05;0
+688.2;2h00;Q1;PHL;Physique labo;Oberli;Guillaume;2GY6;227 (PHL);Q;CG;N;1;mardi;15h05;0
+688.3;1h00;Q2;.;Pas de cours;Oberli;Guillaume;2GY6;;Q;CG;N;1;mardi;15h55;0
+689;1h00;H;AN;Anglais;Lauber;Josiane;1GY10;105;H;CG;N;1;mardi;15h05;0
+690;1h00;H;AN;Anglais;Bays;Anne;1EC1;106;H;CG;N;1;mardi;15h05;0
+691;1h00;H;BUR;Bureautique;Fidanza;Laurence;1ECG1;101 (INF);H;CG;N;1;mardi;15h05;0
+692;1h00;H;BUR;Bureautique;Simillion;Fabian;1ECG6;202 (INF);H;CG;N;1;mardi;15h05;0
+693;1h00;H;AL;Allemand;Herzog;Beat;1GY01;204;H;CG;N;1;mardi;15h05;0
+694;1h00;H;AL;Allemand;Bongard;Ydia;2GY1;115;H;CG;N;1;mardi;15h05;0
+695;2h00;H;AL;Allemand;Pollozek;Rose;2GY2;207;H;CG;N;1;mardi;15h05;0
+696;1h00;H;AL;Allemand;Brünisholz;Tina;1ECG3;310;H;CG;N;1;mardi;15h05;0
+697;2h00;H;AL;Allemand;Schläfle;Gabriela;2ECG3;8;H;CG;N;1;mardi;15h05;0
+698;1h00;H;MA;Mathématiques;Clerc;Christine;1GY08;10;H;CG;N;1;mardi;15h05;0
+699;1h00;H;HI;Histoire;Gachet;Alexandre;2ECG2;313;H;CG;N;1;mardi;15h05;0
+700;1h00;H;AN;Anglais;Uldry;Jean-Maurice;2ECG1;206;H;CG;N;1;mardi;15h05;0
+701;1h00;H;GEO;Géographie;Rime;François;2GY3;117 (GEO);H;CG;N;1;mardi;15h05;0
+702;1h00;H;ECD;Economie et droit;Monney;Florent;1GY06;303;H;CG;N;1;mardi;15h05;0
+703;1h00;H;DR;Droit;Fragnière;Thomas;3EC1;208;H;CG;N;1;mardi;15h05;0
+704;1h00;H;AN;Anglais;Nottage;Jeff;1GY09;209;H;CG;N;1;mardi;15h05;0
+705;1h00;H;FR;Français;Möri;Frédéric;1GY05;211;H;CG;N;1;mardi;15h05;0
+706;2h00;H;FR;Français;Currat;Martine;2ECG4;2;H;CG;N;1;mardi;15h05;0
+707;2h00;H;3cPHY;OC 3 Physique;Kohlprath;Emmanuel;;225 (PHL);H;CG;N;1;mardi;15h05;0
+708;2h00;H;3cCHI;OC 3 Chimie;Marion-Veyron;Emmanuel;;228 (CHI), 230 (CHL);H;CG;N;1;mardi;15h05;0
+709;2h00;H;3cBIO;OC 3 Biologie;Galley;Yves;;128 (BIO);H;CG;N;1;mardi;15h05;0
+710;2h00;H;3cGEO;OC 3 Géographie;Trezzini, Baeriswyl;Nicole, Valentin;;123 (GEO/MUS);H;CG;N;1;mardi;15h05;0
+711;2h00;H;3cHI;OC 3 Histoire;Rossier;Serge;;107, R06 (INF);H;CG;N;1;mardi;15h05;0
+712;2h00;H;3cHI;OC 3 Histoire;Murith;Olivier;;108;H;CG;N;1;mardi;15h05;0
+713;2h00;H;3cED;OC 3 Economie et droit;Girard;Raoul;;213;H;CG;N;1;mardi;15h05;0
+714;2h00;H;3cPSY;OC 3 Psychologie - pédagogie;Vieitez;Araceli;;104;H;CG;N;1;mardi;15h05;0
+715;2h00;H;3cPSY;OC 3 Psychologie - pédagogie;Charrière;Stéphanie;;111;H;CG;N;1;mardi;15h05;0
+716;2h00;H;3cPSY;OC 3 Psychologie - pédagogie;Gremion;François;;6;H;CG;N;1;mardi;15h05;0
+717;2h00;H;3cPHI;OC 3 Philosophie;Schumacher;Bernard;;110;H;CG;N;1;mardi;15h05;0
+718;2h00;H;3cSPOL;OC 3 Sciences politiques;Mousson, Chauvie;Laurent, Pascal;;212;H;CG;N;1;mardi;15h05;0
+719;2h00;H;3cINF;OC 3 Informatique;Charrière;Jérôme;;102 (INF);H;CG;N;1;mardi;15h05;0
+720;2h00;H;OC 3;OC 3;;;3GY1;;H;CG;N;1;mardi;15h05;0
+721;2h00;H;OC 3;OC 3;;;3GY2;;H;CG;N;1;mardi;15h05;0
+722;2h00;H;OC 3;OC 3;;;3GY3;;H;CG;N;1;mardi;15h05;0
+723;2h00;H;OC 3;OC 3;;;3GY4;;H;CG;N;1;mardi;15h05;0
+724;2h00;H;OC 3;OC 3;;;3GY5;;H;CG;N;1;mardi;15h05;0
+725;2h00;H;OC 3;OC 3;;;3GY6;;H;CG;N;1;mardi;15h05;0
+726;2h00;H;OC 3;OC 3;;;3GY7;;H;CG;N;1;mardi;15h05;0
+727;2h00;H;OC 3;OC 3;;;3GY8;;H;CG;N;1;mardi;15h05;0
+728;2h00;H;3cSP;OC 3 Sport;Bussard;Jean-Claude;;;H;CG;N;1;mardi;15h55;0
+729;2h00;H;GY;Education physique;;;4GY2;;H;CG;N;1;mardi;15h55;0
+730;1h00;H;BIO;Biologie;Chardonnens;Florence;1ECG4;116 (BIO);H;CG;N;1;mardi;15h55;0
+731;1h00;H;CHI;Chimie;Beauverd;Luc;1GY08;216 (CHI);H;CG;N;1;mardi;15h55;0
+732;1h00;H;LA;Latin;Pernet;Christian;[1GY1_LA];109;H;CG;N;1;mardi;15h55;0
+733;1h00;H;BUR;Bureautique;Simillion;Fabian;1ECG3;202 (INF);H;CG;N;1;mardi;15h55;0
+734;1h00;H;GEO;Géographie;Rime;François;2GY1;117 (GEO);H;CG;N;1;mardi;15h55;0
+735;1h00;H;SR;Science des religions;Möri;Frédéric;1GY10;211;H;CG;N;1;mardi;15h55;0
+736;1h00;H;PC;Prof de classe;Bongard;Ydia;1GY07;115;H;CG;N;1;mardi;15h55;0
+737;1h00;H;PC;Prof de classe;Nottage;Jeff;1GY09;209;H;CG;N;1;mardi;15h55;0
+738;2h30;H;GY;Education physique;Sauteur;Stéphane;2GY1;;H;CG;N;1;mercredi;08h10;0
+739;2h30;H;GY;Education physique;Meyer;David;2GY9;;H;CG;N;1;mercredi;08h10;0
+740;2h30;H;GY;Education physique;Bussard;Jean-Claude;2GY3;;H;CG;N;1;mercredi;08h10;0
+741;2h30;H;GY;Education physique;Gattoni;Lionel;2GY4;;H;CG;N;1;mercredi;08h10;0
+742;2h00;H;MU;Musique;Emery;Marc-Antoine;4MSPE;125 (MUS);H;CG;N;1;mercredi;08h10;0
+743.1;1h00;Q1;BIO;Biologie;Coquoz;Jean-Luc;1GY09;116 (BIO);Q;CG;N;1;mercredi;09h00;0
+743.2;2h00;Q2;TPB;Biologie labo;Coquoz;Jean-Luc;1GY09;118 (BIL);Q;CG;N;1;mercredi;08h10;0
+743.3;1h00;Q1;.;Pas de cours;Coquoz;Jean-Luc;1GY09;;Q;CG;N;1;mercredi;08h10;0
+744.1;1h00;Q2;BIO;Biologie;Chardonnens;Florence;1GY03;116 (BIO);Q;CG;N;1;mercredi;09h00;0
+744.2;2h00;Q1;TPB;Biologie labo;Chardonnens;Florence;1GY03;118 (BIL);Q;CG;N;1;mercredi;08h10;0
+744.3;1h00;Q2;.;Pas de cours;Chardonnens;Florence;1GY03;;Q;CG;N;1;mercredi;08h10;0
+745.1;1h00;Q2;BIO;Biologie;Galley;Yves;1ECG6;128 (BIO);Q;CG;N;1;mercredi;09h00;0
+745.2;2h00;Q1;TPB;Biologie labo;Galley;Yves;1ECG6;126 (BIL);Q;CG;N;1;mercredi;08h10;0
+745.3;1h00;Q2;.;Pas de cours;Galley;Yves;1ECG6;;Q;CG;N;1;mercredi;08h10;0
+746.1;1h00;Q1;BIO;Biologie;Sudan;Mélanie;2ECG5;128 (BIO);Q;CG;N;1;mercredi;09h00;0
+746.2;2h00;Q2;TPB;Biologie labo;Sudan;Mélanie;2ECG5;126 (BIL);Q;CG;N;1;mercredi;08h10;0
+746.3;1h00;Q1;.;Pas de cours;Sudan;Mélanie;2ECG5;;Q;CG;N;1;mercredi;08h10;0
+747;1h00;H;CHI;Chimie;Conus;Sébastien;1GY02;228 (CHI);H;CG;N;1;mercredi;08h10;0
+748;1h00;H;CHI;Chimie;Braillard;Grégory;2GY8;216 (CHI);H;CG;N;1;mercredi;08h10;0
+749;1h00;H;PHY;Physique;Oberli;Guillaume;3GY8;217 (PHY);H;CG;N;1;mercredi;08h10;0
+750;1h00;H;AN;Anglais;Grandjean;Michel;1GY07;205;H;CG;N;1;mercredi;08h10;0
+751;1h00;H;AN;Anglais;Vogt;Jacqueline;2GY2;207;H;CG;N;1;mercredi;08h10;0
+752;1h00;H;AN;Anglais;Morard;Aurélie;2GY6;113;H;CG;N;1;mercredi;08h10;0
+753;1h00;H;AN;Anglais;Valloton;Valérie;1ECG2;211;H;CG;N;1;mercredi;08h10;0
+754;1h00;H;INF;Informatique;Simillion;Fabian;3EC2;101 (INF);H;CG;N;1;mercredi;08h10;0
+755;2h00;H;AL;Allemand;Armbruster;Michèle;2GY5;1;H;CG;N;1;mercredi;08h10;0
+756;2h00;H;AL;Allemand;Brünisholz;Tina;3GY6;204;H;CG;N;1;mercredi;08h10;0
+757;2h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY1;109;H;CG;N;1;mercredi;08h10;0
+758;1h00;H;AL;Allemand;Piller;Angelo;2ECG2;320;H;CG;N;1;mercredi;08h10;0
+759;2h00;H;MA;Mathématiques;Gremaud;Nicolas;3GY2;307;H;CG;N;1;mercredi;08h10;0
+760;1h00;H;MAK;Mathematik;Scherer;Heike;3GY4;203;H;CG;N;1;mercredi;08h10;0
+761;2h00;H;MA;Mathématiques;Andrey;Marielle;4GY2;210;H;CG;N;1;mercredi;08h10;0
+762;1h00;H;HI;Histoire;Murith;Olivier;3ECG4;214;H;CG;N;1;mercredi;08h10;0
+763.1;1h00;H;HI;Histoire;Uldry;Jean-Maurice;3ECG3;105;H;CG;N;1;mercredi;08h10;0
+763.2;1h00;H;HI;Histoire;Uldry;Jean-Maurice;3ECG1;105;H;CG;N;1;mercredi;09h00;0
+764;1h00;H;GEO;Géographie;Bapst;Valérie;1GY01;123 (GEO/MUS);H;CG;N;1;mercredi;08h10;0
+765;1h00;H;GEO;Géographie;Trezzini;Nicole;1ECG5;117 (GEO);H;CG;N;1;mercredi;08h10;0
+766;2h00;H;FICO;Gestion financière (FICO);Charrière;David;3EC1;106;H;CG;N;1;mercredi;08h10;0
+767;2h00;H;PHI;Philosophie;Becquart;Philippe;4GY3;314;H;CG;N;1;mercredi;08h10;0
+768;1h00;H;SOC;Sociologie;Gremion;François;2ECG4;313;H;CG;N;1;mercredi;08h10;0
+769;2h00;H;FR;Français;Wyssa;Anne-Catherine;3GY7;316;H;CG;N;1;mercredi;08h10;0
+770;2h00;H;FR;Français;Bagnoud;François-Xavier;1ECG1;112;H;CG;N;1;mercredi;08h10;0
+771;2h00;H;FR;Français;Perroud;Corinne;1ECG4;309;H;CG;N;1;mercredi;08h10;0
+772;2h00;H;FR;Français;Currat;Martine;2ECG3;115;H;CG;N;1;mercredi;08h10;0
+773;1h00;H;FR;Français;Zumwald;David;3ECG1;310;H;CG;N;1;mercredi;08h10;0
+774;2h00;H;FR;Français;Chauvie;Pascal;3ECG2;304;H;CG;N;1;mercredi;08h10;0
+775;1h00;H;PHY;Physique;Piller;Christian;4GY5;215 (PHY);H;CG;N;1;mercredi;08h10;0
+776;1h00;H;PC;Prof de classe;Chatagny;Richard;1GY06;213;H;CG;N;1;mercredi;08h10;0
+777;1h00;H;PC;Prof de classe;Aeby;Evelyne;3ECG5;209;H;CG;N;1;mercredi;08h10;0
+778.1;2h00;Q1;PHL;Physique labo;Bergem;Patrick;[3GY3/5_PHK];227 (PHL);Q;CG;N;1;mercredi;08h10;0
+778.2;1h00;Q2;PHK;Physik;Bergem;Patrick;[3GY3/5_PHK];217 (PHY);Q;CG;N;1;mercredi;09h00;0
+778.3;1h00;Q1;PHY;Physique;Burckel;Alice;[3GY5_PHY];217 (PHY);Q1;CG;N;1;mercredi;09h00;0
+778.4;2h00;Q2;PHL;Physique labo;Burckel;Alice;[3GY5_PHY];227 (PHL);Q2;CG;N;1;mercredi;08h10;0
+778.5;2h00;H;3sPHY;OS 3 Physique;Kohlprath;Emmanuel;[3GY1/3_PAM];225 (PHL);H;CG;N;1;mercredi;08h10;0
+778.6;1h00;Q2;.;Pas de cours;Bergem;Patrick;[3GY3/5_PHK];;Q;CG;N;1;mercredi;08h10;0
+778.7;1h00;Q1;.;Pas de cours;Burckel;Alice;[3GY5_PHY];;Q;CG;N;1;mercredi;08h10;0
+779.1;2h00;H;FICO;Gestion financière (FICO);Naudeix;Jean-Christophe;2EC1;2;H;CG;N;1;mercredi;08h10;0
+779.2;2h00;H;FICO;Gestion financière (FICO);Wyssmüller;Nicolas;2EC2;308;H;CG;N;1;mercredi;08h10;0
+780.1;2h00;Q1;2sCHI;OS 2 Chimie;Scanu;David;2GY7;218 (CHL);Q1;CG;N;1;mercredi;08h10;0
+780.2;2h00;Q2;2sCHI;OS 2 Chimie;Scanu;David;2GY7;218 (CHL);Q2;CG;N;1;mercredi;08h10;0
+781.1;2h00;H;FR;Français;Castella;Serge;4GY6;110;H;CG;N;1;mercredi;08h10;0
+781.2;2h00;H;FR;Français;Lüthi;Sylvie;4GY4;108;H;CG;N;1;mercredi;08h10;0
+781.3;2h00;H;FR;Français;Python;Stéphanie;4GY7;103;H;CG;N;1;mercredi;08h10;0
+782.1;1h00;H;MA;Mathématiques;Galley;Muriel;1EC2;319;H;CG;N;1;mercredi;08h10;0
+782.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;1EC1;303;H;CG;N;1;mercredi;08h10;0
+783;1h00;H;CHI;Chimie;Braillard;Grégory;2ECG2;216 (CHI);H;CG;N;1;mercredi;09h00;0
+784;1h00;H;LA;Latin;Aeby;Evelyne;[1GY2_LA];209;H;CG;N;1;mercredi;09h00;0
+785;1h00;H;AN;Anglais;Grandjean;Michel;1GY06;205;H;CG;N;1;mercredi;09h00;0
+786;1h00;H;AN;Anglais;Vogt;Jacqueline;3GY4;207;H;CG;N;1;mercredi;09h00;0
+787;1h00;H;AN;Anglais;Valloton;Valérie;3ECG3;211;H;CG;N;1;mercredi;09h00;0
+788;1h00;H;AN;Anglais;Morard;Aurélie;3ECG5;113;H;CG;N;1;mercredi;09h00;0
+789;1h00;H;AN;Anglais;Vogler;Nicole;1ECG5;114;H;CG;N;1;mercredi;09h00;0
+790;1h00;H;AN;Anglais;Bays;Anne;1EC1;107;H;CG;N;1;mercredi;09h00;0
+791;1h00;H;AN;Anglais;Miller;Eric;1EC2;6;H;CG;N;1;mercredi;09h00;0
+792;1h00;H;AL;Allemand;Brantschen;Karin;1GY05;111;H;CG;N;1;mercredi;09h00;0
+793;1h00;H;AL;Allemand;Dillon;Bernard;2GY8;212;H;CG;N;1;mercredi;09h00;0
+794;1h00;H;AL;Allemand;Meyer;Urs;3EC2;206;H;CG;N;1;mercredi;09h00;0
+795.1;1h00;H;MA;Mathématiques;Clerc;Christine;1GY04;310;H;CG;N;1;mercredi;09h00;0
+795.2;1h00;H;MA;Mathématiques;Clerc;Christine;1GY08;310;H;CG;N;1;mercredi;10h05;0
+795.3;1h00;H;MA;Mathématiques;Scyboz;Jacques;1GY01;303;H;CG;N;1;mercredi;09h00;0
+796;1h00;H;MA;Mathématiques;Galley;Muriel;2GY6;319;H;CG;N;1;mercredi;09h00;0
+797;1h00;H;MA;Mathématiques;Chatagny;Richard;2ECG1;213;H;CG;N;1;mercredi;09h00;0
+798;1h00;H;MA;Mathématiques;Mattei;Stéphane;3ECG4;203;H;CG;N;1;mercredi;09h00;0
+799;1h00;H;HI;Histoire;Murith;Olivier;1GY10;214;H;CG;N;1;mercredi;09h00;0
+800;1h00;H;HI;Histoire;Fragnière;Pierre;3GY8;208;H;CG;N;1;mercredi;09h00;0
+801;1h00;H;GEO;Géographie;Trezzini;Nicole;2GY2;117 (GEO);H;CG;N;1;mercredi;09h00;0
+802;1h00;H;GEO;Géographie;Bapst;Valérie;1ECG3;123 (GEO/MUS);H;CG;N;1;mercredi;09h00;0
+803;1h00;H;ECD;Economie et droit;Fragnière;Thomas;1GY07;104;H;CG;N;1;mercredi;09h00;0
+804;1h00;H;CA;Culture antique;Pernet;Christian;1ECG2;315;H;CG;N;1;mercredi;09h00;0
+805;1h00;H;PSY;Psychologie;Gremion;François;2ECG4;313;H;CG;N;1;mercredi;09h00;0
+806;1h00;H;FR;Français;Repond;Micheline;4GY5;320;H;CG;N;1;mercredi;09h00;0
+807;1h00;H;FR;Français;Collomb;Jean-Paul;1GY08;10;H;CG;N;1;mercredi;09h00;0
+808;1h00;H;PHY;Physique;Charrière;Florian;[3GY1_NPAM];215 (PHY);H;CG;N;1;mercredi;09h00;0
+809;2h00;H;AV;Arts visuels;Savary;Daniel;[3ECG3_SOC];301 (ARV);H;CG;N;1;mercredi;10h05;0
+810;1h00;H;CHOR;Art choral;Emery;Marc-Antoine;1ECG5;125 (MUS);H;CG;N;1;mercredi;10h05;0
+811.1;1h00;Q1;BIO;Biologie;Chardonnens;Florence;1ECG2;128 (BIO);Q;CG;N;1;mercredi;10h05;0
+811.2;2h00;Q2;TPB;Biologie labo;Chardonnens;Florence;1ECG2;118 (BIL);Q;CG;N;1;mercredi;10h05;0
+811.3;1h00;Q1;.;Pas de cours;Chardonnens;Florence;1ECG2;;Q;CG;N;1;mercredi;10h55;0
+812.1;1h00;Q2;BIO;Biologie;Conus;Sébastien;2ECG3;128 (BIO);Q;CG;N;1;mercredi;10h05;0
+812.2;2h00;Q1;TPB;Biologie labo;Conus;Sébastien;2ECG3;118 (BIL);Q;CG;N;1;mercredi;10h05;0
+812.3;1h00;Q2;.;Pas de cours;Conus;Sébastien;2ECG3;;Q;CG;N;1;mercredi;10h55;0
+813;1h00;H;CHI;Chimie;Braillard;Grégory;1GY04;228 (CHI);H;CG;N;1;mercredi;10h05;0
+814.1;1h00;Q2;CHI;Chimie;Marion-Veyron;Emmanuel;3ECG1;216 (CHI);Q;CG;N;1;mercredi;10h05;0
+814.2;2h00;Q1;TPC;Chimie labo;Marion-Veyron;Emmanuel;3ECG1;230 (CHL);Q;CG;N;1;mercredi;10h05;0
+814.3;1h00;Q2;.;Pas de cours;Marion-Veyron;Emmanuel;3ECG1;;Q;CG;N;1;mercredi;10h55;0
+815.1;1h00;Q1;CHI;Chimie;Beauverd;Luc;[3ECG3_SAN];216 (CHI);Q;CG;N;1;mercredi;10h05;0
+815.2;2h00;Q2;TPC;Chimie labo;Beauverd;Luc;[3ECG3_SAN];230 (CHL);Q;CG;N;1;mercredi;10h05;0
+815.3;1h00;Q1;.;Pas de cours;Beauverd;Luc;[3ECG3_SAN];;Q;CG;N;1;mercredi;10h55;0
+816.1;1h00;Q2;PHY;Physique;Oberli;Guillaume;2ECG5;215 (PHY);Q;CG;N;1;mercredi;10h05;0
+816.2;2h00;Q1;PHL;Physique labo;Oberli;Guillaume;2ECG5;225 (PHL);Q;CG;N;1;mercredi;10h05;0
+816.3;1h00;Q2;.;Pas de cours;Oberli;Guillaume;2ECG5;;Q;CG;N;1;mercredi;10h55;0
+817.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[4GY1_MA+];115;H;CG;N;1;mercredi;10h05;0
+817.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;[4GY1_MA];303;H;CG;N;1;mercredi;10h05;0
+818.1;1h00;H;MAK+;Mathematik plus;Kohlprath;Emmanuel;[4GY3_MAK+];8;H;CG;N;1;mercredi;10h05;0
+818.2;1h00;H;MAK;Mathematik;Scherer;Heike;[4GY3_MAK];108;H;CG;N;1;mercredi;10h05;0
+819;1h00;H;AN;Anglais;Miller;Eric;1GY02;6;H;CG;N;1;mercredi;10h05;0
+820;2h00;H;AN;Anglais;Uldry;Jean-Maurice;3GY7;105;H;CG;N;1;mercredi;10h05;0
+821;1h00;H;AN;Anglais;Bays;Anne;1ECG1;107;H;CG;N;1;mercredi;10h05;0
+822;1h00;H;AN;Anglais;Vogler;Nicole;1ECG4;114;H;CG;N;1;mercredi;10h05;0
+823;1h00;H;AN;Anglais;Valloton;Valérie;3EC2;211;H;CG;N;1;mercredi;10h05;0
+824;1h00;H;BUR;Bureautique;Simillion;Fabian;1ECG3;101 (INF);H;CG;N;1;mercredi;10h05;0
+825;2h00;H;AL;Allemand;Herzog;Beat;1GY01;308;H;CG;N;1;mercredi;10h05;0
+826;1h00;H;AL;Allemand;Brünisholz;Tina;1GY06;204;H;CG;N;1;mercredi;10h05;0
+827;1h00;H;AL;Allemand;Pollozek;Rose;2GY2;207;H;CG;N;1;mercredi;10h05;0
+828;1h00;H;AL;Allemand;Meyer;Urs;3GY5;206;H;CG;N;1;mercredi;10h05;0
+829;1h00;H;AL;Allemand;Schubert;Holger;4GY4;205;H;CG;N;1;mercredi;10h05;0
+830;1h00;H;AL;Allemand;Piller;Angelo;2ECG4;112;H;CG;N;1;mercredi;10h05;0
+831;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;1EC1;109;H;CG;N;1;mercredi;10h05;0
+832;1h00;H;AL;Allemand;Armbruster;Michèle;3EC1;1;H;CG;N;1;mercredi;10h05;0
+833;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY03;209;H;CG;N;1;mercredi;10h05;0
+834;1h00;H;MA;Mathématiques;Andrey;Marielle;4GY7;210;H;CG;N;1;mercredi;10h05;0
+835;1h00;H;MA;Mathématiques;Mattei;Stéphane;2ECG2;203;H;CG;N;1;mercredi;10h05;0
+836;1h00;H;MA;Mathématiques;Chatagny;Richard;4MSPE;213;H;CG;N;1;mercredi;10h05;0
+837;1h00;H;HI;Histoire;Morard;Aurélie;1GY05;113;H;CG;N;1;mercredi;10h05;0
+838;1h00;H;HI;Histoire;Murith;Olivier;1GY07;214;H;CG;N;1;mercredi;10h05;0
+839;1h00;H;HI;Histoire;Fragnière;Pierre;4GY6;208;H;CG;N;1;mercredi;10h05;0
+840;1h00;H;HI;Histoire;Chauvie;Pascal;3ECG2;304;H;CG;N;1;mercredi;10h05;0
+841;1h00;H;GEO;Géographie;Morin;Cédric;1GY09;117 (GEO);H;CG;N;1;mercredi;10h05;0
+842;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;1EC2;123 (GEO/MUS);H;CG;N;1;mercredi;10h05;0
+843;1h00;H;ECD;Economie et droit;Charrière;David;1GY10;106;H;CG;N;1;mercredi;10h05;0
+844;2h00;H;EE;Economie d'entreprise;Naudeix;Jean-Christophe;2EC1;2;H;CG;N;1;mercredi;10h05;0
+845;1h00;H;EP;Economie politique;Fragnière;Thomas;2EC2;104;H;CG;N;1;mercredi;10h05;0
+846;1h00;H;PHI;Philosophie;Monay;Didier;3GY1;313;H;CG;N;1;mercredi;10h05;0
+847;1h00;H;PHI;Philosophie;Becquart;Philippe;4GY5;314;H;CG;N;1;mercredi;10h05;0
+848;1h00;H;PHE;Philosophie / étique;Mousson;Laurent;3ECG4;315;H;CG;N;1;mercredi;10h05;0
+849;1h00;H;ANA;Anatomie;Coquoz;Jean-Luc;2ECG1;116 (BIO);H;CG;N;1;mercredi;10h05;0
+850;2h00;H;FR;Français;Wyssa;Anne-Catherine;3GY4;316;H;CG;N;1;mercredi;10h05;0
+851;1h00;H;FR;Français;Perroud;Corinne;1ECG6;309;H;CG;N;1;mercredi;10h05;0
+852;2h00;H;FR;Français;Möri;Frédéric;3ECG5;111;H;CG;N;1;mercredi;10h05;0
+853.1;2h00;H;FR;Français;Castella;Serge;3GY2;110;H;CG;N;1;mercredi;10h05;0
+853.2;2h00;H;FR;Français;Collomb;Jean-Paul;3GY8;10;H;CG;N;1;mercredi;10h05;0
+853.3;2h00;H;FR;Français;Python;Stéphanie;3GY3;103;H;CG;N;1;mercredi;10h05;0
+853.4;2h00;H;FR;Français;Zumwald;David;3GY6;307;H;CG;N;1;mercredi;10h05;0
+854;1h00;H;PHY;Physique;Piller;Christian;4GY2;217 (PHY);H;CG;N;1;mercredi;10h05;0
+855;2h30;H;GY;Education physique;Oberson;Jérôme;2GY5;;H;CG;N;1;mercredi;00h00;0
+856;2h30;H;GY;Education physique;Sugnaux;Patrice;2GY6;;H;CG;N;1;mercredi;00h00;0
+857;2h30;H;GY;Education physique;Molleyres;Isabelle;2GY7;;H;CG;N;1;mercredi;00h00;0
+858;2h30;H;GY;Education physique;Gillard;Sylvie;2GY8;;H;CG;N;1;mercredi;00h00;0
+859;1h00;H;CHOR;Art choral;Emery;Marc-Antoine;1ECG6;125 (MUS);H;CG;N;1;mercredi;10h55;0
+860.1;1h00;H;MA+;Mathématiques plus;Andrey;Marielle;[2GY1/2_MA+];210;H;CG;N;1;mercredi;10h55;0
+860.2;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[2GY1/2_MA];212;H;CG;N;1;mercredi;10h55;0
+861;1h00;H;AN;Anglais;Vogt;Jacqueline;4GY4;304;H;CG;N;1;mercredi;10h55;0
+862;1h00;H;AN;Anglais;Vogler;Nicole;3ECG2;114;H;CG;N;1;mercredi;10h55;0
+863;1h00;H;INF;Informatique;Pernet, Simillion;Christian, Fabian;1GY05;101 (INF);H;CG;N;1;mercredi;10h55;0
+864;2h00;H;AL;Allemand;Dillon;Bernard;2GY9;106;H;CG;N;1;mercredi;10h55;0
+865;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;3GY1;109;H;CG;N;1;mercredi;10h55;0
+866;1h00;H;AL;Allemand;Brünisholz;Tina;1ECG3;204;H;CG;N;1;mercredi;10h55;0
+867.1;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY06;213;H;CG;N;1;mercredi;11h45;0
+867.2;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY02;213;H;CG;N;1;mercredi;10h55;0
+868.1;1h00;H;MA;Mathématiques;Galley;Muriel;1GY09;214;H;CG;N;1;mercredi;10h55;0
+868.2;1h00;H;MA;Mathématiques;Galley;Muriel;1GY05;214;H;CG;N;1;mercredi;11h45;0
+869;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY10;209;H;CG;N;1;mercredi;10h55;0
+870.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[2GY3_MA+];115;H;CG;N;1;mercredi;10h55;0
+870.2;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[2GY3/4_MAK];8;H;CG;N;1;mercredi;10h55;0
+870.3;1h00;H;MAK;Mathematik;Scherer;Heike;[2GY4_MAK];108;H;CG;N;1;mercredi;10h55;0
+871;1h00;H;MA;Mathématiques;Mattei;Stéphane;1ECG4;203;H;CG;N;1;mercredi;10h55;0
+872;1h00;H;HI;Histoire;Fragnière;Pierre;4GY1;208;H;CG;N;1;mercredi;10h55;0
+873;1h00;H;GESC;Geschichte;Schubert;Holger;4GY3;205;H;CG;N;1;mercredi;10h55;0
+874;1h00;H;GEO;Géographie;Morin;Cédric;1GY08;117 (GEO);H;CG;N;1;mercredi;10h55;0
+875;1h00;H;GEO;Géographie;Baeriswyl;Valentin;2ECG1;123 (GEO/MUS);H;CG;N;1;mercredi;10h55;0
+876;1h00;H;PHI;Philosophie;Mousson;Laurent;4GY2;315;H;CG;N;1;mercredi;10h55;0
+877;1h00;H;FR;Français;Morard;Monique;3GY5;6;H;CG;N;1;mercredi;10h55;0
+878;1h00;H;FR;Français;Bagnoud;François-Xavier;1ECG5;112;H;CG;N;1;mercredi;10h55;0
+879;1h00;H;FR;Français;Currat;Martine;2ECG4;211;H;CG;N;1;mercredi;10h55;0
+880;2h00;H;FR;Français;Albasini;Marie;2ECG2;107;H;CG;N;1;mercredi;10h55;0
+881;1h00;H;PHY;Physique;Burckel;Alice;4GY7;215 (PHY);H;CG;N;1;mercredi;10h55;0
+882;1h00;H;BIO;Biologie;Galley;Yves;1ECG1;118 (BIL);H;CG;N;1;mercredi;11h45;0
+883.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[3GY1_MA+];115;H;CG;N;1;mercredi;11h45;0
+883.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;[3GY1_MA];113;H;CG;N;1;mercredi;11h45;0
+884.1;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[3GY3/5_MAK];8;H;CG;N;1;mercredi;11h45;0
+884.2;1h00;H;MAK+;Mathematik plus;Scherer;Heike;[3GY3_MAK+];108;H;CG;N;1;mercredi;11h45;0
+884.3;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[3GY5_MA];212;H;CG;N;1;mercredi;11h45;0
+885;1h00;H;AN;Anglais;Luethi;Edyta;3EC1;2;H;CG;N;1;mercredi;11h45;0
+886;1h00;H;BUR;Bureautique;Simillion;Fabian;1EC2;101 (INF);H;CG;N;1;mercredi;11h45;0
+887;1h00;H;MA;Mathématiques;Karth;Laurent;3GY8;209;H;CG;N;1;mercredi;11h45;0
+888;1h00;H;HI;Histoire;Rossier;Serge;2GY1;105;H;CG;N;1;mercredi;11h45;0
+889;1h00;H;HI;Histoire;Fragnière;Pierre;2GY2;208;H;CG;N;1;mercredi;11h45;0
+890;1h00;H;GESC;Geschichte;Schubert;Holger;3GY4;205;H;CG;N;1;mercredi;11h45;0
+891;1h00;H;HI;Histoire;Murith;Olivier;1ECG6;109;H;CG;N;1;mercredi;11h45;0
+892;1h00;H;GEO;Géographie;Trezzini;Nicole;1GY03;123 (GEO/MUS);H;CG;N;1;mercredi;11h45;0
+893;1h00;H;GEO;Géographie;Morin;Cédric;2GY4;117 (GEO);H;CG;N;1;mercredi;11h45;0
+894;1h00;H;EE;Economie d'entreprise;Charrière;David;3EC2;204;H;CG;N;1;mercredi;11h45;0
+895;1h00;H;SR;Science des religions;Möri;Frédéric;1GY04;111;H;CG;N;1;mercredi;11h45;0
+896;1h00;H;PHI;Philosophie;Becquart;Philippe;3GY2;112;H;CG;N;1;mercredi;11h45;0
+897;1h00;H;PEDA;Pédagogie;Gremion;François;3ECG4;1;H;CG;N;1;mercredi;11h45;0
+898;1h00;H;FR;Français;Repond;Micheline;1GY07;114;H;CG;N;1;mercredi;11h45;0
+899;1h00;H;FR;Français;Morard;Monique;2GY3;6;H;CG;N;1;mercredi;11h45;0
+900;1h00;H;FR;Français;Python;Stéphanie;1ECG3;103;H;CG;N;1;mercredi;11h45;0
+901;1h00;H;FR;Français;Zumwald;David;2ECG1;307;H;CG;N;1;mercredi;11h45;0
+902;1h00;H;FR;Français;Chauvie;Pascal;3ECG3;203;H;CG;N;1;mercredi;11h45;0
+903;1h00;H;FR;Français;Lepourtois;Annaïk;1EC1;104;H;CG;N;1;mercredi;11h45;0
+904;1h00;H;PHY;Physique;Burckel;Alice;4GY6;215 (PHY);H;CG;N;1;mercredi;11h45;0
+905;1h00;H;PC;Prof de classe;Wyssmüller;Nicolas;2EC2;207;H;CG;N;1;mercredi;11h45;0
+906;1h00;H;PC;Prof de classe;Currat;Martine;2ECG4;211;H;CG;N;1;mercredi;11h45;0
+907;1h00;H;PC;Prof de classe;Brantschen;Karin;4GY5;303;H;CG;N;1;mercredi;11h45;0
+908.1;1h00;H;PHK;Physik;Bergem;Patrick;[4GY3_NPAM];217 (PHY);H;CG;N;1;mercredi;11h45;0
+908.2;1h00;H;4sPHY;OS 4 Physique;Charrière;Florian;[4GY1/3_PAM];225 (PHL);H;CG;N;1;mercredi;12h35;0
+908.3;1h00;H;PHY;Physique;Oberli;Guillaume;[4GY1_NPAM];217 (PHY);H;CG;N;1;mercredi;12h35;0
+909.1;1h00;H;PHY;Physique;Scanu;David;4MSPE;218 (CHL), 225 (PHL);H;CG;N;1;mercredi;11h45;0
+909.2;1h00;H;CHI;Chimie;Scanu;David;4MSPE;218 (CHL), 227 (PHL);H;CG;N;1;mercredi;12h35;0
+910;1h00;H;BIO;Biologie;Chardonnens;Florence;1GY06;116 (BIO);H;CG;N;1;mercredi;12h35;0
+911;1h00;H;BIO;Biologie;Wannier;Thierry;1GY04;128 (BIO);H;CG;N;1;mercredi;12h35;0
+912.1;1h00;Q2;BIO;Biologie;Conus;Sébastien;1ECG5;126 (BIL);Q;CG;N;1;mercredi;13h25;0
+912.2;2h00;Q1;TPB;Biologie labo;Conus;Sébastien;1ECG5;126 (BIL);Q;CG;N;1;mercredi;12h35;0
+912.3;1h00;Q2;.;Pas de cours;Conus;Sébastien;1ECG5;;Q;CG;N;1;mercredi;12h35;0
+913;1h00;H;CHI;Chimie;Marion-Veyron;Emmanuel;1ECG4;228 (CHI);H;CG;N;1;mercredi;12h35;0
+914;1h00;H;PHY;Physique;Mattei;Stéphane;3ECG2;215 (PHY);H;CG;N;1;mercredi;12h35;0
+915;1h00;H;AN;Anglais;Vogt;Jacqueline;1GY08;113;H;CG;N;1;mercredi;12h35;0
+916;1h00;H;AN;Anglais;Luethi;Edyta;2EC1;2;H;CG;N;1;mercredi;12h35;0
+917;1h00;H;AN;Anglais;Miller;Eric;2EC2;207;H;CG;N;1;mercredi;12h35;0
+918;1h00;H;BUR;Bureautique;Mauron;Charly;2ECG5;101 (INF);H;CG;N;1;mercredi;12h35;0
+919.1;1h00;H;COFR;Correspondance française;Lepourtois;Annaïk;1EC2;102 (INF);H;CG;N;1;mercredi;12h35;0
+919.2;1h00;H;COFR;Correspondance française;Lepourtois;Annaïk;1EC1;102 (INF);H;CG;N;1;mercredi;13h25;0
+920;1h00;H;AL;Allemand;Piller;Angelo;1GY03;105;H;CG;N;1;mercredi;12h35;0
+921;1h00;H;AL;Allemand;Brantschen;Karin;4GY5;303;H;CG;N;1;mercredi;12h35;0
+922;1h00;H;AL;Allemand;Schläfle;Gabriela;4GY6;106;H;CG;N;1;mercredi;12h35;0
+923;1h00;H;AL;Allemand;Grandjean;Michel;1ECG2;213;H;CG;N;1;mercredi;12h35;0
+924;1h00;H;AL;Allemand;Gerber;Eva;3ECG1;10;H;CG;N;1;mercredi;12h35;0
+925;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG1;104;H;CG;N;1;mercredi;12h35;0
+926;1h00;H;HI;Histoire;Wyssa;Anne-Catherine;1GY09;316;H;CG;N;1;mercredi;12h35;0
+927;1h00;H;GEO;Géographie;Murith;Olivier;1GY07;117 (GEO);H;CG;N;1;mercredi;12h35;0
+928;1h00;H;FICO;Gestion financière (FICO);Charrière;David;1EC1;204;H;CG;N;1;mercredi;12h35;0
+929;1h00;H;PHE;Philosophie / étique;Mousson;Laurent;3ECG5;115;H;CG;N;1;mercredi;12h35;0
+930;1h00;H;PSY;Psychologie;Charrière;Stéphanie;[2ECG3_SOC];110;H;CG;N;1;mercredi;12h35;0
+931;1h00;H;FR;Français;Bagnoud;François-Xavier;1GY10;112;H;CG;N;1;mercredi;12h35;0
+932;1h00;H;FR;Français;Chauvie;Pascal;3ECG4;203;H;CG;N;1;mercredi;12h35;0
+933;1h00;H;FR;Français;Castella;Serge;3EC1;309;H;CG;N;1;mercredi;12h35;0
+934;1h00;H;COAL;Correspondance allemande;Meyer;Urs;3EC2;308;H;CG;N;1;mercredi;12h35;0
+935;5h00;H;GY;Education physique;Sottas;Aurélien;3GY6;;H;CG;N;1;mercredi;13h25;0
+936;5h00;H;GY;Education physique;Gillard;Sylvie;3GY3;;H;CG;N;1;mercredi;13h25;0
+937;5h00;H;GY;Education physique;Meyer;David;3GY1;;H;CG;N;1;mercredi;13h25;0
+938;5h00;H;GY;Education physique;Oberson;Jérôme;3GY5;;H;CG;N;1;mercredi;13h25;0
+939;5h00;H;GY;Education physique;Baeriswyl;Valentin;3GY8;;H;CG;N;1;mercredi;13h25;0
+940;5h00;H;GY;Education physique;Molleyres;Isabelle;3GY7;;H;CG;N;1;mercredi;13h25;0
+941;3h00;H;GY;Education physique;Gattoni;Lionel;3GY2;;H;CG;N;1;mercredi;13h25;0
+942;5h00;H;GY;Education physique;Bussard;Jean-Claude;3GY4;;H;CG;N;1;mercredi;13h25;0
+943;2h00;H;AV;Arts visuels;Savary;Daniel;1GY04;301 (ARV);H;CG;N;1;mercredi;13h25;0
+944.1;1h00;Q1;BIO;Biologie;Coquoz;Jean-Luc;1GY02;128 (BIO);Q;CG;N;1;mercredi;14h15;0
+944.2;2h00;Q2;TPB;Biologie labo;Coquoz;Jean-Luc;1GY02;118 (BIL);Q;CG;N;1;mercredi;13h25;0
+944.3;1h00;Q1;.;Pas de cours;Coquoz;Jean-Luc;1GY02;;Q;CG;N;1;mercredi;13h25;0
+945.1;1h00;Q2;PHY;Physique;Savoy;Isabelle;2ECG2;215 (PHY);Q;CG;N;1;mercredi;14h15;0
+945.2;2h00;Q1;PHL;Physique labo;Savoy;Isabelle;2ECG2;227 (PHL);Q;CG;N;1;mercredi;13h25;0
+945.3;1h00;Q2;.;Pas de cours;Savoy;Isabelle;2ECG2;;Q;CG;N;1;mercredi;13h25;0
+946.1;1h00;Q1;PHY;Physique;Charrière;Florian;1ECG3;217 (PHY);Q;CG;N;1;mercredi;14h15;0
+946.2;2h00;Q2;PHL;Physique labo;Charrière;Florian;1ECG3;225 (PHL);Q;CG;N;1;mercredi;13h25;0
+946.3;1h00;Q1;.;Pas de cours;Charrière;Florian;1ECG3;;Q;CG;N;1;mercredi;13h25;0
+947;1h00;H;PHY;Physique;Mattei;Stéphane;1ECG4;215 (PHY);H;CG;N;1;mercredi;13h25;0
+948.1;1h00;Q2;PHY;Physique;Oberli;Guillaume;2ECG4;217 (PHY);Q;CG;N;1;mercredi;14h15;0
+948.2;2h00;Q1;PHL;Physique labo;Oberli;Guillaume;2ECG4;225 (PHL);Q;CG;N;1;mercredi;13h25;0
+948.3;1h00;Q2;.;Pas de cours;Oberli;Guillaume;2ECG4;;Q;CG;N;1;mercredi;13h25;0
+949;1h00;H;AN;Anglais;Uldry;Jean-Maurice;4GY5;211;H;CG;N;1;mercredi;13h25;0
+950;2h00;H;AL;Allemand;Pollozek;Rose;1GY09;307;H;CG;N;1;mercredi;13h25;0
+951;1h00;H;AL;Allemand;Grandjean;Michel;1GY10;213;H;CG;N;1;mercredi;13h25;0
+952;2h00;H;AL;Allemand;Meyer;Urs;4GY3;308;H;CG;N;1;mercredi;13h25;0
+953;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG1;106;H;CG;N;1;mercredi;13h25;0
+954;1h00;H;AL;Allemand;Piller;Angelo;3ECG5;105;H;CG;N;1;mercredi;13h25;0
+955;2h00;H;AL;Allemand;Gerber;Eva;3ECG4;10;H;CG;N;1;mercredi;13h25;0
+956;1h00;H;AL;Allemand;Heldstab;Sidonia;4MSPE;214;H;CG;N;1;mercredi;13h25;0
+957;1h00;H;MA;Mathématiques;Monferini;Catherine;1GY07;104;H;CG;N;1;mercredi;13h25;0
+958;1h00;H;MA;Mathématiques;Clerc;Christine;2GY9;212;H;CG;N;1;mercredi;13h25;0
+959;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG6;203;H;CG;N;1;mercredi;13h25;0
+960;1h00;H;HI;Histoire;Fragnière;Pierre;2GY6;109;H;CG;N;1;mercredi;13h25;0
+961;1h00;H;GESC;Geschichte;Schubert;Holger;4GY4;205;H;CG;N;1;mercredi;13h25;0
+962;1h00;H;HI;Histoire;Allaman;Jérôme;2ECG3;111;H;CG;N;1;mercredi;13h25;0
+963;1h00;H;HI;Histoire;Grandjean;Sylvain;3EC1;8;H;CG;N;1;mercredi;13h25;0
+964;1h00;H;GEO;Géographie;Trezzini;Nicole;1ECG1;117 (GEO);H;CG;N;1;mercredi;13h25;0
+965;1h00;H;GEO;Géographie;Bapst;Valérie;1ECG2;123 (GEO/MUS);H;CG;N;1;mercredi;13h25;0
+966;1h00;H;ECD;Economie et droit;Charrière;David;1GY08;204;H;CG;N;1;mercredi;13h25;0
+967;1h00;H;EE;Economie d'entreprise;Fragnière;Thomas;1EC2;209;H;CG;N;1;mercredi;13h25;0
+968;1h00;H;SR;Science des religions;Peluso;Antonella;1GY05;206;H;CG;N;1;mercredi;13h25;0
+969;1h00;H;SR;Science des religions;Möri;Frédéric;1GY06;107;H;CG;N;1;mercredi;13h25;0
+970;1h00;H;PHI;Philosophie;Monay;Didier;4GY6;6;H;CG;N;1;mercredi;13h25;0
+971;1h00;H;PHE;Philosophie / étique;Mousson;Laurent;3ECG2;115;H;CG;N;1;mercredi;13h25;0
+972;1h00;H;PSY;Psychologie;Vieitez;Araceli;3ECG1;304;H;CG;N;1;mercredi;13h25;0
+973;1h00;H;PSY;Psychologie;Charrière;Stéphanie;3ECG3;110;H;CG;N;1;mercredi;13h25;0
+974;2h00;H;FR;Français;Roubaty;Jean-Benoît;1GY01;1;H;CG;N;1;mercredi;13h25;0
+975;2h00;H;FR;Français;Bagnoud;François-Xavier;1GY03;112;H;CG;N;1;mercredi;13h25;0
+976;2h00;H;FR;Français;Repond;Micheline;2GY4;114;H;CG;N;1;mercredi;13h25;0
+977;1h00;H;FR;Français;Morard;Monique;2GY7;207;H;CG;N;1;mercredi;13h25;0
+978;1h00;H;FR;Français;Currat;Martine;2GY5;108;H;CG;N;1;mercredi;13h25;0
+979;2h00;H;FR;Français;Albasini;Marie;2ECG5;2;H;CG;N;1;mercredi;13h25;0
+980;1h00;H;FR;Français;Mauron;Charly;3EC2;103;H;CG;N;1;mercredi;13h25;0
+981.1;1h00;H;COFR;Correspondance française;Rossier;Serge;2EC1;101 (INF);H;CG;N;1;mercredi;13h25;0
+981.2;1h00;H;FR;Français;Rossier;Serge;2EC1;101 (INF);H;CG;N;1;mercredi;14h15;0
+981.3;1h00;H;COFR;Correspondance française;Collomb;Jean-Paul;2EC2;202 (INF);H;CG;N;1;mercredi;13h25;0
+981.4;1h00;H;FR;Français;Collomb;Jean-Paul;2EC2;202 (INF);H;CG;N;1;mercredi;14h15;0
+982.1;1h00;H;2sCHI;OS 2 Chimie;Beauverd;Luc;[2GY1/2_BIC];228 (CHI);H;CG;N;1;mercredi;13h25;0
+982.2;1h00;H;2sCHI;OS 2 Chimie;Conus;Sébastien;[2GY3_BIC];216 (CHI);H;CG;N;1;mercredi;14h15;0
+982.3;2h00;Q1;TPC;Chimie labo;Marion-Veyron;Emmanuel;[2GY1/3_NBIC];218 (CHL);Q1;CG;N;1;mercredi;13h25;0
+982.4;1h00;Q2;CHI;Chimie;Marion-Veyron;Emmanuel;[2GY1/3_NBIC];228 (CHI);Q2;CG;N;1;mercredi;14h15;0
+982.5;1h00;Q2;.;Pas de cours;Marion-Veyron;Emmanuel;[2GY1/3_NBIC];;Q2;CG;N;1;mercredi;13h25;0
+982.6;1h00;Q1;CHI;Chimie;Scanu;David;[2GY2_NBIC];228 (CHI);Q;CG;N;1;mercredi;14h15;0
+982.7;2h00;Q2;TPC;Chimie labo;Scanu;David;[2GY2_NBIC];218 (CHL);Q;CG;N;1;mercredi;13h25;0
+982.8;1h00;Q1;.;Pas de cours;Scanu;David;[2GY2_NBIC];;Q1;CG;N;1;mercredi;13h25;0
+983;1h00;H;2sES;OS 2 Espagnol;Rivas;Maria;2GY8;210;H;CG;N;1;mercredi;13h25;0
+984.1;2h00;H;FR;Français;Castella;Serge;4GY1;309;H;CG;N;1;mercredi;13h25;0
+984.2;2h00;H;FR;Français;Lüthi;Sylvie;4GY2;303;H;CG;N;1;mercredi;13h25;0
+985;1h00;H;BIO;Biologie;Bapst;Valérie;2GY9;116 (BIO);H;CG;N;1;mercredi;14h15;0
+986.1;1h00;Q2;BIO;Biologie;Chardonnens;Florence;1ECG4;128 (BIO);Q;CG;N;1;mercredi;14h15;0
+986.2;2h00;Q1;TPB;Biologie labo;Chardonnens;Florence;1ECG4;118 (BIL);Q;CG;N;1;mercredi;14h15;0
+986.3;1h00;Q2;.;Pas de cours;Chardonnens;Florence;1ECG4;;Q;CG;N;1;mercredi;15h05;0
+987;1h00;H;AN;Anglais;Luethi;Edyta;1ECG6;109;H;CG;N;1;mercredi;14h15;0
+988.1;1h00;H;AN;Anglais;Uldry;Jean-Maurice;2ECG4;211;H;CG;N;1;mercredi;15h05;0
+988.2;1h00;H;HI;Histoire;Uldry;Jean-Maurice;2ECG1;211;H;CG;N;1;mercredi;14h15;0
+989;2h00;H;AL;Allemand;Grandjean;Michel;1GY08;213;H;CG;N;1;mercredi;14h15;0
+990;1h00;H;AL;Allemand;Piller;Angelo;4GY7;105;H;CG;N;1;mercredi;14h15;0
+991;2h00;H;AL;Allemand;Schubert;Holger;1ECG5;205;H;CG;N;1;mercredi;14h15;0
+992;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG3;106;H;CG;N;1;mercredi;14h15;0
+993;1h00;H;AL;Allemand;Heldstab;Sidonia;3ECG2;214;H;CG;N;1;mercredi;14h15;0
+994;1h00;H;MA;Mathématiques;Charrière;Jérôme;2GY5;108;H;CG;N;1;mercredi;14h15;0
+995;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;4GY4;115;H;CG;N;1;mercredi;14h15;0
+996;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG2;203;H;CG;N;1;mercredi;14h15;0
+997;1h00;H;HI;Histoire;Allaman;Jérôme;2GY7;111;H;CG;N;1;mercredi;14h15;0
+998;1h00;H;HI;Histoire;Grandjean;Sylvain;1ECG1;8;H;CG;N;1;mercredi;14h15;0
+999;1h00;H;GEO;Géographie;Trezzini;Nicole;1GY06;117 (GEO);H;CG;N;1;mercredi;14h15;0
+1000;1h00;H;GEO;Géographie;Murith;Olivier;1GY10;123 (GEO/MUS);H;CG;N;1;mercredi;14h15;0
+1001;1h00;H;ECD;Economie et droit;Charrière;David;1GY05;204;H;CG;N;1;mercredi;14h15;0
+1002;1h00;H;SR;Science des religions;Peluso;Antonella;2GY6;206;H;CG;N;1;mercredi;14h15;0
+1003;1h00;H;PHE;Philosophie / étique;Monay;Didier;3ECG1;6;H;CG;N;1;mercredi;14h15;0
+1004;1h00;H;SOC;Sociologie;Charrière;Stéphanie;3ECG5;110;H;CG;N;1;mercredi;14h15;0
+1005;1h00;H;PEDA;Pédagogie;Gremion;François;[3ECG3_SOC], 4MSPE;207;H;CG;N;1;mercredi;14h15;0
+1006;1h00;H;FR;Français;Mauron;Charly;2GY8;103;H;CG;N;1;mercredi;14h15;0
+1007;1h00;H;FR;Français;Lepourtois;Annaïk;1EC2;104;H;CG;N;1;mercredi;14h15;0
+1008.1;2h00;H;4cINF;OC 4 Informatique;Donner;Cédric;;102 (INF);H;CG;N;1;mercredi;15h05;0
+1008.2;1h00;H;4cINF;OC 4 Informatique;Donner;Cédric;;102 (INF);H;CG;N;1;mercredi;14h15;0
+1009;2h00;H;4cAV;OC 4 Arts visuels;Savary;Daniel;;301 (ARV);H;CG;N;1;mercredi;15h05;0
+1010;2h00;H;4cMU;OC 4 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;mercredi;15h05;0
+1011;1h00;H;BIO;Biologie;Conus;Sébastien;1GY01;128 (BIO);H;CG;N;1;mercredi;15h05;0
+1012;1h00;H;BIO;Biologie;Wannier;Thierry;2GY1;116 (BIO);H;CG;N;1;mercredi;15h05;0
+1013.1;1h00;Q2;CHI;Chimie;Beauverd;Luc;1GY05;228 (CHI);Q;CG;N;1;mercredi;15h05;0
+1013.2;2h00;Q1;TPC;Chimie labo;Beauverd;Luc;1GY05;218 (CHL);Q;CG;N;1;mercredi;15h05;0
+1013.3;1h00;Q2;.;Pas de cours;Beauverd;Luc;1GY05;;Q;CG;N;1;mercredi;15h55;0
+1014.1;1h00;Q1;CHI;Chimie;Marion-Veyron;Emmanuel;1GY10;228 (CHI);Q;CG;N;1;mercredi;15h05;0
+1014.2;2h00;Q2;TPC;Chimie labo;Marion-Veyron;Emmanuel;1GY10;218 (CHL);Q;CG;N;1;mercredi;15h05;0
+1014.3;1h00;Q1;.;Pas de cours;Marion-Veyron;Emmanuel;1GY10;;Q;CG;N;1;mercredi;15h55;0
+1015.1;1h00;Q1;PHY;Physique;Savoy;Isabelle;2ECG1;215 (PHY);Q;CG;N;1;mercredi;15h05;0
+1015.2;2h00;Q2;PHL;Physique labo;Savoy;Isabelle;2ECG1;227 (PHL);Q;CG;N;1;mercredi;15h05;0
+1015.3;1h00;Q1;.;Pas de cours;Savoy;Isabelle;2ECG1;;Q;CG;N;1;mercredi;15h55;0
+1016;1h00;H;BUR;Bureautique;Simillion;Fabian;2ECG3;202 (INF);H;CG;N;1;mercredi;15h05;0
+1017;1h00;H;BUR;Bureautique;Mauron;Charly;2ECG2;101 (INF);H;CG;N;1;mercredi;15h05;0
+1018;2h00;H;AL;Allemand;Brantschen;Karin;1GY02;8;H;CG;N;1;mercredi;15h05;0
+1019;1h00;H;AL;Allemand;Pollozek;Rose;2GY6;307;H;CG;N;1;mercredi;15h05;0
+1020;1h00;H;AL;Allemand;Heldstab;Sidonia;2GY4;214;H;CG;N;1;mercredi;15h05;0
+1021;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG5;106;H;CG;N;1;mercredi;15h05;0
+1022;1h00;H;MA;Mathématiques;Clerc;Christine;2GY7;212;H;CG;N;1;mercredi;15h05;0
+1023;1h00;H;MA;Mathématiques;Oberli;Guillaume;2GY8;208;H;CG;N;1;mercredi;15h05;0
+1024;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG3;109;H;CG;N;1;mercredi;15h05;0
+1025;1h00;H;HI;Histoire;Fragnière;Pierre;2GY9;105;H;CG;N;1;mercredi;15h05;0
+1026;1h00;H;GEO;Géographie;Murith;Olivier;1ECG6;123 (GEO/MUS);H;CG;N;1;mercredi;15h05;0
+1027;1h00;H;SR;Science des religions;Möri;Frédéric;1GY09;107;H;CG;N;1;mercredi;15h05;0
+1028;1h00;H;SR;Science des religions;Peluso;Antonella;2GY2;206;H;CG;N;1;mercredi;15h05;0
+1029;1h00;H;SR;Science des religions;Mousson;Laurent;2GY3;2;H;CG;N;1;mercredi;15h05;0
+1030;1h00;H;SOC;Sociologie;Charrière;Stéphanie;3ECG3;110;H;CG;N;1;mercredi;15h05;0
+1031;1h00;H;FR;Français;Roubaty;Jean-Benoît;1ECG2;1;H;CG;N;1;mercredi;15h05;0
+1032;1h00;H;PC;Prof de classe;Charrière;Jérôme;2GY5;108;H;CG;N;1;mercredi;15h05;0
+1033;1h00;H;PC;Prof de classe;Gerber;Eva;3ECG1;10;H;CG;N;1;mercredi;15h05;0
+1034;2h00;H;4cPHY;OC 4 Physique;Charrière;Florian;;225 (PHL);H;CG;N;1;mercredi;15h05;0
+1035;2h00;H;4cBIO;OC 4 Biologie;Coquoz;Jean-Luc;;126 (BIL);H;CG;N;1;mercredi;15h05;0
+1036;2h00;H;4cGEO;OC 4 Géographie;Bapst;Valérie;;117 (GEO);H;CG;N;1;mercredi;15h05;0
+1037;2h00;H;4cHI;OC 4 Histoire;Rossier;Serge;;103, R06 (INF);H;CG;N;1;mercredi;15h05;0
+1038;2h00;H;4cHI;OC 4 Histoire;Allaman;Jérôme;;111;H;CG;N;1;mercredi;15h05;0
+1039;2h00;H;4cED;OC 4 Economie et droit;Girard;Raoul;;112;H;CG;N;1;mercredi;15h05;0
+1040;2h00;H;4cPSY;OC 4 Psychologie - pédagogie;Vieitez;Araceli;;210;H;CG;N;1;mercredi;15h05;0
+1041;2h00;H;4cPSY;OC 4 Psychologie - pédagogie;Gremion;François;;207;H;CG;N;1;mercredi;15h05;0
+1042;2h00;H;4cPHI;OC 4 Philosophie;Monay;Didier;;6;H;CG;N;1;mercredi;15h05;0
+1043;2h00;H;4cSR;OC 4 Sciences religieuses;Julen;Caroline;;203;H;CG;N;1;mercredi;15h05;0
+1044;2h00;H;OC 4;OC 4;;;4GY1;;H;CG;N;1;mercredi;15h05;0
+1045;2h00;H;OC 4;OC 4;;;4GY2;;H;CG;N;1;mercredi;15h05;0
+1046;2h00;H;OC 4;OC 4;;;4GY3;;H;CG;N;1;mercredi;15h05;0
+1047;2h00;H;OC 4;OC 4;;;4GY4;;H;CG;N;1;mercredi;15h05;0
+1048;2h00;H;OC 4;OC 4;;;4GY5;;H;CG;N;1;mercredi;15h05;0
+1049;2h00;H;OC 4;OC 4;;;4GY6;;H;CG;N;1;mercredi;15h05;0
+1050;2h00;H;OC 4;OC 4;;;4GY7;;H;CG;N;1;mercredi;15h05;0
+1051;2h00;H;4cSP;OC 4 Sport;Gattoni;Lionel;;;H;CG;N;1;mercredi;15h55;0
+1052;2h00;H;GY;Education physique;;;3GY2;;H;CG;N;1;mercredi;15h55;0
+1053;1h00;H;CHI;Chimie;Scanu;David;2GY9;228 (CHI);H;CG;N;1;mercredi;15h55;0
+1054;1h00;H;BUR;Bureautique;Simillion;Fabian;1ECG6;202 (INF);H;CG;N;1;mercredi;15h55;0
+1055;1h00;H;GESC;Geschichte;Schubert;Holger;2GY4;205;H;CG;N;1;mercredi;15h55;0
+1056;1h00;H;GEO;Géographie;Trezzini;Nicole;2ECG2;123 (GEO/MUS);H;CG;N;1;mercredi;15h55;0
+1057;1h00;H;SR;Science des religions;Peluso;Antonella;1GY01;206;H;CG;N;1;mercredi;15h55;0
+1058;1h00;H;PC;Prof de classe;Morard;Monique;2GY3;2;H;CG;N;1;mercredi;15h55;0
+1059;1h00;H;METH;Méthologie 2e ECG;Charrière;Stéphanie;2ECG5;101 (INF);H;CG;N;1;mercredi;15h55;0
+1060;2h30;H;GY;Education physique;Gattoni;Lionel;2EC1;;H;CG;N;1;jeudi;08h10;0
+1061;2h30;H;GY;Education physique;Sottas;Aurélien;2ECG1;;H;CG;N;1;jeudi;08h10;0
+1062;2h30;H;GY;Education physique;Meyer;David;2ECG2;;H;CG;N;1;jeudi;08h10;0
+1063;2h30;H;GY;Education physique;Catillaz;Marco;2ECG3;;H;CG;N;1;jeudi;08h10;0
+1064.1;2h00;H;MU;Musique;Bochud;Marc;[1GY2/3_MU];123 (GEO/MUS);H;CG;N;1;jeudi;08h10;0
+1064.2;2h00;H;AV;Arts visuels;Ottiger;Vincent;[1GY3/6_AV];201 (ARV);H;CG;N;1;jeudi;08h10;0
+1064.3;2h00;H;AV;Arts visuels;Savary;Daniel;[1GY2_AV];301 (ARV);H;CG;N;1;jeudi;08h10;0
+1064.4;2h00;H;MU;Musique;Maillard;Bernard;[1GY6_MU];125 (MUS);H;CG;N;1;jeudi;08h10;0
+1065;1h00;H;CHI;Chimie;Marion-Veyron;Emmanuel;1GY10;228 (CHI);H;CG;N;1;jeudi;08h10;0
+1066.1;1h00;Q2;CHI;Chimie;Conus;Sébastien;3ECG2;216 (CHI);Q;CG;N;1;jeudi;09h00;0
+1066.2;2h00;Q1;TPC;Chimie labo;Conus;Sébastien;3ECG2;230 (CHL);Q;CG;N;1;jeudi;08h10;0
+1066.3;1h00;Q2;.;Pas de cours;Conus;Sébastien;3ECG2;;Q;CG;N;1;jeudi;08h10;0
+1067;1h00;H;CHI;Chimie;Beauverd;Luc;2GY5;216 (CHI);H;CG;N;1;jeudi;08h10;0
+1068.1;1h00;H;AN;Anglais;Herzog;Beat;[3GY1/3_AN];109;H;CG;N;1;jeudi;08h10;0
+1068.2;1h00;H;IT;Italien;Andreetta;Tibisay;[3GY1/2/3_IT];309;H;CG;N;1;jeudi;08h10;0
+1068.3;1h00;H;AN;Anglais;Nottage;Jeff;[3GY2_AN];115;H;CG;N;1;jeudi;08h10;0
+1068.4;1h00;H;LA;Latin;Caligiuri;Angelo;[3GY1/3_LA];107;H;CG;N;1;jeudi;08h10;0
+1069;1h00;H;AN;Anglais;Roehlk;Nadine;1GY04;104;H;CG;N;1;jeudi;08h10;0
+1070;1h00;H;AN;Anglais;Akin;Banu;3GY5;108;H;CG;N;1;jeudi;08h10;0
+1071;1h00;H;AN;Anglais;Lauber;Josiane;4GY7;106;H;CG;N;1;jeudi;08h10;0
+1072;1h00;H;AN;Anglais;Borloz;Isabelle;2ECG5;206;H;CG;N;1;jeudi;08h10;0
+1073;1h00;H;AN;Anglais;Uldry;Jean-Maurice;3ECG1;112;H;CG;N;1;jeudi;08h10;0
+1074.1;1h00;H;BUR;Bureautique;Fidanza;Laurence;1EC1;101 (INF);H;CG;N;1;jeudi;08h10;0
+1074.2;1h00;H;INF;Informatique;Fidanza;Laurence;1EC1;101 (INF);H;CG;N;1;jeudi;09h00;0
+1074.3;1h00;H;BUR;Bureautique;Simillion;Fabian;1EC2;102 (INF);H;CG;N;1;jeudi;08h10;0
+1074.4;1h00;H;INF;Informatique;Simillion;Fabian;1EC2;102 (INF);H;CG;N;1;jeudi;09h00;0
+1075;1h00;H;AL;Allemand;Bongard;Ydia;2GY1;203;H;CG;N;1;jeudi;08h10;0
+1076;1h00;H;AL;Allemand;Dillon;Bernard;2GY9;111;H;CG;N;1;jeudi;08h10;0
+1077;1h00;H;AL;Allemand;Brülhart;Karin;3GY8;10;H;CG;N;1;jeudi;08h10;0
+1078;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY1;105;H;CG;N;1;jeudi;08h10;0
+1079;1h00;H;AL;Allemand;Brantschen;Karin;4GY5;1;H;CG;N;1;jeudi;08h10;0
+1080;2h00;H;AL;Allemand;Pollozek;Rose;1ECG1;322;H;CG;N;1;jeudi;08h10;0
+1081;1h00;H;AL;Allemand;Gerber;Eva;1ECG6;321;H;CG;N;1;jeudi;08h10;0
+1082;1h00;H;MA;Mathématiques;Galley;Muriel;1GY09;204;H;CG;N;1;jeudi;08h10;0
+1083.1;2h00;H;MA;Mathématiques;Charrière;Florian;3GY6;213;H;CG;N;1;jeudi;08h10;0
+1083.2;1h00;H;MA;Mathématiques;Karth;Laurent;3GY8;203;H;CG;N;1;jeudi;09h00;0
+1084;1h00;H;MA;Mathématiques;Scyboz;Jacques;3GY7;205;H;CG;N;1;jeudi;08h10;0
+1085;1h00;H;MAK;Mathematik;Scherer;Heike;3GY4;103;H;CG;N;1;jeudi;08h10;0
+1086;1h00;H;FR;Français;Lüthi;Sylvie;4GY2;208;H;CG;N;1;jeudi;08h10;0
+1087;1h00;H;HI;Histoire;Grandjean;Sylvain;1ECG2;319;H;CG;N;1;jeudi;08h10;0
+1088;1h00;H;HI;Histoire;Gachet;Alexandre;1ECG3;212;H;CG;N;1;jeudi;08h10;0
+1089;1h00;H;HI;Histoire;Murith;Olivier;3ECG5;209;H;CG;N;1;jeudi;08h10;0
+1090;1h00;H;GEO;Géographie;Gillard;Sylvie;2GY6;117 (GEO);H;CG;N;1;jeudi;08h10;0
+1091;1h00;H;DR;Droit;Fragnière;Thomas;3EC2;211;H;CG;N;1;jeudi;08h10;0
+1092.1;1h00;H;PHI;Philosophie;Monay;Didier;4GY6;320;H;CG;N;1;jeudi;09h00;0
+1092.2;1h00;H;PHI;Philosophie;Monay;Didier;4GY4;320;H;CG;N;1;jeudi;08h10;0
+1093;1h00;H;ECD;Economie et droit;Monney;Florent;3ECG4;110;H;CG;N;1;jeudi;08h10;0
+1094;1h00;H;CA;Culture antique;Aeby;Evelyne;1ECG5;6;H;CG;N;1;jeudi;08h10;0
+1095;1h00;H;FR;Français;Roubaty;Jean-Benoît;4GY3;314;H;CG;N;1;jeudi;08h10;0
+1096;1h00;H;FR;Français;Repond;Micheline;2GY4;114;H;CG;N;1;jeudi;08h10;0
+1097;1h00;H;FR;Français;Mauron;Charly;2GY8;313;H;CG;N;1;jeudi;08h10;0
+1098;1h00;H;FR;Français;Perroud;Corinne;1ECG4;304;H;CG;N;1;jeudi;08h10;0
+1099;1h00;H;FR;Français;Currat;Martine;2ECG4;307;H;CG;N;1;jeudi;08h10;0
+1100;1h00;H;FR;Français;Collomb;Jean-Paul;2EC2;308;H;CG;N;1;jeudi;08h10;0
+1101;2h00;H;FR;Français;Pasquier;Claire-Lyse;4MSPE;8;H;CG;N;1;jeudi;08h10;0
+1102;1h00;H;COAL;Correspondance allemande;Armbruster;Michèle;3EC1;207;H;CG;N;1;jeudi;08h10;0
+1103;1h00;H;PC;Prof de classe;Chauvie;Pascal;3ECG3;310;H;CG;N;1;jeudi;08h10;0
+1104.1;2h00;H;2sPHY;OS 2 Physique;Bergem;Patrick;[2GY2/3_PAM];225 (PHL);H;CG;N;1;jeudi;08h10;0
+1104.2;1h00;H;PHK;Physik;Kohlprath;Emmanuel;[2GY3_NPAM];217 (PHY);H;CG;N;1;jeudi;08h10;0
+1104.3;1h00;H;PHY;Physique;Oberli;Guillaume;[2GY2_NPAM];215 (PHY);H;CG;N;1;jeudi;08h10;0
+1105.1;2h00;Q1;2sBIO;OS 2 Biologie;Coquoz;Jean-Luc;2GY7;118 (BIL);Q;CG;N;1;jeudi;08h10;0
+1105.2;1h00;Q2;2sBIO;OS 2 Biologie;Coquoz;Jean-Luc;2GY7;118 (BIL);Q;CG;N;1;jeudi;09h00;0
+1105.3;1h00;Q2;.;Pas de cours;Coquoz;Jean-Luc;2GY7;;Q2;CG;N;1;jeudi;08h10;0
+1106;1h00;H;CHI;Chimie;Marion-Veyron;Emmanuel;1ECG2;228 (CHI);H;CG;N;1;jeudi;09h00;0
+1107;1h00;H;PHY;Physique;Oberli;Guillaume;3GY2;215 (PHY);H;CG;N;1;jeudi;09h00;0
+1108.1;1h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[3GY1_MA+];1;H;CG;N;1;jeudi;09h00;0
+1108.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;[3GY1_MA];205;H;CG;N;1;jeudi;09h00;0
+1109.1;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[3GY3/5_MAK];214;H;CG;N;1;jeudi;09h00;0
+1109.2;1h00;H;MAK+;Mathematik plus;Scherer;Heike;[3GY3_MAK+];103;H;CG;N;1;jeudi;09h00;0
+1109.3;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[3GY5_MA];315;H;CG;N;1;jeudi;09h00;0
+1110.1;1h00;H;AN;Anglais;Lauber;Josiane;[4GY1/3_AN];106;H;CG;N;1;jeudi;09h00;0
+1110.2;1h00;H;IT;Italien;Andreetta;Tibisay;[4GY1/3_IT];309;H;CG;N;1;jeudi;09h00;0
+1110.3;1h00;H;LA;Latin;Sudan;Bruno;[4GY1/3_LA];109;H;CG;N;1;jeudi;09h00;0
+1111;1h00;H;2sGR;OS 2 Grec;Caligiuri;Angelo;;107;H;CG;N;1;jeudi;09h00;0
+1112;1h00;H;2sAN;OS 2 Anglais;Akin;Banu;;108;H;CG;N;1;jeudi;09h00;0
+1113;1h00;H;2sIT;OS 2 Italien;Coowar-Ringenbach;Rhéa Esther;;307;H;CG;N;1;jeudi;09h00;0
+1114;1h00;H;2sED;OS 2 Economie et droit;Kolly;Anne-Claude;;2;H;CG;N;1;jeudi;09h00;0
+1115;1h00;H;AN;Anglais;Nottage;Jeff;4GY2;115;H;CG;N;1;jeudi;09h00;0
+1116;1h00;H;AN;Anglais;Uldry;Jean-Maurice;4GY5;112;H;CG;N;1;jeudi;09h00;0
+1117;1h00;H;AN;Anglais;Morard;Aurélie;1ECG3;104;H;CG;N;1;jeudi;09h00;0
+1118;1h00;H;AN;Anglais;Vogler;Nicole;1ECG4;113;H;CG;N;1;jeudi;09h00;0
+1119;1h00;H;AL;Allemand;Dillon;Bernard;2GY8;111;H;CG;N;1;jeudi;09h00;0
+1120;1h00;H;AL;Allemand;Brülhart;Karin;3GY4;10;H;CG;N;1;jeudi;09h00;0
+1121;1h00;H;AL;Allemand;Schubert;Holger;1ECG5;206;H;CG;N;1;jeudi;09h00;0
+1122.1;1h00;H;AL;Allemand;Gerber;Eva;3ECG4;321;H;CG;N;1;jeudi;09h00;0
+1122.2;1h00;H;AL;Allemand;Gerber;Eva;3ECG1;321;H;CG;N;1;jeudi;10h05;0
+1123;1h00;H;AL;Allemand;Armbruster;Michèle;2EC2;207;H;CG;N;1;jeudi;09h00;0
+1124.1;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY10;6;H;CG;N;1;jeudi;09h00;0
+1124.2;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY03;6;H;CG;N;1;jeudi;10h05;0
+1125;1h00;H;MA;Mathématiques;Galley;Muriel;1GY05;204;H;CG;N;1;jeudi;09h00;0
+1126;1h00;H;MA;Mathématiques;Andrey;Marielle;4GY7;313;H;CG;N;1;jeudi;09h00;0
+1127;1h00;H;MA;Mathématiques;Chatagny;Richard;2ECG5;210;H;CG;N;1;jeudi;09h00;0
+1128;1h00;H;HI;Histoire;Collomb;Jean-Paul;1GY08;308;H;CG;N;1;jeudi;09h00;0
+1129;1h00;H;HI;Histoire;Gachet;Alexandre;2ECG4;212;H;CG;N;1;jeudi;09h00;0
+1130;1h00;H;HI;Histoire;Grandjean;Sylvain;3EC2;319;H;CG;N;1;jeudi;09h00;0
+1131;1h00;H;GEO;Géographie;Murith;Olivier;1GY07;117 (GEO);H;CG;N;1;jeudi;09h00;0
+1132;1h00;H;ECD;Economie et droit;Fragnière;Thomas;1GY09;211;H;CG;N;1;jeudi;09h00;0
+1133;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY04;209;H;CG;N;1;jeudi;09h00;0
+1134;1h00;H;FICO;Gestion financière (FICO);Charrière;David;3EC1;105;H;CG;N;1;jeudi;09h00;0
+1135;1h00;H;ECD;Economie et droit;Monney;Florent;[3ECG3_SOC];110;H;CG;N;1;jeudi;09h00;0
+1136;1h00;H;ANA;Anatomie;Monney;Anne-Valérie;[3ECG3_SAN];126 (BIL);H;CG;N;1;jeudi;09h00;0
+1137;1h00;H;SOC;Sociologie;Vieitez;Araceli;3ECG1;310;H;CG;N;1;jeudi;09h00;0
+1138;1h00;H;FR;Français;Lüthi;Sylvie;4GY4;208;H;CG;N;1;jeudi;09h00;0
+1139;1h00;H;FR;Français;Roubaty;Jean-Benoît;1GY01;314;H;CG;N;1;jeudi;09h00;0
+1140;1h00;H;FR;Français;Wyssa;Anne-Catherine;3GY7;316;H;CG;N;1;jeudi;09h00;0
+1141;1h00;H;FR;Français;Perroud;Corinne;1ECG6;304;H;CG;N;1;jeudi;09h00;0
+1142;1h00;H;FR;Français;Möri;Frédéric;3ECG5;114;H;CG;N;1;jeudi;09h00;0
+1143;1h00;H;OS 2;OS 2;;;[2GY1_NBIC];;H;CG;N;1;jeudi;09h00;0
+1144;1h00;H;OS 2;OS 2;;;[2GY2_NBIC-NPAM];;H;CG;N;1;jeudi;09h00;0
+1145;1h00;H;OS 2;OS 2;;;2GY4;;H;CG;N;1;jeudi;09h00;0
+1146;1h00;H;OS 2;OS 2;;;2GY5;;H;CG;N;1;jeudi;09h00;0
+1147;1h00;H;OS 2;OS 2;;;2GY6;;H;CG;N;1;jeudi;09h00;0
+1148;1h00;H;OS 2;OS 2;;;2GY9;;H;CG;N;1;jeudi;09h00;0
+1149;1h00;H;OS 2;OS 2;;;[2GY3_NBIC-NPAM];;H;CG;N;1;jeudi;09h00;0
+1150;1h00;H;2sBIO;OS 2 Biologie;Galley;Yves;[2GY1/2_BIC];116 (BIO);H;CG;N;1;jeudi;09h00;0
+1151;1h00;H;2sBIO;OS 2 Biologie;Wannier;Thierry;[2GY3_BIC];128 (BIO);H;CG;N;1;jeudi;09h00;0
+1152;2h00;H;AV;Arts visuels;Gex;Dominique;1EC2;302 (ARV);H;CG;N;1;jeudi;10h05;0
+1153;2h00;H;3sAV;OS 3 Arts visuels;Savary;Daniel;;301 (ARV);H;CG;N;1;jeudi;10h05;0
+1154;2h00;H;3sMU;OS 3 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;jeudi;10h05;0
+1155.1;1h00;Q1;BIO;Biologie;Künzli;Esther;1GY10;128 (BIO);Q;CG;N;1;jeudi;10h05;0
+1155.2;2h00;Q2;TPB;Biologie labo;Künzli;Esther;1GY10;118 (BIL);Q;CG;N;1;jeudi;10h05;0
+1155.3;1h00;Q1;.;Pas de cours;Künzli;Esther;1GY10;;Q;CG;N;1;jeudi;10h55;0
+1156.1;1h00;Q2;BIO;Biologie;Wannier;Thierry;2GY6;128 (BIO);Q;CG;N;1;jeudi;10h05;0
+1156.2;2h00;Q1;TPB;Biologie labo;Wannier;Thierry;2GY6;118 (BIL);Q;CG;N;1;jeudi;10h05;0
+1156.3;1h00;Q2;.;Pas de cours;Wannier;Thierry;2GY6;;Q;CG;N;1;jeudi;10h55;0
+1157;1h00;H;BIO;Biologie;Galley;Yves;1ECG6;116 (BIO);H;CG;N;1;jeudi;10h05;0
+1158.1;1h00;Q1;PHY;Physique;Mattei;Stéphane;2GY1;217 (PHY);Q;CG;N;1;jeudi;10h05;0
+1158.2;2h00;Q2;PHL;Physique labo;Mattei;Stéphane;2GY1;225 (PHL);Q;CG;N;1;jeudi;10h05;0
+1158.3;1h00;Q1;.;Pas de cours;Mattei;Stéphane;2GY1;;Q;CG;N;1;jeudi;10h55;0
+1159.1;1h00;Q2;PHY;Physique;Savoy;Isabelle;1ECG1;217 (PHY);Q;CG;N;1;jeudi;10h05;0
+1159.2;2h00;Q1;PHL;Physique labo;Savoy;Isabelle;1ECG1;225 (PHL);Q;CG;N;1;jeudi;10h05;0
+1159.3;1h00;Q2;.;Pas de cours;Savoy;Isabelle;1ECG1;;Q;CG;N;1;jeudi;10h55;0
+1160;1h00;H;PHY;Physique;Charrière;Florian;1ECG3;215 (PHY);H;CG;N;1;jeudi;10h05;0
+1161.1;2h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[4GY1_MA+];1;H;CG;N;1;jeudi;10h05;0
+1161.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;[4GY1_MA];205;H;CG;N;1;jeudi;10h55;0
+1162.1;2h00;H;MAK+;Mathematik plus;Kohlprath;Emmanuel;[4GY3_MAK+];214;H;CG;N;1;jeudi;10h05;0
+1162.2;1h00;H;MAK;Mathematik;Scherer;Heike;[4GY3_MAK];103;H;CG;N;1;jeudi;10h05;0
+1163;1h00;H;3sGR;OS 3 Grec;Sudan;Bruno;;109;H;CG;N;1;jeudi;10h05;0
+1164;2h00;H;3sAN;OS 3 Anglais;Lauber;Josiane;;106;H;CG;N;1;jeudi;10h05;0
+1165;2h00;H;3sIT;OS 3 Italien;Coowar-Ringenbach;Rhéa Esther;;307;H;CG;N;1;jeudi;10h05;0
+1166;2h00;H;3sES;OS 3 Espagnol;Rivas;Maria;;210;H;CG;N;1;jeudi;10h05;0
+1167;2h00;H;3sES;OS 3 Espagnol;Vieitez;Araceli;;310;H;CG;N;1;jeudi;10h05;0
+1168.1;2h00;H;MU;Musique;Bochud;Marc;[1GY1/8_MU];123 (GEO/MUS);H;CG;N;1;jeudi;10h05;0
+1168.2;2h00;H;AV;Arts visuels;Ottiger;Vincent;[1GY1/8_AV];201 (ARV);H;CG;N;1;jeudi;10h05;0
+1169;1h00;H;AN;Anglais;Roehlk;Nadine;1GY05;104;H;CG;N;1;jeudi;10h05;0
+1170;1h00;H;AN;Anglais;Nottage;Jeff;3GY6;115;H;CG;N;1;jeudi;10h05;0
+1171;1h00;H;AN;Anglais;Vogler;Nicole;1ECG5;113;H;CG;N;1;jeudi;10h05;0
+1172;1h00;H;AN;Anglais;Borloz;Isabelle;3ECG4;112;H;CG;N;1;jeudi;10h05;0
+1173;1h00;H;INF;Informatique;Fidanza, Simillion;Laurence, Fabian;1GY06;101 (INF);H;CG;N;1;jeudi;10h05;0
+1174;1h00;H;AL;Allemand;Armbruster;Michèle;2GY7;207;H;CG;N;1;jeudi;10h05;0
+1175;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY2;10;H;CG;N;1;jeudi;10h05;0
+1176;1h00;H;AL;Allemand;Schubert;Holger;4GY4;206;H;CG;N;1;jeudi;10h05;0
+1177;2h00;H;AL;Allemand;Brantschen;Karin;3ECG3;111;H;CG;N;1;jeudi;10h05;0
+1178;2h00;H;AL;Allemand;Heldstab;Sidonia;4MSPE;213;H;CG;N;1;jeudi;10h05;0
+1179.1;1h00;H;MA;Mathématiques;Andrey;Marielle;4GY7;313;H;CG;N;1;jeudi;10h05;0
+1179.2;1h00;H;MA;Mathématiques;Andrey;Marielle;4GY2;313;H;CG;N;1;jeudi;10h55;0
+1180;1h00;H;HI;Histoire;Wyssa;Anne-Catherine;1GY04;316;H;CG;N;1;jeudi;10h05;0
+1181;1h00;H;HI;Histoire;Collomb;Jean-Paul;1GY02;308;H;CG;N;1;jeudi;10h05;0
+1182;1h00;H;HI;Histoire;Murith;Olivier;1ECG4;211;H;CG;N;1;jeudi;10h05;0
+1183;1h00;H;GEO;Géographie;Gillard;Sylvie;2GY8;117 (GEO);H;CG;N;1;jeudi;10h05;0
+1184;2h00;H;FICO;Gestion financière (FICO);Charrière;David;1EC1;105;H;CG;N;1;jeudi;10h05;0
+1185;1h00;H;ECD;Economie et droit;Monney;Florent;3ECG5;110;H;CG;N;1;jeudi;10h05;0
+1186;1h00;H;FR;Français;Repond;Micheline;1GY07;114;H;CG;N;1;jeudi;10h05;0
+1187;2h00;H;FR;Français;Pasquier;Claire-Lyse;1GY09;8;H;CG;N;1;jeudi;10h05;0
+1188;1h00;H;FR;Français;Gachet;Alexandre;2GY9;212;H;CG;N;1;jeudi;10h05;0
+1189;1h00;H;FR;Français;Morard;Monique;2GY3;208;H;CG;N;1;jeudi;10h05;0
+1190;2h00;H;FR;Français;Currat;Martine;2GY5;309;H;CG;N;1;jeudi;10h05;0
+1191;1h00;H;FR;Français;Roubaty;Jean-Benoît;1ECG2;314;H;CG;N;1;jeudi;10h05;0
+1192;1h00;H;FR;Français;Chauvie;Pascal;3ECG2;304;H;CG;N;1;jeudi;10h05;0
+1193;1h00;H;Cons. dir.;Conseil direction;Bays, Caligiuri, Morin, Piller, Sudan;Anne, Angelo, Cédric, Christian, Mélanie;;;H;CG;N;1;jeudi;10h05;0
+1194;2h00;H;3sLAA;OS 3 Latin avancés;Pernet;Christian;;108;H;CG;N;1;jeudi;10h05;0
+1195;2h00;H;3sED;OS 3 Economie et droit;Rime;Sylvie;;107;H;CG;N;1;jeudi;10h05;0
+1196;2h00;H;3sED;OS 3 Economie et droit;Kolly;Anne-Claude;;2;H;CG;N;1;jeudi;10h05;0
+1197;2h00;H;3sAM;OS 3 Applications des maths;Karth;Laurent;[3GY1/3_PAM];102 (INF);H;CG;N;1;jeudi;10h05;0
+1198;2h00;H;OS 3;OS 3;;;3GY2;;H;CG;N;1;jeudi;10h05;0
+1199;2h00;H;OS 3;OS 3;;;3GY4;;H;CG;N;1;jeudi;10h05;0
+1200;2h00;H;OS 3;OS 3;;;3GY7;;H;CG;N;1;jeudi;10h05;0
+1201;2h00;H;OS 3;OS 3;;;3GY5;;H;CG;N;1;jeudi;10h05;0
+1202;2h00;H;OS 3;OS 3;;;3GY8;;H;CG;N;1;jeudi;10h05;0
+1203;2h00;H;OS 3;OS 3;;;[3GY1_NPAM];;H;CG;N;1;jeudi;10h05;0
+1204;2h00;H;OS 3;OS 3;;;[3GY3_NPAM];;H;CG;N;1;jeudi;10h05;0
+1205;1h00;H;3sCHI;OS 3 Chimie;Marion-Veyron;Emmanuel;;228 (CHI);H;CG;N;1;jeudi;10h05;0
+1206.1;1h00;Q1;CHI;Chimie;Conus;Sébastien;2GY4;216 (CHI);Q;CG;N;1;jeudi;10h05;0
+1206.2;2h00;Q2;TPC;Chimie labo;Conus;Sébastien;2GY4;218 (CHL);Q;CG;N;1;jeudi;10h05;0
+1206.3;1h00;Q1;.;Pas de cours;Conus;Sébastien;2GY4;;Q;CG;N;1;jeudi;10h55;0
+1207.1;1h00;H;MA;Mathématiques;Oberli;Guillaume;3EC2;209;H;CG;N;1;jeudi;10h05;0
+1207.2;1h00;H;MA;Mathématiques;Scyboz;Jacques;3EC1;205;H;CG;N;1;jeudi;10h05;0
+1208.1;1h00;H;MA;Mathématiques;Chatagny;Richard;4GY5;204;H;CG;N;1;jeudi;10h05;0
+1208.2;1h00;H;MA;Mathématiques;Gremaud;Nicolas;4GY6;315;H;CG;N;1;jeudi;10h05;0
+1209;2h30;H;GY;Education physique;Gattoni;Lionel;2EC2;;H;CG;N;1;jeudi;00h00;0
+1210;2h30;H;GY;Education physique;Sauteur;Stéphane;2ECG4;;H;CG;N;1;jeudi;00h00;0
+1211;2h30;H;GY;Education physique;Catillaz;Marco;2ECG5;;H;CG;N;1;jeudi;00h00;0
+1212;2h30;H;GY;Education physique;Meyer;David;2GY2;;H;CG;N;1;jeudi;00h00;0
+1213;1h00;H;BID;Biologie bilingues;Murith;Valérie;2GY3;116 (BIO);H;CG;N;1;jeudi;10h55;0
+1214;1h00;H;CHI;Chimie;Marion-Veyron;Emmanuel;1GY03;228 (CHI);H;CG;N;1;jeudi;10h55;0
+1215.1;1h00;Q2;CHI;Chimie;Braillard;Grégory;2GY8;216 (CHI);Q;CG;N;1;jeudi;10h55;0
+1215.2;2h00;Q1;TPC;Chimie labo;Braillard;Grégory;2GY8;218 (CHL);Q;CG;N;1;jeudi;10h55;0
+1215.3;1h00;Q2;.;Pas de cours;Braillard;Grégory;2GY8;;Q;CG;N;1;jeudi;11h45;0
+1216;1h00;H;PHY;Physique;Charrière;Florian;1ECG6;215 (PHY);H;CG;N;1;jeudi;10h55;0
+1217;1h00;H;AN;Anglais;Nottage;Jeff;4GY6;115;H;CG;N;1;jeudi;10h55;0
+1218;1h00;H;AN;Anglais;Vogler;Nicole;3ECG2;113;H;CG;N;1;jeudi;10h55;0
+1219;1h00;H;AN;Anglais;Borloz;Isabelle;2ECG2;112;H;CG;N;1;jeudi;10h55;0
+1220;2h00;H;BUR;Bureautique;Simillion;Fabian;2ECG3;101 (INF);H;CG;N;1;jeudi;10h55;0
+1221;1h00;H;AL;Allemand;Bongard;Ydia;1GY07;203;H;CG;N;1;jeudi;10h55;0
+1222;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY06;204;H;CG;N;1;jeudi;10h55;0
+1223;1h00;H;HI;Histoire;Allaman;Jérôme;3GY6;109;H;CG;N;1;jeudi;10h55;0
+1224;1h00;H;GEO;Géographie;Trezzini;Nicole;1GY05;117 (GEO);H;CG;N;1;jeudi;10h55;0
+1225;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY02;206;H;CG;N;1;jeudi;10h55;0
+1226;1h00;H;SR;Science des religions;Möri;Frédéric;2GY9;207;H;CG;N;1;jeudi;10h55;0
+1227;1h00;H;PHI;Philosophie;Monay;Didier;4GY7;211;H;CG;N;1;jeudi;10h55;0
+1228;1h00;H;FR;Français;Repond;Micheline;4GY5;114;H;CG;N;1;jeudi;10h55;0
+1229;1h00;H;FR;Français;Morard;Monique;2GY7;208;H;CG;N;1;jeudi;10h55;0
+1230;1h00;H;3sBIO;OS 3 Biologie;Coquoz;Jean-Luc;;128 (BIO);H;CG;N;1;jeudi;10h55;0
+1231;1h00;H;PHK;Physik;Bergem;Patrick;4GY4;217 (PHY);H;CG;N;1;jeudi;10h55;0
+1232;1h00;H;4sAV;OS 4 Arts visuels;Gex;Dominique;;302 (ARV);H;CG;N;1;jeudi;11h45;0
+1233;1h00;H;BIO;Biologie;Galley;Yves;2ECG1;126 (BIL);H;CG;N;1;jeudi;11h45;0
+1234;1h00;H;BIO;Biologie;Conus;Sébastien;1ECG5;118 (BIL);H;CG;N;1;jeudi;11h45;0
+1235;1h00;H;PHK;Physik;Bergem;Patrick;3GY4;217 (PHY);H;CG;N;1;jeudi;11h45;0
+1236;1h00;H;PHY;Physique;Charrière;Florian;3GY7;215 (PHY);H;CG;N;1;jeudi;11h45;0
+1237;1h00;H;4sGR;OS 4 Grec;Sudan;Bruno;;109;H;CG;N;1;jeudi;11h45;0
+1238;1h00;H;4sAN;OS 4 Anglais;Reidy Miller;Sharon;;107;H;CG;N;1;jeudi;11h45;0
+1239;1h00;H;4sES;OS 4 Espagnol;Rivas;Maria;;210;H;CG;N;1;jeudi;11h45;0
+1240;1h00;H;4sED;OS 4 Economie et droit;Kolly;Anne-Claude;;2;H;CG;N;1;jeudi;11h45;0
+1241;1h00;H;AN;Anglais;Roehlk;Nadine;2GY7;212;H;CG;N;1;jeudi;11h45;0
+1242;1h00;H;AN;Anglais;Luethi;Edyta;3EC1;8;H;CG;N;1;jeudi;11h45;0
+1243;1h00;H;AL;Allemand;Pollozek;Rose;1GY04;10;H;CG;N;1;jeudi;11h45;0
+1244;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;3GY1;106;H;CG;N;1;jeudi;11h45;0
+1245;1h00;H;AL;Allemand;Bongard;Ydia;3GY2;203;H;CG;N;1;jeudi;11h45;0
+1246;1h00;H;AL;Allemand;Meyer;Urs;3GY3;113;H;CG;N;1;jeudi;11h45;0
+1247;1h00;H;AL;Allemand;Grandjean;Michel;1ECG2;1;H;CG;N;1;jeudi;11h45;0
+1248;1h00;H;AL;Allemand;Gerber;Eva;1ECG4;304;H;CG;N;1;jeudi;11h45;0
+1249;1h00;H;MA;Mathématiques;Donner;Cédric;3ECG1;108;H;CG;N;1;jeudi;11h45;0
+1250;1h00;H;MA;Mathématiques;Aeby;Evelyne;3ECG5;104;H;CG;N;1;jeudi;11h45;0
+1251;1h00;H;MA;Mathématiques;Chatagny;Richard;4MSPE;204;H;CG;N;1;jeudi;11h45;0
+1252;1h00;H;HI;Histoire;Rossier;Serge;2EC1;111;H;CG;N;1;jeudi;11h45;0
+1253;1h00;H;GEO;Géographie;Trezzini;Nicole;2ECG2;117 (GEO);H;CG;N;1;jeudi;11h45;0
+1254;1h00;H;EP;Economie politique;Fragnière;Thomas;3EC2;110;H;CG;N;1;jeudi;11h45;0
+1255;1h00;H;PHE;Philosophie / étique;Monay;Didier;3ECG3;211;H;CG;N;1;jeudi;11h45;0
+1256;1h00;H;FR;Français;Morard;Monique;3GY5;208;H;CG;N;1;jeudi;11h45;0
+1257;1h00;H;FR;Français;Collomb;Jean-Paul;3GY8;115;H;CG;N;1;jeudi;11h45;0
+1258;1h00;H;FR;Français;Chauvie;Pascal;3ECG4;6;H;CG;N;1;jeudi;11h45;0
+1259;1h00;H;PC;Prof de classe;Morard;Aurélie;1ECG3;112;H;CG;N;1;jeudi;11h45;0
+1260;1h00;H;OS 4;OS 4;;;4GY2;;H;CG;N;1;jeudi;11h45;0
+1261;1h00;H;OS 4;OS 4;;;4GY4;;H;CG;N;1;jeudi;11h45;0
+1262;1h00;H;OS 4;OS 4;;;4GY5;;H;CG;N;1;jeudi;11h45;0
+1263;1h00;H;OS 4;OS 4;;;4GY6;;H;CG;N;1;jeudi;11h45;0
+1264;1h00;H;OS 4;OS 4;;;4GY7;;H;CG;N;1;jeudi;11h45;0
+1265;1h00;H;OS 4;OS 4;;;[4GY1_NPAM];;H;CG;N;1;jeudi;11h45;0
+1266;1h00;H;OS 4;OS 4;;;[4GY3_NPAM];;H;CG;N;1;jeudi;11h45;0
+1267;1h00;H;4sAM;OS 4 Applications maths;Gremaud;Nicolas;[4GY1/3_PAM];102 (INF);H;CG;N;1;jeudi;11h45;0
+1268;1h00;Q2;4sCHI;OS 4 Chimie;Beauverd;Luc;;228 (CHI);Q2;CG;N;1;jeudi;11h45;0
+1269.1;1h00;Q1;BIO;Biologie;Künzli;Esther;1GY08;118 (BIL);Q;CG;N;1;jeudi;13h25;0
+1269.2;2h00;Q2;TPB;Biologie labo;Künzli;Esther;1GY08;118 (BIL);Q;CG;N;1;jeudi;12h35;0
+1269.3;1h00;Q1;.;Pas de cours;Künzli;Esther;1GY08;;Q;CG;N;1;jeudi;12h35;0
+1270;1h00;H;CHI;Chimie;Scanu;David;1GY09;216 (CHI);H;CG;N;1;jeudi;12h35;0
+1271;1h00;H;CHI;Chimie;Marion-Veyron;Emmanuel;2GY6;228 (CHI);H;CG;N;1;jeudi;12h35;0
+1272.1;1h00;Q1;CHI;Chimie;Galley;Muriel;1ECG1;216 (CHI);Q;CG;N;1;jeudi;13h25;0
+1272.2;2h00;Q2;TPC;Chimie labo;Galley;Muriel;1ECG1;218 (CHL);Q;CG;N;1;jeudi;12h35;0
+1272.3;1h00;Q1;.;Pas de cours;Galley;Muriel;1ECG1;;Q;CG;N;1;jeudi;12h35;0
+1273;1h00;H;PHY;Physique;Savoy;Isabelle;1ECG2;217 (PHY);H;CG;N;1;jeudi;12h35;0
+1274.1;1h00;H;AN;Anglais;Akin;Banu;[2GY4_AN];313;H;CG;N;1;jeudi;12h35;0
+1274.2;1h00;H;IT;Italien;Coowar-Ringenbach;Rhéa Esther;[2GY1/3/4/9_IT];10;H;CG;N;1;jeudi;12h35;0
+1274.3;1h00;H;AN;Anglais;Roehlk;Nadine;[2GY1/3_AN];212;H;CG;N;1;jeudi;12h35;0
+1274.4;1h00;H;LA;Latin;Sudan;Bruno;[2GY1/3/4_LA];109;H;CG;N;1;jeudi;12h35;0
+1274.5;1h00;H;L3;Langue 3;Morard;Aurélie;[2GY9_AN];112;H;CG;N;1;jeudi;12h35;0
+1275;2h00;H;AL;Allemand;Grandjean;Michel;1GY10;1;H;CG;N;1;jeudi;12h35;0
+1276;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG1;113;H;CG;N;1;jeudi;12h35;0
+1277;2h00;H;AL;Allemand;Heldstab;Sidonia;3ECG2;2;H;CG;N;1;jeudi;12h35;0
+1278;1h00;H;AL;Allemand;Brülhart;Karin;1EC2;105;H;CG;N;1;jeudi;12h35;0
+1279;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;2EC1;106;H;CG;N;1;jeudi;12h35;0
+1280;1h00;H;MA;Mathématiques;Charrière;Jérôme;2GY5;107;H;CG;N;1;jeudi;12h35;0
+1281;1h00;H;MA;Mathématiques;Donner;Cédric;1ECG5;108;H;CG;N;1;jeudi;12h35;0
+1282;1h00;H;MA;Mathématiques;Mattei;Stéphane;3ECG4;310;H;CG;N;1;jeudi;12h35;0
+1283;1h00;H;HI;Histoire;Allaman;Jérôme;1GY03;211;H;CG;N;1;jeudi;12h35;0
+1284;1h00;H;GEO;Géographie;Bapst;Valérie;1ECG4;123 (GEO/MUS);H;CG;N;1;jeudi;12h35;0
+1285;1h00;H;GEO;Géographie;Murith;Olivier;1ECG6;117 (GEO);H;CG;N;1;jeudi;12h35;0
+1286;1h00;H;EP;Economie politique;Girard;Raoul;3EC1;214;H;CG;N;1;jeudi;12h35;0
+1287;1h00;H;PHE;Philosophie / étique;Mousson;Laurent;3ECG5;208;H;CG;N;1;jeudi;12h35;0
+1288;2h00;H;ANA;Anatomie;Monney;Anne-Valérie;1ECG3;116 (BIO);H;CG;N;1;jeudi;12h35;0
+1289;1h00;H;PSY;Psychologie;Vieitez;Araceli;3ECG1;8;H;CG;N;1;jeudi;12h35;0
+1290;1h00;H;FR;Français;Roubaty;Jean-Benoît;1GY06;115;H;CG;N;1;jeudi;12h35;0
+1291;1h00;H;FR;Français;Albasini;Marie;1GY04;308;H;CG;N;1;jeudi;12h35;0
+1292;1h00;H;FR;Français;Möri;Frédéric;1GY05;111;H;CG;N;1;jeudi;12h35;0
+1293;2h00;H;FR;Français;Lepourtois;Annaïk;1EC1;6;H;CG;N;1;jeudi;12h35;0
+1294;1h00;H;FR;Français;Mauron;Charly;3EC2;110;H;CG;N;1;jeudi;12h35;0
+1295.1;1h00;H;LA;Latin;Aeby;Evelyne;[1GY2_LA];104;H;CG;N;1;jeudi;12h35;0
+1295.2;1h00;H;LA;Latin;Pernet;Christian;[1GY1_LA];203;H;CG;N;1;jeudi;12h35;0
+1296;2h00;H;AV;Arts visuels;Savary;Daniel;1GY07;301 (ARV);H;CG;N;1;jeudi;13h25;0
+1297;2h00;H;AV;Arts visuels;Gex;Dominique;1GY09;302 (ARV);H;CG;N;1;jeudi;13h25;0
+1298;2h00;H;AV;Arts visuels;Ottiger;Vincent;3ECG5;201 (ARV);H;CG;N;1;jeudi;13h25;0
+1299.1;1h00;Q2;BIO;Biologie;Wannier;Thierry;1GY04;128 (BIO);Q;CG;N;1;jeudi;13h25;0
+1299.2;2h00;Q1;TPB;Biologie labo;Wannier;Thierry;1GY04;126 (BIL);Q;CG;N;1;jeudi;13h25;0
+1299.3;1h00;Q2;.;Pas de cours;Wannier;Thierry;1GY04;;Q;CG;N;1;jeudi;14h15;0
+1300.1;1h00;Q2;CHI;Chimie;Scanu;David;2GY9;216 (CHI);Q;CG;N;1;jeudi;13h25;0
+1300.2;2h00;Q1;TPC;Chimie labo;Scanu;David;2GY9;218 (CHL);Q;CG;N;1;jeudi;13h25;0
+1300.3;1h00;Q2;.;Pas de cours;Scanu;David;2GY9;;Q;CG;N;1;jeudi;14h15;0
+1301;1h00;H;CHI;Chimie;Vienney-Legagneur;Vanessa;2ECG4;228 (CHI);H;CG;N;1;jeudi;13h25;0
+1302;1h00;H;PHY;Physique;Bergem;Patrick;2GY5;217 (PHY);H;CG;N;1;jeudi;13h25;0
+1303.1;2h00;H;MA+;Mathématiques plus;Andrey;Marielle;[2GY1/2_MA+];109;H;CG;N;1;jeudi;13h25;0
+1303.2;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[2GY1/2_MA];303;H;CG;N;1;jeudi;13h25;0
+1304;1h00;H;AN;Anglais;Valloton;Valérie;3ECG3;112;H;CG;N;1;jeudi;13h25;0
+1305;1h00;H;AN;Anglais;Luethi;Edyta;1ECG6;111;H;CG;N;1;jeudi;13h25;0
+1306;1h00;H;AN;Anglais;Herzog;Beat;2ECG3;115;H;CG;N;1;jeudi;13h25;0
+1307;1h00;H;INF;Informatique;Donner, Pernet;Cédric, Christian;1GY02;202 (INF);H;CG;N;1;jeudi;13h25;0
+1308;1h00;H;BUR;Bureautique;Fidanza;Laurence;2ECG1;101 (INF);H;CG;N;1;jeudi;13h25;0
+1309;2h00;H;BUR;Bureautique;Mauron;Charly;2ECG2;102 (INF);H;CG;N;1;jeudi;13h25;0
+1310;1h00;H;AL;Allemand;Brantschen;Karin;1GY05;203;H;CG;N;1;jeudi;13h25;0
+1311;1h00;H;AL;Allemand;Piller;Angelo;1GY03;204;H;CG;N;1;jeudi;13h25;0
+1312;1h00;H;AL;Allemand;Meyer;Urs;3EC2;205;H;CG;N;1;jeudi;13h25;0
+1313;1h00;H;MA;Mathématiques;Scyboz;Jacques;1GY01;206;H;CG;N;1;jeudi;13h25;0
+1314;1h00;H;MA;Mathématiques;Oberli;Guillaume;2GY8;207;H;CG;N;1;jeudi;13h25;0
+1315.1;2h00;H;MA+;Mathématiques plus;Charrière;Jérôme;[2GY3_MA+];107;H;CG;N;1;jeudi;13h25;0
+1315.2;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;[2GY3/4_MAK];208;H;CG;N;1;jeudi;13h25;0
+1315.3;1h00;H;MAK;Mathematik;Scherer;Heike;[2GY4_MAK];209;H;CG;N;1;jeudi;13h25;0
+1316.1;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG2;309;H;CG;N;1;jeudi;13h25;0
+1316.2;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG6;309;H;CG;N;1;jeudi;14h15;0
+1316.3;1h00;H;MA;Mathématiques;Mattei;Stéphane;1ECG4;310;H;CG;N;1;jeudi;13h25;0
+1317;1h00;H;HI;Histoire;Allaman;Jérôme;1GY06;211;H;CG;N;1;jeudi;13h25;0
+1318;1h00;H;HI;Histoire;Grandjean;Sylvain;1ECG5;212;H;CG;N;1;jeudi;13h25;0
+1319;1h00;H;FICO;Gestion financière (FICO);Monney;Florent;1EC2;103;H;CG;N;1;jeudi;13h25;0
+1320;1h00;H;EE;Economie d'entreprise;Girard;Raoul;3EC1;214;H;CG;N;1;jeudi;13h25;0
+1321.1;1h00;H;DR;Droit;Rime;Sylvie;2EC2;314;H;CG;N;1;jeudi;13h25;0
+1321.2;1h00;H;DR;Droit;Rime;Sylvie;2EC1;314;H;CG;N;1;jeudi;14h15;0
+1322;1h00;H;SOC;Sociologie;Gremion;François;3ECG4;113;H;CG;N;1;jeudi;13h25;0
+1323;1h00;H;FR;Français;Lüthi;Sylvie;2GY6;304;H;CG;N;1;jeudi;13h25;0
+1324;1h00;H;FR;Français;Zumwald;David;3ECG1;307;H;CG;N;1;jeudi;13h25;0
+1325;1h00;H;FR;Français;Albasini;Marie;2ECG5;308;H;CG;N;1;jeudi;13h25;0
+1326;2h00;H;CIL;Cours d'examen int. de langues;Coowar-Ringenbach;Rhéa Esther;;10;H;CG;N;1;jeudi;13h25;0
+1327;2h00;H;CIL;Cours d'examen int. de langues;Gerber;Eva;;213;H;CG;N;1;jeudi;13h25;0
+1328;1h00;H;CIL;Cours d'examen int. de langues;Akin;Banu;;313;H;CG;N;1;jeudi;13h25;0
+1329;2h00;H;CIL;Cours d'examen int. de langues;Rivas;Maria;;210;H;CG;N;1;jeudi;13h25;0
+1330;2h00;H;TMS;TMS;Miller;Eric;;;H;CG;N;1;jeudi;13h25;0
+1331;2h00;H;TMS;TMS;Morard;Aurélie;;;H;CG;N;1;jeudi;13h25;0
+1332;2h00;H;TMS;TMS;Rime;François;;;H;CG;N;1;jeudi;13h25;0
+1333;2h00;H;TMS;TMS;Roubaty;Jean-Benoît;;;H;CG;N;1;jeudi;13h25;0
+1334;2h00;H;TMS;TMS;Trezzini;Nicole;;;H;CG;N;1;jeudi;13h25;0
+1335;2h00;H;TMS;TMS;Murith;Olivier;;;H;CG;N;1;jeudi;13h25;0
+1336;2h00;H;TM;Travail maturité;Aeby;Evelyne;;104;H;CG;N;1;jeudi;13h25;0
+1337;2h00;H;TM;Travail maturité;Braillard;Grégory;;110, 230 (CHL);H;CG;N;1;jeudi;13h25;0
+1338;2h00;H;TM;Travail maturité;Charrière, Chatagny;David, Richard;;105;H;CG;N;1;jeudi;13h25;0
+1339;2h00;H;TM;Travail maturité;Gillard;Sylvie;;106;H;CG;N;1;jeudi;13h25;0
+1340;2h00;H;TM;Travail maturité;Pasquier;Claire-Lyse;;8;H;CG;N;1;jeudi;13h25;0
+1341;2h00;H;TM;Travail maturité;Repond;Micheline;;114;H;CG;N;1;jeudi;13h25;0
+1342;2h00;H;TM;Travail maturité;Sudan, Savoy;Mélanie, Isabelle;;108;H;CG;N;1;jeudi;13h25;0
+1343;2h00;H;TMS;TMS;Caligiuri;Angelo;;;H;CG;N;1;jeudi;13h25;0
+1344.1;1h00;Q1;BIO;Biologie;Künzli;Esther;1GY05;118 (BIL);Q;CG;N;1;jeudi;14h15;0
+1344.2;2h00;Q2;TPB;Biologie labo;Künzli;Esther;1GY05;118 (BIL);Q;CG;N;1;jeudi;14h15;0
+1344.3;1h00;Q1;.;Pas de cours;Künzli;Esther;1GY05;;Q;CG;N;1;jeudi;15h05;0
+1345;1h00;H;BID;Biologie bilingues;Murith;Valérie;2GY4;128 (BIO);H;CG;N;1;jeudi;14h15;0
+1346;1h00;H;BIO;Biologie;Galley;Yves;2ECG4;116 (BIO);H;CG;N;1;jeudi;14h15;0
+1347;1h00;H;CHI;Chimie;Vienney-Legagneur;Vanessa;2ECG5;228 (CHI);H;CG;N;1;jeudi;14h15;0
+1348;1h00;H;PHY;Physique;Bergem;Patrick;2GY7;217 (PHY);H;CG;N;1;jeudi;14h15;0
+1349.1;1h00;Q2;PHY;Physique;Mattei;Stéphane;1ECG4;215 (PHY);Q;CG;N;1;jeudi;14h15;0
+1349.2;2h00;Q1;PHL;Physique labo;Mattei;Stéphane;1ECG4;225 (PHL);Q;CG;N;1;jeudi;14h15;0
+1349.3;1h00;Q2;.;Pas de cours;Mattei;Stéphane;1ECG4;;Q;CG;N;1;jeudi;15h05;0
+1350;1h00;H;AN;Anglais;Herzog;Beat;1GY03;115;H;CG;N;1;jeudi;14h15;0
+1351;1h00;H;AN;Anglais;Lauber;Josiane;1GY10;111;H;CG;N;1;jeudi;14h15;0
+1352;1h00;H;AN;Anglais;Nottage;Jeff;2GY5;308;H;CG;N;1;jeudi;14h15;0
+1353;1h00;H;AN;Anglais;Akin;Banu;2GY8;313;H;CG;N;1;jeudi;14h15;0
+1354;1h00;H;AN;Anglais;Valloton;Valérie;3EC2;112;H;CG;N;1;jeudi;14h15;0
+1355;1h00;H;BUR;Bureautique;Fidanza;Laurence;1ECG1;101 (INF);H;CG;N;1;jeudi;14h15;0
+1356;1h00;H;AL;Allemand;Brantschen;Karin;1GY02;203;H;CG;N;1;jeudi;14h15;0
+1357;1h00;H;AL;Allemand;Grandjean;Michel;1GY08;1;H;CG;N;1;jeudi;14h15;0
+1358;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;1EC1;310;H;CG;N;1;jeudi;14h15;0
+1359;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG3;205;H;CG;N;1;jeudi;14h15;0
+1360;1h00;H;HI;Histoire;Rossier;Serge;2EC2;204;H;CG;N;1;jeudi;14h15;0
+1361;1h00;H;ECD;Economie et droit;Girard;Raoul;1GY01;214;H;CG;N;1;jeudi;14h15;0
+1362;1h00;H;ECD;Economie et droit;Monney;Florent;1GY06;103;H;CG;N;1;jeudi;14h15;0
+1363;1h00;H;PSY;Psychologie;Gremion;François;3ECG2;113;H;CG;N;1;jeudi;14h15;0
+1364;1h00;H;FR;Français;Currat;Martine;2ECG3;211;H;CG;N;1;jeudi;14h15;0
+1365;2h00;H;FR;Français;Chauvie;Pascal;3ECG3;212;H;CG;N;1;jeudi;14h15;0
+1366;1h00;H;PC;Prof de classe;Lüthi;Sylvie;2GY6;304;H;CG;N;1;jeudi;14h15;0
+1367;2h00;H;TM;Travail maturité;Oberli;Guillaume;;207;H;CG;N;1;jeudi;14h15;0
+1368;1h00;H;FR;Français;Lepourtois;Annaïk;1EC2;6;H;CG;N;1;jeudi;14h15;0
+1369;2h00;H;AV;Arts visuels;Gex;Dominique;2GY7;302 (ARV);H;CG;N;1;jeudi;15h05;0
+1370.1;1h00;Q1;BIO;Biologie;Murith;Valérie;2GY5;128 (BIO);Q;CG;N;1;jeudi;15h05;0
+1370.2;2h00;Q2;TPB;Biologie labo;Murith;Valérie;2GY5;126 (BIL);Q;CG;N;1;jeudi;15h05;0
+1370.3;1h00;Q1;.;Pas de cours;Murith;Valérie;2GY5;;Q;CG;N;1;jeudi;15h55;0
+1371;1h00;H;BIO;Biologie;Galley;Yves;2GY2;116 (BIO);H;CG;N;1;jeudi;15h05;0
+1372;1h00;H;CHI;Chimie;Scanu;David;1GY06;216 (CHI);H;CG;N;1;jeudi;15h05;0
+1373.1;1h00;Q2;CHI;Chimie;Braillard;Grégory;1ECG5;228 (CHI);Q;CG;N;1;jeudi;15h05;0
+1373.2;2h00;Q1;TPC;Chimie labo;Braillard;Grégory;1ECG5;218 (CHL);Q;CG;N;1;jeudi;15h05;0
+1373.3;1h00;Q2;.;Pas de cours;Braillard;Grégory;1ECG5;;Q;CG;N;1;jeudi;15h55;0
+1374.1;1h00;Q1;CHI;Chimie;Galley;Muriel;1ECG6;228 (CHI);Q;CG;N;1;jeudi;15h05;0
+1374.2;2h00;Q2;TPC;Chimie labo;Galley;Muriel;1ECG6;218 (CHL);Q;CG;N;1;jeudi;15h05;0
+1374.3;1h00;Q1;.;Pas de cours;Galley;Muriel;1ECG6;;Q;CG;N;1;jeudi;15h55;0
+1375;1h00;H;PHY;Physique;Savoy;Isabelle;2ECG3;217 (PHY);H;CG;N;1;jeudi;15h05;0
+1376;1h00;H;AN;Anglais;Valloton;Valérie;1ECG2;112;H;CG;N;1;jeudi;15h05;0
+1377;1h00;H;AN;Anglais;Luethi;Edyta;2EC1;113;H;CG;N;1;jeudi;15h05;0
+1378;1h00;H;INF;Informatique;Fidanza, Mauron;Laurence, Charly;1GY03;102 (INF);H;CG;N;1;jeudi;15h05;0
+1379;2h00;H;AL;Allemand;Schläfle;Gabriela;2ECG5;6;H;CG;N;1;jeudi;15h05;0
+1380;1h00;H;AL;Allemand;Piller;Angelo;2ECG4;213;H;CG;N;1;jeudi;15h05;0
+1381;1h00;H;MA;Mathématiques;Monferini;Catherine;1GY07;205;H;CG;N;1;jeudi;15h05;0
+1382;1h00;H;MA;Mathématiques;Gremaud;Nicolas;3ECG2;303;H;CG;N;1;jeudi;15h05;0
+1383;1h00;H;AN;Anglais;Uldry;Jean-Maurice;2ECG1;304;H;CG;N;1;jeudi;15h05;0
+1384;1h00;H;GEO;Géographie;Trezzini;Nicole;1ECG1;117 (GEO);H;CG;N;1;jeudi;15h05;0
+1385;1h00;H;GEO;Géographie;Bapst;Valérie;1ECG3;123 (GEO/MUS);H;CG;N;1;jeudi;15h05;0
+1386;1h00;H;ECD;Economie et droit;Charrière;David;1GY08;105;H;CG;N;1;jeudi;15h05;0
+1387;1h00;H;SR;Science des religions;Mousson;Laurent;2GY8;103;H;CG;N;1;jeudi;15h05;0
+1388;1h00;H;AN;Anglais;Nottage;Jeff;1GY09;308;H;CG;N;1;jeudi;15h05;0
+1389;2h00;H;FR;Français;Collomb;Jean-Paul;1GY02;8;H;CG;N;1;jeudi;15h05;0
+1390;1h00;H;FR;Français;Albasini;Marie;2ECG2;309;H;CG;N;1;jeudi;15h05;0
+1391;1h00;H;PC;Prof de classe;Wandeler;Pierre-Georges;1EC1;310;H;CG;N;1;jeudi;15h05;0
+1392;1h00;H;PC;Prof de classe;Scyboz;Jacques;1GY01;211;H;CG;N;1;jeudi;15h05;0
+1393;2h00;H;BE;Basic English;Miller;Eric;[2GY_BE];110;H;CG;N;1;jeudi;15h05;0
+1394;2h00;H;TM;Travail maturité;Lauber, Akin;Josiane, Banu;;111;H;CG;N;1;jeudi;15h05;0
+1395;2h00;H;TM;Travail maturité;Allaman;Jérôme;;104;H;CG;N;1;jeudi;15h05;0
+1396;2h00;H;TM;Travail maturité;Baeriswyl;Valentin;;315;H;CG;N;1;jeudi;15h05;0
+1397;2h00;H;TM;Travail maturité;Becquart;Philippe;;106;H;CG;N;1;jeudi;15h05;0
+1398;2h00;H;TM;Travail maturité;Bussard;Jean-Claude;;307;H;CG;N;1;jeudi;15h05;0
+1399;2h00;H;TM;Travail maturité;Charrière, Pernet;Jérôme, Christian;;101 (INF), 107;H;CG;N;1;jeudi;15h05;0
+1400;2h00;H;TM;Travail maturité;Conus;Sébastien;;108;H;CG;N;1;jeudi;15h05;0
+1401;2h00;H;TM;Travail maturité;Coowar-Ringenbach;Rhéa Esther;;10;H;CG;N;1;jeudi;15h05;0
+1402;2h00;H;TM;Travail maturité;Girard;Raoul;;214;H;CG;N;1;jeudi;15h05;0
+1403;2h00;H;TM;Travail maturité;Rossier, Grandjean;Serge, Sylvain;;204;H;CG;N;1;jeudi;15h05;0
+1404;2h00;H;TM;Travail maturité;Kolly, Rime;Anne-Claude, Sylvie;;314;H;CG;N;1;jeudi;15h05;0
+1405;2h00;H;TM;Travail maturité;Möri;Frédéric;;115;H;CG;N;1;jeudi;15h05;0
+1406;2h00;H;TM;Travail maturité;Piller;Christian;;203;H;CG;N;1;jeudi;15h05;0
+1407;2h00;H;TM;Travail maturité;Rime;François;;209;H;CG;N;1;jeudi;15h05;0
+1408;2h00;H;TM;Travail maturité;Rivas;Maria;;210;H;CG;N;1;jeudi;15h05;0
+1409;2h00;H;TM;Travail maturité;Despond, Sudan;Pierre-André, Bruno;;109;H;CG;N;1;jeudi;15h05;0
+1410;2h00;H;TM;Travail maturité;Wannier;Thierry;;1;H;CG;N;1;jeudi;15h05;0
+1411;2h00;H;TM;Travail maturité;Wyssa;Anne-Catherine;;316;H;CG;N;1;jeudi;15h05;0
+1412;2h00;H;TM;Travail maturité;Zumwald;David;;2;H;CG;N;1;jeudi;15h05;0
+1413;2h00;H;TM;Travail maturité;Sugnaux;Patrice;;208;H;CG;N;1;jeudi;15h05;0
+1414;2h00;H;TM;Travail maturité;Repond;Micheline;;114;H;CG;N;1;jeudi;15h05;0
+1415;1h00;H;CHI;Chimie;Vienney-Legagneur;Vanessa;1GY07;228 (CHI);H;CG;N;1;jeudi;15h55;0
+1416;1h00;H;CHI;Chimie;Scanu;David;2ECG3;216 (CHI);H;CG;N;1;jeudi;15h55;0
+1417;1h00;H;PHY;Physique;Savoy;Isabelle;3ECG3;217 (PHY);H;CG;N;1;jeudi;15h55;0
+1418;1h00;H;PHY;Physique;Oberli;Guillaume;2ECG4;215 (PHY);H;CG;N;1;jeudi;15h55;0
+1419;1h00;H;HI;Histoire;Uldry;Jean-Maurice;2ECG1;304;H;CG;N;1;jeudi;15h55;0
+1420;1h00;H;AL;Allemand;Piller;Angelo;2ECG2;213;H;CG;N;1;jeudi;15h55;0
+1421;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG1;205;H;CG;N;1;jeudi;15h55;0
+1422;1h00;H;GEO;Géographie;Bapst;Valérie;1ECG2;123 (GEO/MUS);H;CG;N;1;jeudi;15h55;0
+1423;2h30;H;GY;Education physique;Oberson;Jérôme;1ECG5;;H;CG;N;1;vendredi;08h10;0
+1424;2h30;H;GY;Education physique;Sauteur;Stéphane;1GY06;;H;CG;N;1;vendredi;08h10;0
+1425;2h30;H;GY;Education physique;Sottas;Aurélien;1GY02;;H;CG;N;1;vendredi;08h10;0
+1426.1;1h00;Q1;BIO;Biologie;Galley;Yves;2GY7;118 (BIL);Q;CG;N;1;vendredi;09h00;0
+1426.2;2h00;Q2;TPB;Biologie labo;Galley;Yves;2GY7;118 (BIL);Q;CG;N;1;vendredi;08h10;0
+1426.3;1h00;Q1;.;Pas de cours;Galley;Yves;2GY7;;Q;CG;N;1;vendredi;08h10;0
+1427;1h00;H;BIO;Biologie;Bapst;Valérie;2GY8;116 (BIO);H;CG;N;1;vendredi;08h10;0
+1428.1;1h00;Q1;BIO;Biologie;Coquoz;Jean-Luc;1ECG3;126 (BIL);Q;CG;N;1;vendredi;09h00;0
+1428.2;2h00;Q2;TPB;Biologie labo;Coquoz;Jean-Luc;1ECG3;126 (BIL);Q;CG;N;1;vendredi;08h10;0
+1428.3;1h00;Q1;.;Pas de cours;Coquoz;Jean-Luc;1ECG3;;Q;CG;N;1;vendredi;08h10;0
+1429;1h00;H;BIO;Biologie;Wannier;Thierry;3ECG3;128 (BIO);H;CG;N;1;vendredi;08h10;0
+1430.1;1h00;Q2;CHI;Chimie;Scanu;David;1GY09;216 (CHI);Q;CG;N;1;vendredi;09h00;0
+1430.2;2h00;Q1;TPC;Chimie labo;Scanu;David;1GY09;218 (CHL);Q;CG;N;1;vendredi;08h10;0
+1430.3;1h00;Q2;.;Pas de cours;Scanu;David;1GY09;;Q;CG;N;1;vendredi;08h10;0
+1431.1;1h00;Q1;CHI;Chimie;Marion-Veyron;Emmanuel;2GY6;216 (CHI);Q;CG;N;1;vendredi;09h00;0
+1431.2;2h00;Q2;TPC;Chimie labo;Marion-Veyron;Emmanuel;2GY6;218 (CHL);Q;CG;N;1;vendredi;08h10;0
+1431.3;1h00;Q1;.;Pas de cours;Marion-Veyron;Emmanuel;2GY6;;Q;CG;N;1;vendredi;08h10;0
+1432;1h00;H;PHY;Physique;Mattei;Stéphane;3ECG2;217 (PHY);H;CG;N;1;vendredi;08h10;0
+1433.1;1h00;H;MAK+;Mathematik plus;Kohlprath;Emmanuel;[4GY3_MAK+];8;H;CG;N;1;vendredi;08h10;0
+1433.2;1h00;H;MAK;Mathematik;Scherer;Heike;[4GY3_MAK];206;H;CG;N;1;vendredi;08h10;0
+1434.1;1h00;H;AN;Anglais;Akin;Banu;[2GY4_AN];322;H;CG;N;1;vendredi;08h10;0
+1434.2;1h00;H;IT;Italien;Coowar-Ringenbach;Rhéa Esther;[2GY1/3/4/9_IT];104;H;CG;N;1;vendredi;08h10;0
+1434.3;1h00;H;AN;Anglais;Roehlk;Nadine;[2GY1/3_AN];321;H;CG;N;1;vendredi;08h10;0
+1434.4;1h00;H;LA;Latin;Sudan;Bruno;[2GY1/3/4_LA];109;H;CG;N;1;vendredi;08h10;0
+1434.5;1h00;H;L3;Langue 3;Morard;Aurélie;[2GY9_AN];10;H;CG;N;1;vendredi;08h10;0
+1435.1;1h00;H;AN;Anglais;Herzog;Beat;[3GY1/3_AN];108;H;CG;N;1;vendredi;08h10;0
+1435.2;1h00;H;IT;Italien;Andreetta;Tibisay;[3GY1/2/3_IT];209;H;CG;N;1;vendredi;08h10;0
+1436;1h00;H;AN;Anglais;Bays;Anne;1EC1;110;H;CG;N;1;vendredi;08h10;0
+1437;2h00;H;BUR;Bureautique;Mauron;Charly;2ECG5;101 (INF);H;CG;N;1;vendredi;08h10;0
+1438;2h00;H;AL;Allemand;Brantschen;Karin;1GY05;1;H;CG;N;1;vendredi;08h10;0
+1439;1h00;H;AL;Allemand;Pollozek;Rose;2GY2;111;H;CG;N;1;vendredi;08h10;0
+1440;1h00;H;AL;Allemand;Grandjean;Michel;1ECG2;113;H;CG;N;1;vendredi;08h10;0
+1441;1h00;H;AL;Allemand;Armbruster;Michèle;2EC2;203;H;CG;N;1;vendredi;08h10;0
+1442;1h00;H;MA;Mathématiques;Clerc;Christine;1GY04;204;H;CG;N;1;vendredi;08h10;0
+1443;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY03;106;H;CG;N;1;vendredi;08h10;0
+1444;1h00;H;MA;Mathématiques;Scyboz;Jacques;3GY7;114;H;CG;N;1;vendredi;08h10;0
+1445;1h00;H;MA;Mathématiques;Gremaud;Nicolas;4GY6;207;H;CG;N;1;vendredi;08h10;0
+1446;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG1;208;H;CG;N;1;vendredi;08h10;0
+1447;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG6;205;H;CG;N;1;vendredi;08h10;0
+1448;1h00;H;FR;Français;Castella;Serge;4GY1;304;H;CG;N;1;vendredi;08h10;0
+1449;1h00;H;HI;Histoire;Murith;Olivier;1GY07;211;H;CG;N;1;vendredi;08h10;0
+1450;1h00;H;GESC;Geschichte;Schubert;Holger;3GY4;320;H;CG;N;1;vendredi;08h10;0
+1451;1h00;H;GEO;Géographie;Baeriswyl;Valentin;2ECG1;117 (GEO);H;CG;N;1;vendredi;08h10;0
+1452;1h00;H;ECD;Economie et droit;Girard;Raoul;1GY01;2;H;CG;N;1;vendredi;08h10;0
+1453;2h00;H;FICO;Gestion financière (FICO);Fragnière;Thomas;3EC2;212;H;CG;N;1;vendredi;08h10;0
+1454;1h00;H;PHI;Philosophie;Mousson;Laurent;3GY8;313;H;CG;N;1;vendredi;08h10;0
+1455;1h00;H;PHE;Philosophie / étique;Meyer;Pierre-Yves;3EC1;103;H;CG;N;1;vendredi;08h10;0
+1456;1h00;H;FR;Français;Lüthi;Sylvie;4GY4;309;H;CG;N;1;vendredi;08h10;0
+1457.1;1h00;H;FR;Français;Bagnoud;François-Xavier;1GY10;112;H;CG;N;1;vendredi;08h10;0
+1457.2;1h00;H;FR;Français;Bagnoud;François-Xavier;1GY03;112;H;CG;N;1;vendredi;09h00;0
+1458;2h00;H;FR;Français;Repond;Micheline;4GY5;307;H;CG;N;1;vendredi;08h10;0
+1459;2h00;H;FR;Français;Lepourtois;Annaïk;1EC2;6;H;CG;N;1;vendredi;08h10;0
+1460;1h00;H;PHY;Physique;Piller;Christian;4GY2;215 (PHY);H;CG;N;1;vendredi;08h10;0
+1461;1h00;H;PC;Prof de classe;Conus;Sébastien;2ECG3;213;H;CG;N;1;vendredi;08h10;0
+1462;1h00;H;PC;Prof de classe;Borloz;Isabelle;3ECG4;308;H;CG;N;1;vendredi;08h10;0
+1463;1h00;H;PC;Prof de classe;Meyer;Urs;3GY5;310;H;CG;N;1;vendredi;08h10;0
+1464;1h00;H;PC;Prof de classe;Python;Stéphanie;4GY7;210;H;CG;N;1;vendredi;08h10;0
+1465;1h00;H;HAR;Histoire de l'art;Zumwald;David;3ECG5;201 (ARV);H;CG;N;1;vendredi;08h10;0
+1466;1h00;H;METH;Méthologie 2e ECG;Charrière;Stéphanie;2ECG4;102 (INF);H;CG;N;1;vendredi;08h10;0
+1467;2h00;H;3sED;OS 3 Economie et droit;Kolly;Anne-Claude;3GY6;319;H;CG;N;1;vendredi;08h10;0
+1468.1;1h00;H;MA+;Mathématiques plus;Andrey;Marielle;[2GY1/2_MA+];109;H;CG;N;1;vendredi;09h00;0
+1468.2;1h00;H;MA;Mathématiques;Gremaud;Nicolas;[2GY1/2_MA];207;H;CG;N;1;vendredi;09h00;0
+1469;1h00;H;AN;Anglais;Roehlk;Nadine;1GY04;321;H;CG;N;1;vendredi;09h00;0
+1470;1h00;H;AN;Anglais;Vogt;Jacqueline;1GY08;104;H;CG;N;1;vendredi;09h00;0
+1471;1h00;H;AN;Anglais;Akin;Banu;2GY8;322;H;CG;N;1;vendredi;09h00;0
+1472;1h00;H;AN;Anglais;Vogler;Nicole;3ECG2;316;H;CG;N;1;vendredi;09h00;0
+1473;1h00;H;AN;Anglais;Uldry;Jean-Maurice;2ECG1;211;H;CG;N;1;vendredi;09h00;0
+1474;1h00;H;AL;Allemand;Armbruster;Michèle;2GY5;203;H;CG;N;1;vendredi;09h00;0
+1475;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY1;107;H;CG;N;1;vendredi;09h00;0
+1476;1h00;H;AL;Allemand;Schläfle;Gabriela;4GY6;314;H;CG;N;1;vendredi;09h00;0
+1477;1h00;H;AL;Allemand;Pollozek;Rose;1ECG1;111;H;CG;N;1;vendredi;09h00;0
+1478;1h00;H;AL;Allemand;Gerber;Eva;1ECG6;115;H;CG;N;1;vendredi;09h00;0
+1479;1h00;H;MA;Mathématiques;Monferini;Catherine;1GY07;208;H;CG;N;1;vendredi;09h00;0
+1480;1h00;H;MA;Mathématiques;Aeby;Evelyne;1GY10;106;H;CG;N;1;vendredi;09h00;0
+1481;1h00;H;MA;Mathématiques;Clerc;Christine;2GY9;204;H;CG;N;1;vendredi;09h00;0
+1482;1h00;H;MA;Mathématiques;Karth;Laurent;3GY8;205;H;CG;N;1;vendredi;09h00;0
+1483;1h00;H;MAK;Mathematik;Scherer;Heike;3GY4;206;H;CG;N;1;vendredi;09h00;0
+1484;1h00;H;MAK;Mathematik;Kohlprath;Emmanuel;4GY4;8;H;CG;N;1;vendredi;09h00;0
+1485;1h00;H;MA;Mathématiques;Mattei;Stéphane;1ECG4;213;H;CG;N;1;vendredi;09h00;0
+1486;1h00;H;MA;Mathématiques;Donner;Cédric;2ECG4;209;H;CG;N;1;vendredi;09h00;0
+1487;1h00;H;FR;Français;Lüthi;Sylvie;4GY2;309;H;CG;N;1;vendredi;09h00;0
+1488;1h00;H;MA;Mathématiques;Scyboz;Jacques;3EC1;114;H;CG;N;1;vendredi;09h00;0
+1489;1h00;H;GESC;Geschichte;Schubert;Holger;2GY3;320;H;CG;N;1;vendredi;09h00;0
+1490;1h00;H;HI;Histoire;Gachet;Alexandre;2ECG2;10;H;CG;N;1;vendredi;09h00;0
+1491;1h00;H;HI;Histoire;Allaman;Jérôme;2ECG3;214;H;CG;N;1;vendredi;09h00;0
+1492;1h00;H;HI;Histoire;Grandjean;Sylvain;1EC1;105;H;CG;N;1;vendredi;09h00;0
+1493;1h00;H;GEO;Géographie;Bapst;Valérie;1GY01;123 (GEO/MUS);H;CG;N;1;vendredi;09h00;0
+1494;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;2EC1;117 (GEO);H;CG;N;1;vendredi;09h00;0
+1495;1h00;H;PHI;Philosophie;Monay;Didier;3GY1;315;H;CG;N;1;vendredi;09h00;0
+1496;1h00;H;PHI;Philosophie;Meyer;Pierre-Yves;3GY7;103;H;CG;N;1;vendredi;09h00;0
+1497;1h00;H;PHE;Philosophie / étique;Mousson;Laurent;3ECG4;313;H;CG;N;1;vendredi;09h00;0
+1498;1h00;H;ANA;Anatomie;Wannier;Thierry;1ECG2;116 (BIO);H;CG;N;1;vendredi;09h00;0
+1499;1h00;H;ANA;Anatomie;Monney;Anne-Valérie;3ECG1;128 (BIO);H;CG;N;1;vendredi;09h00;0
+1500;1h00;H;SOC;Sociologie;Charrière;Stéphanie;3ECG3;310;H;CG;N;1;vendredi;09h00;0
+1501;1h00;H;PEDA;Pédagogie;Gremion;François;3ECG5;303;H;CG;N;1;vendredi;09h00;0
+1502;1h00;H;FR;Français;Roubaty;Jean-Benoît;4GY3;308;H;CG;N;1;vendredi;09h00;0
+1503;1h00;H;FR;Français;Python;Stéphanie;4GY7;210;H;CG;N;1;vendredi;09h00;0
+1504;1h00;H;FR;Français;Castella;Serge;3GY2;304;H;CG;N;1;vendredi;09h00;0
+1505;1h00;H;FR;Français;Collomb;Jean-Paul;2EC2;110;H;CG;N;1;vendredi;09h00;0
+1506.1;1h00;H;PHK;Physik;Bergem;Patrick;[3GY3/5_PHK];217 (PHY);H;CG;N;1;vendredi;09h00;0
+1506.2;1h00;H;PHY;Physique;Burckel;Alice;[3GY5_PHY];215 (PHY);H;CG;N;1;vendredi;09h00;0
+1507;1h00;H;CHI;Chimie;Conus;Sébastien;2GY4;228 (CHI);H;CG;N;1;vendredi;09h00;0
+1508.1;2h00;H;MU;Musique;Bochud;Marc;[3GY1/2_MU];123 (GEO/MUS);H;CG;N;1;vendredi;10h05;0
+1508.2;2h00;H;AV;Arts visuels;Gex;Dominique;[3GY1_AV];302 (ARV);H;CG;N;1;vendredi;10h05;0
+1508.3;2h00;H;AV;Arts visuels;Ottiger;Vincent;[3GY2_AV];201 (ARV);H;CG;N;1;vendredi;10h05;0
+1509;2h00;H;4sAV;OS 4 Arts visuels;Brülhart;Matthieu;;R11 (VDO);H;CG;N;1;vendredi;10h05;0
+1510;2h00;H;4sMU;OS 4 Musique;Maillard;Bernard;;125 (MUS);H;CG;N;1;vendredi;10h05;0
+1511;1h00;H;BIO;Biologie;Conus;Sébastien;2ECG3;118 (BIL);H;CG;N;1;vendredi;10h05;0
+1512.1;1h00;Q1;CHI;Chimie;Marion-Veyron;Emmanuel;1GY03;216 (CHI);Q;CG;N;1;vendredi;10h05;0
+1512.2;2h00;Q2;TPC;Chimie labo;Marion-Veyron;Emmanuel;1GY03;218 (CHL);Q;CG;N;1;vendredi;10h05;0
+1512.3;1h00;Q1;.;Pas de cours;Marion-Veyron;Emmanuel;1GY03;;Q;CG;N;1;vendredi;10h55;0
+1513.1;1h00;Q2;PHY;Physique;Mattei;Stéphane;2GY9;217 (PHY);Q;CG;N;1;vendredi;10h05;0
+1513.2;2h00;Q1;PHL;Physique labo;Mattei;Stéphane;2GY9;227 (PHL);Q;CG;N;1;vendredi;10h05;0
+1513.3;1h00;Q2;.;Pas de cours;Mattei;Stéphane;2GY9;;Q;CG;N;1;vendredi;10h55;0
+1514.1;1h00;Q1;PHK;Physik;Bergem;Patrick;3GY4;217 (PHY);Q;CG;N;1;vendredi;10h05;0
+1514.2;2h00;Q2;PHL;Physique labo;Bergem;Patrick;3GY4;227 (PHL);Q;CG;N;1;vendredi;10h05;0
+1514.3;1h00;Q1;.;Pas de cours;Bergem;Patrick;3GY4;;Q;CG;N;1;vendredi;10h55;0
+1515.1;1h00;Q2;PHY;Physique;Oberli;Guillaume;3GY8;215 (PHY);Q;CG;N;1;vendredi;10h55;0
+1515.2;2h00;Q1;PHL;Physique labo;Oberli;Guillaume;3GY8;225 (PHL);Q;CG;N;1;vendredi;10h05;0
+1515.3;1h00;Q2;.;Pas de cours;Oberli;Guillaume;3GY8;;Q;CG;N;1;vendredi;10h05;0
+1516;2h00;H;4sGR;OS 4 Grec;Sudan;Bruno;;109;H;CG;N;1;vendredi;10h05;0
+1517;2h00;H;4sAN;OS 4 Anglais;Reidy Miller;Sharon;;112;H;CG;N;1;vendredi;10h05;0
+1518;2h00;H;4sIT;OS 4 Italien;Andreetta;Tibisay;;1;H;CG;N;1;vendredi;10h05;0
+1519;2h00;H;4sES;OS 4 Espagnol;Vieitez;Araceli;;2;H;CG;N;1;vendredi;10h05;0
+1520;2h00;H;4sES;OS 4 Espagnol;Rivas;Maria;;210;H;CG;N;1;vendredi;10h05;0
+1521;2h00;H;4sED;OS 4 Economie et droit;Girard;Raoul;;207;H;CG;N;1;vendredi;10h05;0
+1522;1h00;H;4sED;OS 4 Economie et droit;Kolly;Anne-Claude;;319;H;CG;N;1;vendredi;10h05;0
+1523;1h00;H;AN;Anglais;Nottage;Jeff;3GY6;108;H;CG;N;1;vendredi;10h05;0
+1524;1h00;H;AN;Anglais;Borloz;Isabelle;3ECG4;104;H;CG;N;1;vendredi;10h05;0
+1525;1h00;H;AN;Anglais;Uldry;Jean-Maurice;2ECG4;211;H;CG;N;1;vendredi;10h05;0
+1526;1h00;H;INF;Informatique;Mauron, Simillion;Charly, Fabian;1GY08;102 (INF);H;CG;N;1;vendredi;10h05;0
+1527;1h00;H;AL;Allemand;Pollozek;Rose;1GY09;111;H;CG;N;1;vendredi;10h05;0
+1528;1h00;H;AL;Allemand;Grandjean;Michel;1GY10;106;H;CG;N;1;vendredi;10h05;0
+1529;2h00;H;AL;Allemand;Meyer;Urs;3GY5;8;H;CG;N;1;vendredi;10h05;0
+1530;1h00;H;AL;Allemand;Herzog;Beat;3GY7;110;H;CG;N;1;vendredi;10h05;0
+1531.1;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG1;314;H;CG;N;1;vendredi;10h55;0
+1531.2;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG3;314;H;CG;N;1;vendredi;11h45;0
+1531.3;1h00;H;AL;Allemand;Schläfle;Gabriela;2ECG5;314;H;CG;N;1;vendredi;10h05;0
+1532;1h00;H;AL;Allemand;Piller;Angelo;2ECG2;113;H;CG;N;1;vendredi;10h05;0
+1533;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;2EC1;107;H;CG;N;1;vendredi;10h05;0
+1534;1h00;H;MA;Mathématiques;Scyboz;Jacques;1GY01;114;H;CG;N;1;vendredi;10h05;0
+1535;1h00;H;MA;Mathématiques;Monferini;Catherine;1ECG3;208;H;CG;N;1;vendredi;10h05;0
+1536;1h00;H;MA;Mathématiques;Karth;Laurent;1ECG2;205;H;CG;N;1;vendredi;10h05;0
+1537;1h00;H;MA;Mathématiques;Chatagny;Richard;2ECG1;204;H;CG;N;1;vendredi;10h05;0
+1538;1h00;H;MA;Mathématiques;Burckel;Alice;3ECG3;213;H;CG;N;1;vendredi;10h05;0
+1539;1h00;H;HI;Histoire;Wyssa;Anne-Catherine;1GY04;316;H;CG;N;1;vendredi;10h05;0
+1540;1h00;H;GESC;Geschichte;Schubert;Holger;2GY4;320;H;CG;N;1;vendredi;10h05;0
+1541;1h00;H;HI;Histoire;Allaman;Jérôme;2GY8;214;H;CG;N;1;vendredi;10h05;0
+1542;1h00;H;HI;Histoire;Murith;Olivier;1ECG4;209;H;CG;N;1;vendredi;10h05;0
+1543;1h00;H;HI;Histoire;Grandjean;Sylvain;3EC1;105;H;CG;N;1;vendredi;10h05;0
+1544;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;2EC2;117 (GEO);H;CG;N;1;vendredi;10h05;0
+1545;1h00;H;EE;Economie d'entreprise;Fragnière;Thomas;1EC2;212;H;CG;N;1;vendredi;10h05;0
+1546;1h00;H;SR;Science des religions;Möri;Frédéric;2GY5;203;H;CG;N;1;vendredi;10h05;0
+1547;2h00;H;PHI;Philosophie;Monay;Didier;3GY3;315;H;CG;N;1;vendredi;10h05;0
+1548;2h00;H;ANA;Anatomie;Monney;Anne-Valérie;1ECG1;116 (BIO);H;CG;N;1;vendredi;10h05;0
+1549;1h00;H;PHE;Philosophie / étique;Meyer;Pierre-Yves;3EC2;103;H;CG;N;1;vendredi;10h05;0
+1550;1h00;H;PSY;Psychologie;Gremion;François;3ECG2;303;H;CG;N;1;vendredi;10h05;0
+1551;1h00;H;PSY;Psychologie;Charrière;Stéphanie;3ECG5;310;H;CG;N;1;vendredi;10h05;0
+1552;1h00;H;FR;Français;Rossier;Serge;2GY1;307;H;CG;N;1;vendredi;10h05;0
+1553;1h00;H;FR;Français;Gachet;Alexandre;2GY2;10;H;CG;N;1;vendredi;10h05;0
+1554;1h00;H;FR;Français;Lüthi;Sylvie;2GY6;309;H;CG;N;1;vendredi;10h05;0
+1555;1h00;H;FR;Français;Lepourtois;Annaïk;1EC1;6;H;CG;N;1;vendredi;10h05;0
+1556.1;2h00;Q2;PHL;Physique labo;Kohlprath;Emmanuel;[2GY3_NPAM];225 (PHL);Q;CG;N;1;vendredi;10h05;0
+1556.2;1h00;Q1;PHK;Physik;Kohlprath;Emmanuel;[2GY3_NPAM];215 (PHY);Q;CG;N;1;vendredi;10h05;0
+1556.3;1h00;Q1;.;Pas de cours;Kohlprath;Emmanuel;[2GY3_NPAM];;Q;CG;N;1;vendredi;10h55;0
+1557;2h00;H;OS 4;OS 4;;;4GY6;;H;CG;N;1;vendredi;10h05;0
+1558;2h00;H;OS 4;OS 4;;;4GY2;;H;CG;N;1;vendredi;10h05;0
+1559;2h00;H;OS 4;OS 4;;;4GY4;;H;CG;N;1;vendredi;10h05;0
+1560;2h00;H;OS 4;OS 4;;;4GY5;;H;CG;N;1;vendredi;10h05;0
+1561;2h00;H;OS 4;OS 4;;;4GY7;;H;CG;N;1;vendredi;10h05;0
+1562;2h00;H;OS 4;OS 4;;;[4GY1_NPAM];;H;CG;N;1;vendredi;10h05;0
+1563;2h00;H;OS 4;OS 4;;;[4GY3_NPAM];;H;CG;N;1;vendredi;10h05;0
+1564;2h00;H;4sAM;OS 4 Applications maths;Gremaud;Nicolas;[4GY1/3_PAM];101 (INF);H;CG;N;1;vendredi;10h05;0
+1565;1h00;H;2sBIO;OS 2 Biologie;Coquoz;Jean-Luc;2GY7;128 (BIO);H;CG;N;1;vendredi;10h05;0
+1566;1h00;Q1;4sCHI;OS 4 Chimie;Beauverd;Luc;;228 (CHI);Q1;CG;N;1;vendredi;10h05;0
+1567;1h00;H;AL;Allemand;Gerber;Eva;3ECG1;115;H;CG;N;1;vendredi;10h05;0
+1568;1h00;Q2;4sCHI;OS 4 Chimie;Beauverd;Luc;;228 (CHI);Q2;CG;N;1;vendredi;10h05;0
+1569;2h30;H;GY;Education physique;Sottas;Aurélien;1ECG6;;H;CG;N;1;vendredi;00h00;0
+1570;2h30;H;GY;Education physique;Oberson;Jérôme;1GY05;;H;CG;N;1;vendredi;00h00;0
+1571;2h30;H;GY;Education physique;Sauteur;Stéphane;1GY07;;H;CG;N;1;vendredi;00h00;0
+1572;1h00;H;PHY;Physique;Burckel;Alice;3GY6;217 (PHY);H;CG;N;1;vendredi;10h55;0
+1573;1h00;H;4sED;OS 4 Economie et droit;Kolly;Anne-Claude;;319;H;CG;N;1;vendredi;10h55;0
+1574;1h00;H;AN;Anglais;Miller;Eric;1GY01;203;H;CG;N;1;vendredi;10h55;0
+1575;1h00;H;AN;Anglais;Grandjean;Michel;1GY06;106;H;CG;N;1;vendredi;10h55;0
+1576;1h00;H;AN;Anglais;Vogt;Jacqueline;2GY2;107;H;CG;N;1;vendredi;10h55;0
+1577;1h00;H;AN;Anglais;Nottage;Jeff;2GY5;108;H;CG;N;1;vendredi;10h55;0
+1578;1h00;H;AN;Anglais;Herzog;Beat;2ECG3;110;H;CG;N;1;vendredi;10h55;0
+1579;1h00;H;INF;Informatique;Donner, Simillion;Cédric, Fabian;1GY09;102 (INF);H;CG;N;1;vendredi;10h55;0
+1580;1h00;H;AL;Allemand;Bongard;Ydia;2GY1;111;H;CG;N;1;vendredi;10h55;0
+1581;1h00;H;AL;Allemand;Piller;Angelo;2ECG4;113;H;CG;N;1;vendredi;10h55;0
+1582;1h00;H;AL;Allemand;Brantschen;Karin;3ECG3;211;H;CG;N;1;vendredi;10h55;0
+1583;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY02;204;H;CG;N;1;vendredi;10h55;0
+1584;1h00;H;MA;Mathématiques;Clerc;Christine;1GY08;105;H;CG;N;1;vendredi;10h55;0
+1585;1h00;H;HI;Histoire;Rossier;Serge;2EC2;307;H;CG;N;1;vendredi;10h55;0
+1586;1h00;H;GEO;Géographie;Bapst;Valérie;1ECG4;117 (GEO);H;CG;N;1;vendredi;10h55;0
+1587;1h00;H;EP;Economie politique;Fragnière;Thomas;2EC1;212;H;CG;N;1;vendredi;10h55;0
+1588;1h00;H;SR;Science des religions;Mousson;Laurent;2GY4;209;H;CG;N;1;vendredi;10h55;0
+1589;1h00;H;SOC;Sociologie;Gremion;François;3ECG4;303;H;CG;N;1;vendredi;10h55;0
+1590;2h00;H;FR;Français;Mauron;Charly;2GY8;103;H;CG;N;1;vendredi;10h55;0
+1591;1h00;H;FR;Français;Wyssa;Anne-Catherine;3GY7;316;H;CG;N;1;vendredi;10h55;0
+1592;1h00;H;FR;Français;Zumwald;David;3ECG1;208;H;CG;N;1;vendredi;10h55;0
+1593;1h00;H;2sCHI;OS 2 Chimie;Scanu;David;2GY7;228 (CHI);H;CG;N;1;vendredi;10h55;0
+1594;1h00;Q2;4sBIO;OS 4 Biologie;Galley;Yves;;128 (BIO);Q2;CG;N;1;vendredi;10h55;0
+1595;1h00;Q1;4sCHI;OS 4 Chimie;Beauverd;Luc;;216 (CHI);Q1;CG;N;1;vendredi;10h55;0
+1596;1h00;H;3sAV;OS 3 Arts visuels;Gex;Dominique;;302 (ARV);H;CG;N;1;vendredi;11h45;0
+1597;1h00;H;BIO;Biologie;Murith;Valérie;2GY5;118 (BIL);H;CG;N;1;vendredi;11h45;0
+1598;1h00;H;PHK;Physik;Bergem;Patrick;2GY4;217 (PHY);H;CG;N;1;vendredi;11h45;0
+1599;1h00;H;3sIT;OS 3 Italien;Coowar-Ringenbach;Rhéa Esther;;204;H;CG;N;1;vendredi;11h45;0
+1600;1h00;H;3sES;OS 3 Espagnol;Rivas;Maria;;210;H;CG;N;1;vendredi;11h45;0
+1601;1h00;H;3sES;OS 3 Espagnol;Vieitez;Araceli;;2;H;CG;N;1;vendredi;11h45;0
+1602;1h00;H;AN;Anglais;Morard;Aurélie;2GY6;6;H;CG;N;1;vendredi;11h45;0
+1603;1h00;H;AN;Anglais;Borloz;Isabelle;2ECG5;8;H;CG;N;1;vendredi;11h45;0
+1604;1h00;H;AL;Allemand;Grandjean;Michel;1GY08;106;H;CG;N;1;vendredi;11h45;0
+1605;1h00;H;AL;Allemand;Armbruster;Michèle;3EC1;111;H;CG;N;1;vendredi;11h45;0
+1606;1h00;H;MA;Mathématiques;Clerc;Christine;2GY7;105;H;CG;N;1;vendredi;11h45;0
+1607;1h00;H;MA;Mathématiques;Mattei;Stéphane;2ECG2;10;H;CG;N;1;vendredi;11h45;0
+1608;1h00;H;MA;Mathématiques;Aeby;Evelyne;3ECG5;203;H;CG;N;1;vendredi;11h45;0
+1609;1h00;H;MA;Mathématiques;Galley;Muriel;1EC2;206;H;CG;N;1;vendredi;11h45;0
+1610;1h00;H;HI;Histoire;Grandjean;Sylvain;3EC2;114;H;CG;N;1;vendredi;11h45;0
+1611;1h00;H;GEO;Géographie;Murith;Olivier;1GY10;117 (GEO);H;CG;N;1;vendredi;11h45;0
+1612;1h00;H;TENV;Technique et environnement (géo);Baeriswyl;Valentin;1EC1;123 (GEO/MUS);H;CG;N;1;vendredi;11h45;0
+1613;1h00;H;ANA;Anatomie;Monney;Anne-Valérie;1ECG3;116 (BIO);H;CG;N;1;vendredi;11h45;0
+1614;1h00;H;SOC;Sociologie;Gremion;François;3ECG2;303;H;CG;N;1;vendredi;11h45;0
+1615;1h00;H;FR;Français;Albasini;Marie;1GY04;113;H;CG;N;1;vendredi;11h45;0
+1616.1;1h00;H;FR;Français;Bagnoud;François-Xavier;1ECG5;112;H;CG;N;1;vendredi;11h45;0
+1616.2;1h00;H;FR;Français;Bagnoud;François-Xavier;1ECG1;112;H;CG;N;1;vendredi;12h35;0
+1617;1h00;H;FR;Français;Rossier;Serge;2EC1;307;H;CG;N;1;vendredi;11h45;0
+1618;1h00;H;PC;Prof de classe;Valloton;Valérie;1ECG2;115;H;CG;N;1;vendredi;11h45;0
+1619;1h00;H;PC;Prof de classe;Castella;Serge;4GY1;208;H;CG;N;1;vendredi;11h45;0
+1620;1h00;H;PC;Prof de classe;Roubaty;Jean-Benoît;4GY3;104;H;CG;N;1;vendredi;11h45;0
+1621;1h00;H;3sED;OS 3 Economie et droit;Kolly;Anne-Claude;;319;H;CG;N;1;vendredi;11h45;0
+1622;1h00;H;OS 3;OS 3;;;3GY2;;H;CG;N;1;vendredi;11h45;0
+1623;1h00;H;OS 3;OS 3;;;3GY4;;H;CG;N;1;vendredi;11h45;0
+1624;1h00;H;OS 3;OS 3;;;3GY5;;H;CG;N;1;vendredi;11h45;0
+1625;1h00;H;OS 3;OS 3;;;3GY7;;H;CG;N;1;vendredi;11h45;0
+1626;1h00;H;OS 3;OS 3;;;3GY8;;H;CG;N;1;vendredi;11h45;0
+1627;1h00;H;OS 3;OS 3;;;[3GY1_NPAM];;H;CG;N;1;vendredi;11h45;0
+1628;1h00;H;OS 3;OS 3;;;[3GY3_NPAM];;H;CG;N;1;vendredi;11h45;0
+1629;1h00;H;3sBIO;OS 3 Biologie;Coquoz;Jean-Luc;;128 (BIO);H;CG;N;1;vendredi;11h45;0
+1630.1;1h00;H;2sCHI;OS 2 Chimie;Beauverd;Luc;[2GY1/2_BIC];216 (CHI);H;CG;N;1;vendredi;11h45;0
+1630.2;1h00;H;CHI;Chimie;Scanu;David;[2GY2_NBIC];228 (CHI);H;CG;N;1;vendredi;11h45;0
+1630.3;1h00;H;CHI;Chimie;Marion-Veyron;Emmanuel;[2GY1/3_NBIC];216 (CHI);H;CG;N;1;vendredi;12h35;0
+1630.4;1h00;H;2sCHI;OS 2 Chimie;Conus;Sébastien;[2GY3_BIC];228 (CHI);H;CG;N;1;vendredi;12h35;0
+1631;1h00;H;3sGR;OS 3 Grec;Sudan;Bruno;;109;H;CG;N;1;vendredi;11h45;0
+1632;1h00;H;CHOR;Art choral;Emery;Marc-Antoine;1ECG4;125 (MUS);H;CG;N;1;vendredi;12h35;0
+1633.1;1h00;Q1;BIO;Biologie;Galley;Yves;2ECG4;116 (BIO);Q;CG;N;1;vendredi;13h25;0
+1633.2;2h00;Q2;TPB;Biologie labo;Galley;Yves;2ECG4;118 (BIL);Q;CG;N;1;vendredi;12h35;0
+1633.3;1h00;Q1;.;Pas de cours;Galley;Yves;2ECG4;;Q;CG;N;1;vendredi;12h35;0
+1634.1;1h00;Q2;BIO;Biologie;Wannier;Thierry;3ECG1;116 (BIO);Q;CG;N;1;vendredi;13h25;0
+1634.2;2h00;Q1;TPB;Biologie labo;Wannier;Thierry;3ECG1;118 (BIL);Q;CG;N;1;vendredi;12h35;0
+1634.3;1h00;Q2;.;Pas de cours;Wannier;Thierry;3ECG1;;Q;CG;N;1;vendredi;12h35;0
+1635;1h00;H;LA;Latin;Pernet;Christian;[1GY1_LA];109;H;CG;N;1;vendredi;12h35;0
+1636;1h00;H;AN;Anglais;Vogt;Jacqueline;4GY4;113;H;CG;N;1;vendredi;12h35;0
+1637;1h00;H;AN;Anglais;Valloton;Valérie;1ECG2;115;H;CG;N;1;vendredi;12h35;0
+1638;1h00;H;AN;Anglais;Borloz;Isabelle;2ECG2;8;H;CG;N;1;vendredi;12h35;0
+1639;1h00;H;BUR;Bureautique;Donner;Cédric;1ECG5;101 (INF);H;CG;N;1;vendredi;12h35;0
+1640;1h00;H;AL;Allemand;Piller;Angelo;1GY03;6;H;CG;N;1;vendredi;12h35;0
+1641;1h00;H;AL;Allemand;Pollozek;Rose;1GY04;307;H;CG;N;1;vendredi;12h35;0
+1642;1h00;H;AL;Allemand;Brünisholz;Tina;3GY6;103;H;CG;N;1;vendredi;12h35;0
+1643;1h00;H;AL;Allemand;Brantschen;Karin;4GY5;1;H;CG;N;1;vendredi;12h35;0
+1644;1h00;H;AL;Allemand;Heldstab;Sidonia;3ECG2;205;H;CG;N;1;vendredi;12h35;0
+1645;1h00;H;AL;Allemand;Gerber;Eva;3ECG4;106;H;CG;N;1;vendredi;12h35;0
+1646;1h00;H;AL;Allemand;Wandeler;Pierre-Georges;1EC1;107;H;CG;N;1;vendredi;12h35;0
+1647;1h00;H;MA;Mathématiques;Galley;Muriel;2GY6;206;H;CG;N;1;vendredi;12h35;0
+1648;1h00;H;MA;Mathématiques;Oberli;Guillaume;3EC2;110;H;CG;N;1;vendredi;12h35;0
+1649;1h00;H;HI;Histoire;Wyssa;Anne-Catherine;1GY09;316;H;CG;N;1;vendredi;12h35;0
+1650;1h00;H;HI;Histoire;Allaman;Jérôme;4GY2;212;H;CG;N;1;vendredi;12h35;0
+1651;1h00;H;HI;Histoire;Grandjean;Sylvain;1EC2;114;H;CG;N;1;vendredi;12h35;0
+1652;1h00;H;GEO;Géographie;Trezzini;Nicole;1GY06;123 (GEO/MUS);H;CG;N;1;vendredi;12h35;0
+1653;1h00;H;GEO;Géographie;Rime;François;2ECG5;117 (GEO);H;CG;N;1;vendredi;12h35;0
+1654;1h00;H;ECD;Economie et droit;Charrière;David;1GY10;308;H;CG;N;1;vendredi;12h35;0
+1655;1h00;H;EP;Economie politique;Girard;Raoul;3EC1;203;H;CG;N;1;vendredi;12h35;0
+1656;2h00;H;PHI;Philosophie;Monay;Didier;4GY7;321;H;CG;N;1;vendredi;12h35;0
+1657;1h00;H;ANA;Anatomie;Coquoz;Jean-Luc;2ECG1;128 (BIO);H;CG;N;1;vendredi;12h35;0
+1658;1h00;H;FR;Français;Collomb;Jean-Paul;1GY02;204;H;CG;N;1;vendredi;12h35;0
+1659;1h00;H;FR;Français;Gachet;Alexandre;2GY9;320;H;CG;N;1;vendredi;12h35;0
+1660;1h00;H;FR;Français;Python;Stéphanie;1ECG3;319;H;CG;N;1;vendredi;12h35;0
+1661;1h00;H;FR;Français;Möri;Frédéric;3ECG5;309;H;CG;N;1;vendredi;12h35;0
+1662;1h00;H;PC;Prof de classe;Castella;Serge;4GY6;208;H;CG;N;1;vendredi;12h35;0
+1663;1h00;H;HAR;Histoire de l'art;Zumwald;David;[3ECG3_SOC];201 (ARV);H;CG;N;1;vendredi;12h35;0
+1664.1;2h00;H;MU;Musique;Emery;Marc-Antoine;[3GY5/7_MU];125 (MUS);H;CG;N;1;vendredi;13h25;0
+1664.2;2h00;H;AV;Arts visuels;Gex;Dominique;[3GY7_AV];302 (ARV);H;CG;N;1;vendredi;13h25;0
+1664.3;2h00;H;AV;Arts visuels;Ottiger;Vincent;[3GY5_AV];201 (ARV);H;CG;N;1;vendredi;13h25;0
+1665.1;1h00;Q2;BID;Biologie bilingues;Murith;Valérie;2GY4;126 (BIL);Q;CG;N;1;vendredi;14h15;0
+1665.2;2h00;Q1;TPB;Biologie labo;Murith;Valérie;2GY4;126 (BIL);Q;CG;N;1;vendredi;13h25;0
+1665.3;1h00;Q2;.;Pas de cours;Murith;Valérie;2GY4;;Q;CG;N;1;vendredi;13h25;0
+1666.1;1h00;Q2;CHI;Chimie;Beauverd;Luc;1GY08;228 (CHI);Q;CG;N;1;vendredi;14h15;0
+1666.2;2h00;Q1;TPC;Chimie labo;Beauverd;Luc;1GY08;218 (CHL);Q;CG;N;1;vendredi;13h25;0
+1666.3;1h00;Q2;.;Pas de cours;Beauverd;Luc;1GY08;;Q;CG;N;1;vendredi;13h25;0
+1667;1h00;H;CHI;Chimie;Conus;Sébastien;3ECG2;228 (CHI);H;CG;N;1;vendredi;13h25;0
+1668;1h00;H;PHY;Physique;Savoy;Isabelle;2ECG1;217 (PHY);H;CG;N;1;vendredi;13h25;0
+1669;2h00;H;AN;Anglais;Vogt;Jacqueline;3GY4;113;H;CG;N;1;vendredi;13h25;0
+1670;1h00;H;AN;Anglais;Herzog;Beat;3GY8;8;H;CG;N;1;vendredi;13h25;0
+1671;1h00;H;AN;Anglais;Nottage;Jeff;4GY6;106;H;CG;N;1;vendredi;13h25;0
+1672;1h00;H;AN;Anglais;Morard;Aurélie;1ECG3;110;H;CG;N;1;vendredi;13h25;0
+1673;1h00;H;AN;Anglais;Miller;Eric;1EC2;104;H;CG;N;1;vendredi;13h25;0
+1674;1h00;H;INF;Informatique;Pernet;Christian;3EC1;101 (INF);H;CG;N;1;vendredi;13h25;0
+1675;1h00;H;AL;Allemand;Brünisholz;Tina;1GY06;103;H;CG;N;1;vendredi;13h25;0
+1676;1h00;H;AL;Allemand;Pollozek;Rose;2GY6;307;H;CG;N;1;vendredi;13h25;0
+1677;2h00;H;AL;Allemand;Schläfle;Gabriela;2GY3;314;H;CG;N;1;vendredi;13h25;0
+1678;2h00;H;AL;Allemand;Armbruster;Michèle;2GY7;115;H;CG;N;1;vendredi;13h25;0
+1679;2h00;H;AL;Allemand;Bongard;Ydia;3GY2;322;H;CG;N;1;vendredi;13h25;0
+1680;2h00;H;AL;Allemand;Wandeler;Pierre-Georges;4GY2;107;H;CG;N;1;vendredi;13h25;0
+1681.1;1h00;H;AL Conv.;Allemand Conversation;Meyer;Urs;[4GY3_4sNLA];315;H;CG;N;1;vendredi;13h25;0
+1681.2;1h00;H;AL Conv.;Allemand Conversation;Meyer;Urs;4GY3;315;H;CG;N;1;vendredi;14h15;0
+1682;1h00;H;AL;Allemand;Schubert;Holger;4GY4;209;H;CG;N;1;vendredi;13h25;0
+1683;1h00;H;AL;Allemand;Piller;Angelo;3ECG5;6;H;CG;N;1;vendredi;13h25;0
+1684;1h00;H;MA;Mathématiques;Galley;Muriel;1GY05;206;H;CG;N;1;vendredi;13h25;0
+1685;1h00;H;MA;Mathématiques;Chatagny;Richard;4GY5;207;H;CG;N;1;vendredi;13h25;0
+1686;1h00;H;HI;Histoire;Wyssa;Anne-Catherine;1GY01;316;H;CG;N;1;vendredi;13h25;0
+1687;1h00;H;HI;Histoire;Collomb;Jean-Paul;1GY02;204;H;CG;N;1;vendredi;13h25;0
+1688;1h00;H;HI;Histoire;Rossier;Serge;2GY1;214;H;CG;N;1;vendredi;13h25;0
+1689;1h00;H;HI;Histoire;Allaman;Jérôme;2GY5;212;H;CG;N;1;vendredi;13h25;0
+1690;1h00;H;HI;Histoire;Grandjean;Sylvain;1ECG1;114;H;CG;N;1;vendredi;13h25;0
+1691;1h00;H;HI;Histoire;Murith;Olivier;1ECG6;123 (GEO/MUS);H;CG;N;1;vendredi;13h25;0
+1692;1h00;H;HI;Histoire;Uldry;Jean-Maurice;3ECG3;111;H;CG;N;1;vendredi;13h25;0
+1693;1h00;H;GEO;Géographie;Rime;François;2GY9;117 (GEO);H;CG;N;1;vendredi;13h25;0
+1694;1h00;H;ECD;Economie et droit;Fragnière;Thomas;1GY07;303;H;CG;N;1;vendredi;13h25;0
+1695;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY04;304;H;CG;N;1;vendredi;13h25;0
+1696;1h00;H;EE;Economie d'entreprise;Girard;Raoul;1EC1;203;H;CG;N;1;vendredi;13h25;0
+1697;1h00;H;EE;Economie d'entreprise;Charrière;David;3EC2;308;H;CG;N;1;vendredi;13h25;0
+1698.1;4h00;H;PPI;Pratique prof. intégrée;Naudeix;Jean-Christophe;2EC1;1;H;CG;N;1;vendredi;13h25;0
+1698.2;4h00;H;PPI;Pratique prof. intégrée;Wyssmüller;Nicolas;2EC2;205;H;CG;N;1;vendredi;13h25;0
+1699;1h00;H;SR;Science des religions;Möri;Frédéric;1GY03;309;H;CG;N;1;vendredi;13h25;0
+1700;2h00;H;PHI;Philosophie;Mousson;Laurent;4GY1;108;H;CG;N;1;vendredi;13h25;0
+1701;1h00;H;ANA;Anatomie;Coquoz;Jean-Luc;[2ECG3_SAN];128 (BIO);H;CG;N;1;vendredi;13h25;0
+1702;1h00;H;PEDA;Pédagogie;Gremion;François;3ECG4;310;H;CG;N;1;vendredi;13h25;0
+1703;1h00;H;FR;Français;Pasquier;Claire-Lyse;1GY09;313;H;CG;N;1;vendredi;13h25;0
+1704;2h00;H;FR;Français;Gachet;Alexandre;3GY1;320;H;CG;N;1;vendredi;13h25;0
+1705;1h00;H;FR;Français;Zumwald;David;3GY6;213;H;CG;N;1;vendredi;13h25;0
+1706;2h00;H;FR;Français;Roubaty;Jean-Benoît;1ECG2;105;H;CG;N;1;vendredi;13h25;0
+1707;1h00;H;FR;Français;Perroud;Corinne;1ECG4;2;H;CG;N;1;vendredi;13h25;0
+1708;1h00;H;FR;Français;Albasini;Marie;2ECG5;211;H;CG;N;1;vendredi;13h25;0
+1709;1h00;H;PC;Prof de classe;Bagnoud;François-Xavier;1GY10;112;H;CG;N;1;vendredi;13h25;0
+1710;1h00;H;PC;Prof de classe;Python;Stéphanie;3GY3;319;H;CG;N;1;vendredi;13h25;0
+1711;2h00;H;2sES;OS 2 Espagnol;Rivas;Maria;2GY8;210;H;CG;N;1;vendredi;13h25;0
+1712.1;2h00;Q2;PHL;Physique labo;Oberli;Guillaume;[2GY2_NPAM];225 (PHL);Q;CG;N;1;vendredi;13h25;0
+1712.2;1h00;Q1;PHY;Physique;Oberli;Guillaume;[2GY2_NPAM];215 (PHY);Q;CG;N;1;vendredi;14h15;0
+1712.3;1h00;Q1;.;Pas de cours;Oberli;Guillaume;[2GY2_NPAM];;Q;CG;N;1;vendredi;13h25;0
+1713;1h00;H;4sLAA;OS 4 Latin avancés;Sudan;Bruno;[4GY3_4sLA];109;H;CG;N;1;vendredi;13h25;0
+1714.1;1h00;Q2;BIO;Biologie;Conus;Sébastien;1GY01;128 (BIO);Q;CG;N;1;vendredi;14h15;0
+1714.2;2h00;Q1;TPB;Biologie labo;Conus;Sébastien;1GY01;118 (BIL);Q;CG;N;1;vendredi;14h15;0
+1714.3;1h00;Q2;.;Pas de cours;Conus;Sébastien;1GY01;;Q;CG;N;1;vendredi;15h05;0
+1715;1h00;H;BIO;Biologie;Wannier;Thierry;2GY6;116 (BIO);H;CG;N;1;vendredi;14h15;0
+1716.1;1h00;Q1;BIO;Biologie;Galley;Yves;1ECG1;128 (BIO);Q;CG;N;1;vendredi;14h15;0
+1716.2;2h00;Q2;TPB;Biologie labo;Galley;Yves;1ECG1;118 (BIL);Q;CG;N;1;vendredi;14h15;0
+1716.3;1h00;Q1;.;Pas de cours;Galley;Yves;1ECG1;;Q;CG;N;1;vendredi;15h05;0
+1717;1h00;H;PHY;Physique;Savoy;Isabelle;1ECG5;217 (PHY);H;CG;N;1;vendredi;14h15;0
+1718;1h00;H;AN;Anglais;Miller;Eric;1GY02;104;H;CG;N;1;vendredi;14h15;0
+1719;1h00;H;AN;Anglais;Morard;Aurélie;3ECG5;110;H;CG;N;1;vendredi;14h15;0
+1720;1h00;H;AN;Anglais;Uldry;Jean-Maurice;3ECG1;111;H;CG;N;1;vendredi;14h15;0
+1721;1h00;H;AN;Anglais;Valloton;Valérie;3EC2;10;H;CG;N;1;vendredi;14h15;0
+1722;1h00;H;INF;Informatique;Donner, Pernet;Cédric, Christian;1GY07;101 (INF);H;CG;N;1;vendredi;14h15;0
+1723;1h00;H;AL;Allemand;Piller;Angelo;4GY7;6;H;CG;N;1;vendredi;14h15;0
+1724;2h00;H;AL;Allemand;Brünisholz;Tina;1ECG3;103;H;CG;N;1;vendredi;14h15;0
+1725;1h00;H;AL;Allemand;Gerber;Eva;1ECG4;203;H;CG;N;1;vendredi;14h15;0
+1726;1h00;H;MA;Mathématiques;Chatagny;Richard;1GY06;207;H;CG;N;1;vendredi;14h15;0
+1727;1h00;H;MA;Mathématiques;Galley;Muriel;1GY09;206;H;CG;N;1;vendredi;14h15;0
+1728;1h00;H;MA;Mathématiques;Charrière;Florian;3GY6;214;H;CG;N;1;vendredi;14h15;0
+1729;1h00;H;MA;Mathématiques;Mattei;Stéphane;2ECG3;114;H;CG;N;1;vendredi;14h15;0
+1730;1h00;H;HI;Histoire;Allaman;Jérôme;4GY5;212;H;CG;N;1;vendredi;14h15;0
+1731;1h00;H;GESC;Geschichte;Schubert;Holger;4GY4;209;H;CG;N;1;vendredi;14h15;0
+1732;1h00;H;HI;Histoire;Murith;Olivier;3ECG4;208;H;CG;N;1;vendredi;14h15;0
+1733;1h00;H;GEO;Géographie;Rime;François;1GY04;117 (GEO);H;CG;N;1;vendredi;14h15;0
+1734;1h00;H;GEO;Géographie;Trezzini;Nicole;2GY5;123 (GEO/MUS);H;CG;N;1;vendredi;14h15;0
+1735;1h00;H;ECD;Economie et droit;Charrière;David;1GY05;308;H;CG;N;1;vendredi;14h15;0
+1736;1h00;H;WIRT;Economie et droit bilingues;Piccand;Trudi;1GY03;304;H;CG;N;1;vendredi;14h15;0
+1737;1h00;H;DR;Droit;Fragnière;Thomas;3EC1;303;H;CG;N;1;vendredi;14h15;0
+1738;1h00;H;SR;Science des religions;Möri;Frédéric;2GY1;309;H;CG;N;1;vendredi;14h15;0
+1739.1;1h00;H;PHE;Philosophie / étique;Monay;Didier;3ECG3;321;H;CG;N;1;vendredi;14h15;0
+1739.2;1h00;H;PHE;Philosophie / étique;Monay;Didier;3ECG1;321;H;CG;N;1;vendredi;15h05;0
+1740;1h00;H;PSY;Psychologie;Gremion;François;2ECG4;310;H;CG;N;1;vendredi;14h15;0
+1741;1h00;H;FR;Français;Castella;Serge;4GY6;109;H;CG;N;1;vendredi;14h15;0
+1742;1h00;H;FR;Français;Python;Stéphanie;3GY3;319;H;CG;N;1;vendredi;14h15;0
+1743;1h00;H;FR;Français;Collomb;Jean-Paul;3GY8;204;H;CG;N;1;vendredi;14h15;0
+1744;2h00;H;FR;Français;Perroud;Corinne;1ECG6;2;H;CG;N;1;vendredi;14h15;0
+1745;1h00;H;FR;Français;Zumwald;David;2ECG1;213;H;CG;N;1;vendredi;14h15;0
+1746;1h00;H;FR;Français;Albasini;Marie;2ECG2;211;H;CG;N;1;vendredi;14h15;0
+1747;1h00;H;PC;Prof de classe;Clerc;Christine;2GY9;8;H;CG;N;1;vendredi;14h15;0
+1748;1h00;H;PC;Prof de classe;Heldstab;Sidonia;3ECG2;313;H;CG;N;1;vendredi;14h15;0
+1749.1;2h00;H;MU;Musique;Emery;Marc-Antoine;[2ECG3_MU];125 (MUS);H;CG;N;1;vendredi;15h05;0
+1749.2;2h00;H;AV;Arts visuels;Ottiger;Vincent;[2ECG1/3_AV];201 (ARV);H;CG;N;1;vendredi;15h05;0
+1749.3;2h00;H;AV;Arts visuels;Gex;Dominique;[2ECG2/3_AV];302 (ARV);H;CG;N;1;vendredi;15h05;0
+1750;1h00;H;BIO;Biologie;Coquoz;Jean-Luc;1GY09;116 (BIO);H;CG;N;1;vendredi;15h05;0
+1751.1;1h00;Q2;BID;Biologie bilingues;Murith;Valérie;2GY3;126 (BIL);Q;CG;N;1;vendredi;15h05;0
+1751.2;2h00;Q1;TPB;Biologie labo;Murith;Valérie;2GY3;126 (BIL);Q;CG;N;1;vendredi;15h05;0
+1751.3;1h00;Q2;.;Pas de cours;Murith;Valérie;2GY3;;Q;CG;N;1;vendredi;15h55;0
+1752.1;1h00;Q2;CHI;Chimie;Beauverd;Luc;2GY5;228 (CHI);Q;CG;N;1;vendredi;15h05;0
+1752.2;2h00;Q1;TPC;Chimie labo;Beauverd;Luc;2GY5;218 (CHL);Q;CG;N;1;vendredi;15h05;0
+1752.3;1h00;Q2;.;Pas de cours;Beauverd;Luc;2GY5;;Q;CG;N;1;vendredi;15h55;0
+1753.1;1h00;Q1;CHI;Chimie;Marion-Veyron;Emmanuel;1ECG4;228 (CHI);Q;CG;N;1;vendredi;15h05;0
+1753.2;2h00;Q2;TPC;Chimie labo;Marion-Veyron;Emmanuel;1ECG4;218 (CHL);Q;CG;N;1;vendredi;15h05;0
+1753.3;1h00;Q1;.;Pas de cours;Marion-Veyron;Emmanuel;1ECG4;;Q;CG;N;1;vendredi;15h55;0
+1754.1;1h00;Q2;PHY;Physique;Charrière;Florian;2GY8;217 (PHY);Q;CG;N;1;vendredi;15h05;0
+1754.2;2h00;Q1;PHL;Physique labo;Charrière;Florian;2GY8;225 (PHL);Q;CG;N;1;vendredi;15h05;0
+1754.3;1h00;Q2;.;Pas de cours;Charrière;Florian;2GY8;;Q;CG;N;1;vendredi;15h55;0
+1755;2h00;H;AN;Anglais;Akin;Banu;3GY5;214;H;CG;N;1;vendredi;15h05;0
+1756;1h00;H;AN;Anglais;Uldry;Jean-Maurice;3GY7;111;H;CG;N;1;vendredi;15h05;0
+1757;1h00;H;AN;Anglais;Valloton;Valérie;3ECG3;10;H;CG;N;1;vendredi;15h05;0
+1758;1h00;H;BUR;Bureautique;Donner;Cédric;1ECG2;101 (INF);H;CG;N;1;vendredi;15h05;0
+1759;2h00;H;AL;Allemand;Bongard;Ydia;1GY07;322;H;CG;N;1;vendredi;15h05;0
+1760;1h00;H;AL;Allemand;Heldstab;Sidonia;2GY4;313;H;CG;N;1;vendredi;15h05;0
+1761;2h00;H;AL;Allemand;Wandeler;Pierre-Georges;3GY1;107;H;CG;N;1;vendredi;15h05;0
+1762;2h00;H;AL;Allemand;Meyer;Urs;3GY3;315;H;CG;N;1;vendredi;15h05;0
+1763;1h00;H;HI;Histoire;Allaman;Jérôme;3GY2;212;H;CG;N;1;vendredi;15h05;0
+1764;1h00;H;GEO;Géographie;Rime;François;1GY02;117 (GEO);H;CG;N;1;vendredi;15h05;0
+1765;1h00;H;GEO;Géographie;Trezzini;Nicole;1ECG5;123 (GEO/MUS);H;CG;N;1;vendredi;15h05;0
+1766;1h00;H;PHI;Philosophie;Mousson;Laurent;3GY6;108;H;CG;N;1;vendredi;15h05;0
+1767;1h00;H;SOC;Sociologie;Gremion;François;[2ECG3_SOC];310;H;CG;N;1;vendredi;15h05;0
+1768;1h00;H;SOC;Sociologie;Vieitez;Araceli;2ECG5;110;H;CG;N;1;vendredi;15h05;0
+1769;1h00;H;FR;Français;Collomb;Jean-Paul;1GY08;204;H;CG;N;1;vendredi;15h05;0
+1770;1h00;H;FR;Français;Wyssa;Anne-Catherine;3GY4;316;H;CG;N;1;vendredi;15h05;0
+1771;1h00;H;PC;Prof de classe;Herzog;Beat;1GY03;8;H;CG;N;1;vendredi;15h05;0
+1772;1h00;H;PC;Prof de classe;Rossier;Serge;2GY1;105;H;CG;N;1;vendredi;15h05;0
+1773;1h00;H;PC;Prof de classe;Vogt;Jacqueline;2GY2;113;H;CG;N;1;vendredi;15h05;0
+1774;1h00;H;PC;Prof de classe;Armbruster;Michèle;2GY7;115;H;CG;N;1;vendredi;15h05;0
+1775;1h00;H;PC;Prof de classe;Nottage;Jeff;4GY2;6;H;CG;N;1;vendredi;15h05;0
+1776;2h00;H;BE;Basic English;Miller;Eric;[4GY_BE];104;H;CG;N;1;vendredi;15h05;0
+1777;1h00;Q1;GR;Grec;Sudan;Bruno;[1GY1/2_GR];109;Q1;CG;N;1;vendredi;15h55;0
+1778;1h00;H;MA;Mathématiques;Donner;Cédric;1ECG5;112;H;CG;N;1;vendredi;15h55;0
+1779;1h00;H;PSY;Psychologie;Vieitez;Araceli;2ECG5;110;H;CG;N;1;vendredi;15h55;0
+1780;1h00;Q2;PC;Prof de classe;Wyssa;Anne-Catherine;3GY4;316;Q2;CG;N;1;vendredi;15h55;0
+1781;1h00;Q1;PC;Prof de classe;Wyssa;Anne-Catherine;3GY7;316;Q1;CG;N;1;vendredi;15h55;0

@@ -30,7 +30,11 @@ Module 6 : Persistance et bases de données
       `bloc-notes OneNote <https://onenote.com/webapp/pages?token=068EjGAcmccvGHVDAqlgsSbJY0UW2-aFbCF0yCPELrGtWQiEF-vZCjTnF36AZo_yOM4R23PURLdby1pZ3DeGED_ADHGezgMQ0&id=636149106029257264>`_
       (accessible en lecture seule)
 
+   .. admonition:: Cours avec corrigés
+      :class: info
 
+      Une version de ce cours avec corrigés se trouve sous
+      http://oci.donner-online.ch/files-db/corrige/
 
 
 ..  toctree::
@@ -38,6 +42,8 @@ Module 6 : Persistance et bases de données
     :maxdepth: 1
 
     persistence-files/index
+    csv/index
+    xml/index
 
     intro/intro
     rel_mod/intro
@@ -52,11 +58,15 @@ Module 6 : Persistance et bases de données
     sql/ddl/create_table
     sql/ddl/insert
 
-    sql/select/learn-by-doing
     sql/select/basic
     sql/select/basic-exos
+    sql/select/learn-by-doing
     sql/select/advanced
     sql/select/advanced-exos
     sql/select/synthese-exos
 
     db-api/sqlite-api-theorie
+
+    orm/index
+
+    tools/index

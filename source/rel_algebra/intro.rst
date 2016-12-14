@@ -17,7 +17,7 @@ Algèbre relationnelle
 
         * Il ne faut pas oublier d'ajouter l'extension dans le fichier :file:`conf.py`
 
-..  ############### END PROF UNIQUEMENT        
+..  ############### END PROF UNIQUEMENT
 
 
     Voici comment on peut connaître toutes les tables d'une base de données
@@ -25,7 +25,7 @@ Algèbre relationnelle
     afficher le résultat sous forme de table dans la documentation.
     ::
 
-        ..  sqltable:: List of Users 
+        ..  sqltable:: List of Users
             :connection_string: sqlite:///library.db
             :class: ocidbtable table-striped table-bordered
 
@@ -33,7 +33,7 @@ Algèbre relationnelle
 
     Le répertoire racine correspond au dossier racine de la documentation (runestone)
 
-    ..  sqltable:: List of Users 
+    ..  sqltable:: List of Users
         :connection_string: sqlite:///library.db
         :class: ocidbtable table-striped table-bordered
 
@@ -49,9 +49,8 @@ formaliser la manière de poser des requêtes envers une base de données
 relationnelles.
 
 Le fait d'étudier un minimum d'algébre relationnelle va nous permettre de bien
-comprendre comment fonctionne le modèle et comment un système de base de
-données relationnelles va données relationnelle interroger les tables pour
-répondre à des questions précises.
+comprendre comment fonctionne le modèle et comment un système de base de données
+relationnelles va interroger les tables pour répondre à des questions précises.
 
 Principes de base
 =================
@@ -89,48 +88,48 @@ donc les lignes de la table.
 Exemple
 ~~~~~~~
 
-Si la table ``client`` contient les données 
+.. sidebar:: Contenu des relations ``client`` et ``possession``
+   :class: small
 
-..  sqltable:: Contenu de la table ``client`` 
-    :connection_string: sqlite:///bank.db
-    :class: ocidbtable table-striped table-bordered
+   ..  sqltable:: Contenu de la table ``client``
+       :connection_string: sqlite:///bank.db
+       :class: ocidbtable table-striped table-bordered
 
-    select * from client
+       select * from client
 
-et que la table ``possession``
 
-..  sqltable:: Table ``possession``
-    :connection_string: sqlite:///bank.db
-    :class: ocidbtable table-striped table-bordered
+   ..  sqltable:: Table ``possession``
+       :connection_string: sqlite:///bank.db
+       :class: ocidbtable table-striped table-bordered
 
-    select * from possession    
+       select * from possession
 
-..  only:: prof
+   ..  only:: prof
 
-    et que le contenu des autres tables est 
+       et que le contenu des autres tables est
 
-    ..  sqltable:: Table ``compte``
-        :connection_string: sqlite:///bank.db
-        :class: ocidbtable table-striped table-bordered
+       ..  sqltable:: Table ``compte``
+           :connection_string: sqlite:///bank.db
+           :class: ocidbtable table-striped table-bordered
 
-        select * from compte
+           select * from compte
 
-    ..  sqltable:: Table ``filiale``
-        :connection_string: sqlite:///bank.db
-        :class: ocidbtable table-striped table-bordered
+       ..  sqltable:: Table ``filiale``
+           :connection_string: sqlite:///bank.db
+           :class: ocidbtable table-striped table-bordered
 
-        select * from filiale
+           select * from filiale
 
-    ..  sqltable:: Table ``possession``
-        :connection_string: sqlite:///bank.db
-        :class: ocidbtable table-striped table-bordered
+       ..  sqltable:: Table ``possession``
+           :connection_string: sqlite:///bank.db
+           :class: ocidbtable table-striped table-bordered
 
-        select * from possession
+           select * from possession
 
-L'opération 
+L'opération
 
 ..  math::
-    
+
     \sigma_{\mathrm{client.no\_client > 3}}(\mathrm{client})
 
 va retourner la table suivante qui ne contient que les enregistrements qui
@@ -147,16 +146,16 @@ Opérateur de projection
 -----------------------
 
 L'opérateur de projection :math:`\pi` prend une table en argument et ne garde
-que les colonnes mentionnées. 
+que les colonnes mentionnées.
 
 Exemple
 ~~~~~~~
 
 Si l'on projète la table ``client`` sur les colonnes ``client.nom`` avec
-l'opération 
+l'opération
 
 ..  math::
-    
+
     \pi_{\mathrm{client.nom, client.prenom}}(\mathrm{client})
 
 on obtiendrait la table ``client`` sans les colonnes autres que ``client.nom``
@@ -233,8 +232,8 @@ donne le résultat de la table suivante :
     select * from client, possession
 
 En combinant avec un produit cartésien et une sélection, on peut ne garder du
-gigantesque produit cartésien que les lignes qui nous intéressent, 
-caractérisées par la condition 
+gigantesque produit cartésien que les lignes qui nous intéressent,
+caractérisées par la condition
 ::
     possession.no_client = client.no_client and client.nom = 'Turing'
 
@@ -257,4 +256,3 @@ que le numéro de compte :
     select possession.no_compte
     from possession, client
     where possession.no_client = client.no_client and client.nom = 'Turing'
-

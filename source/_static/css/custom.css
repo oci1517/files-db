@@ -13,7 +13,6 @@ table {
   table-layout:fixed;
 }
 
-
 td {
   word-wrap:break-word;
 }
@@ -21,4 +20,9 @@ td {
 .admonition {
   margin-top: 20px;
   margin-bottom: 30px;
+}
+
+/* le but était de pouvoir écire de manière plus petite dans certaines tables mises en sidebar mais cette règle est écrasée par une autre et je ne sais pas comment faire pour la faire appliquer */
+.small td, .small th {
+  font-size: 70%;
 }

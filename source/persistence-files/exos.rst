@@ -35,11 +35,12 @@ un fichier ``anagram.txt``.
          :language: python3
          :linenos:
 
-      Sortie :
+      Sortie (10 premières lignes):
 
       .. literalinclude:: solutions/out-ex01-words-3.txt
          :linenos:
          :lines: 1-10
+         :append: ...
 
 
 Exercice 2
@@ -60,6 +61,22 @@ substitués par des mots dont les lettres sont permutées.
 Décrypter ce texte à l’aide de la liste de mots (``words-1$.txt``)
 
 
+.. only:: corrige
+
+   .. admonition:: Corrigé
+
+      Code source :
+
+      .. literalinclude:: solutions/ex02.py
+         :language: python3
+         :linenos:
+
+      Sortie :
+
+      .. literalinclude:: solutions/out-ex02.txt
+         :linenos:
+
+
 Exercice 3
 ----------
 
@@ -71,3 +88,10 @@ Exercice 4
 
 Modifier l'exercice 1 ou deux en utilisant des gestionnaires des contexte pour
 ouvrir le fichier.
+
+.. only:: corrige
+
+   .. admonition:: Corrigé
+
+      Les corrigés des exerices 1 et 2 utilisent déjà le gestionnaire de
+      contexte et le bloc ``with``.

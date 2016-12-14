@@ -83,25 +83,30 @@ class ActiveSQL(Directive):
         # �crire le code SQL si le flag no-query n'a pas �t� pass� lors de l'appel
         if show_query():
             # res_nodes += nodes.paragraph(text=u"Requête SQL : ")
-            res_nodes += code.CodeBlock(name=self.name, arguments=['sql'], options={},
-                                        lineno=self.lineno,
-                                        content_offset=self.content_offset,
-                                        block_text=self.block_text,
-                                        state=self.state,
-                                        state_machine=self.state_machine,
-                                        content = self.content).run()
+            print("SQL affiché dans corrigé")
+            res_nodes += code.CodeBlock(
+                name=self.name, arguments=['sql'], options={},
+                lineno=self.lineno,
+                content_offset=self.content_offset,
+                block_text=self.block_text,
+                state=self.state,
+                state_machine=self.state_machine,
+                content = self.content
+            ).run()
 
         # afficher le r�sultat de la requ�te si l'argument no_output n'est pas d�fini
         if show_output():
             # res_nodes += nodes.paragraph(text=u"Résultat de la requête : ")
-            res_nodes += SQLTable(name=self.name, arguments=[''],
-                                        options = {'connection_string' : connection_string},
-                                        lineno=self.lineno,
-                                        content_offset=self.content_offset,
-                                        block_text=self.block_text,
-                                        state=self.state,
-                                        state_machine=self.state_machine,
-                                        content = self.content).run()
+            res_nodes += SQLTable(
+                name=self.name, arguments=[''],
+                options = {'connection_string' : connection_string},
+                lineno=self.lineno,
+                content_offset=self.content_offset,
+                block_text=self.block_text,
+                state=self.state,
+                state_machine=self.state_machine,
+                content = self.content
+            ).run()
 
 
         #res_nodes += [nodes.paragraph(text='Lien SQLFiddle : ' + fiddle_target)]

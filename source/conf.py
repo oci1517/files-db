@@ -37,6 +37,7 @@ extensions = [
     'sphinxcontrib.youtube',
     'donner.sql.sqltable',   # nécessaire pour charger la fonction setup() et les configvalues ==> sinon sqltable_connection_string n'est pas défini
     'donner.sql',
+    'corr',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -250,6 +251,6 @@ def setup(app):
     app.add_javascript('js/code_selection.js')
 
 
-# instructions pour le paramétrage de la directive sql::
-sqlexos_output_corrige = False
-sqlexos_query_corrige = False
+# instructions pour le paramétrage de la directive sql:: (valeur par défaut ???)
+sqlexos_output_corrige = tags.has('corrige')
+sqlexos_query_corrige = tags.has('corrige')

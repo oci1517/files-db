@@ -231,7 +231,7 @@ ssh-key-publish:
 
 deploy: puthtml putcorrige
 
-puthtml: cleanhtml html
+puthtml: html
 	rsync -raz build/html/* webpub@donner-online.ch:/home/webpub/html/oci/files-db/ --progress --delete
 
 putcorrige: corrige
@@ -240,7 +240,16 @@ putcorrige: corrige
 youtube-patch:
 	curl https://gist.githubusercontent.com/donnerc/2df4c5daea4c2b92312dec524bb00194/raw/b412c7424e4635f816f9a2f95cdd2095b476b7ec/youtube.py > venv/lib/python3.4/site-packages/sphinxcontrib/youtube/youtube.py
 
-prepare: youtube-patch
+prepare: youtube-patch install-corr setup-tjwordlist
+
+setup-tjwordlist:
 	mkdir -p source/persistence-files/solutions/tjwordlist
 	cd source/persistence-files/solutions/tjwordlist && wget http://www.tigerjython.ch/download/tjwordlist.zip && unzip tjwordlist.zip
 	rm -f source/persistence-files/solutions/tjwordlist/tjwordlist.zip
+
+install-corr:
+	# install corr extension
+	mkdir -p modules
+	mkdir -p source/_static
+	git clone git@bitbucket.org:donnerc/sphinx-corr.git modules/corr
+	cp -f modules/corr/corr.js source/_static/
