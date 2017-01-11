@@ -27,7 +27,7 @@ Module 6 : Persistance et bases de données
       :class: tip
 
       Les déroulement de ce chapitre ainsi que les devoirs sont notés dans ce
-      `bloc-notes OneNote <https://onenote.com/webapp/pages?token=068EjGAcmccvGHVDAqlgsSbJY0UW2-aFbCF0yCPELrGtWQiEF-vZCjTnF36AZo_yOM4R23PURLdby1pZ3DeGED_ADHGezgMQ0&id=636149106029257264>`_
+      `bloc-notes OneNote <https://www.onenote.com/webapp/pages?token=dwrvNUzDi3fZ5hyQWliFGPYmkkoKQluwnJjan-zRljG7dLfuw36DdyKiGhR6iHjcPEYkj4x2kGMtgg1KGOn51FaCMw-ROzYd0&id=636173250453596194>`_
       (accessible en lecture seule)
 
    .. admonition:: Cours avec corrigés
@@ -68,5 +68,6 @@ Module 6 : Persistance et bases de données
     db-api/sqlite-api-theorie
 
     orm/index
+    orm/optimization
 
     tools/index
