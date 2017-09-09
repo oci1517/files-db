@@ -266,3 +266,5 @@ Exercice 3 (Opérateur 'IN')
             client
         WHERE
             client.canton IN ('GE', 'VD', 'NE', 'FR', 'VS', 'JU')
+
+
