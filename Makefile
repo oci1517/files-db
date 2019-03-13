@@ -7,6 +7,9 @@ SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = build
 
+DOMAIN = files-db
+PIPENV = `pipenv --venv`
+
 # User-friendly check for sphinx-build
 ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $$?), 1)
 $(error The '$(SPHINXBUILD)' command was not found. Make sure you have Sphinx installed, then set the SPHINXBUILD environment variable to point to the full path of the '$(SPHINXBUILD)' executable. Alternatively you can add the directory with the executable to your PATH. If you don't have Sphinx installed, grab it from http://sphinx-doc.org/)
@@ -229,7 +232,7 @@ livecorrige: encours
 ssh-key-publish:
 	cat ~/.ssh/id_rsa.pub | ssh webpub@donner-online.ch 'cat >> ~/.ssh/authorized_keys'
 
-deploy: puthtml putcorrige
+#deploy: puthtml putcorrige
 
 puthtml: html
 	rsync -raz build/html/* webpub@donner-online.ch:/home/webpub/html/oci/files-db/ --progress --delete
@@ -238,7 +241,7 @@ putcorrige: corrige
 	rsync -raz build/corrige/* webpub@donner-online.ch:/home/webpub/html/oci/files-db/corrige/ --progress --delete
 
 youtube-patch:
-	curl https://gist.githubusercontent.com/donnerc/2df4c5daea4c2b92312dec524bb00194/raw/b412c7424e4635f816f9a2f95cdd2095b476b7ec/youtube.py > venv/lib/python3.4/site-packages/sphinxcontrib/youtube/youtube.py
+	curl https://gist.githubusercontent.com/donnerc/2df4c5daea4c2b92312dec524bb00194/raw/b412c7424e4635f816f9a2f95cdd2095b476b7ec/youtube.py > $(shell find $(PIPENV) | grep youtube.py)
 
 prepare: youtube-patch install-corr setup-tjwordlist
 
@@ -253,3 +256,16 @@ install-corr:
 	mkdir -p source/_static
 	git clone git@bitbucket.org:donnerc/sphinx-corr.git modules/corr
 	cp -f modules/corr/corr.js source/_static/
+
+surge-html: html
+	surge -d $(DOMAIN).surge.sh -p build/html
+surge-corrige: corrige
+	surge -d corrige.$(DOMAIN).surge.sh -p build/corrige
+surge: surge-html surge-corrige
+
+teardown:
+	surge teardown $(DOMAIN).surge.sh 
+
+deploy-html: surge-html
+deploy-corrige: surge-corrige
+deploy: deploy-html deploy-corrige

@@ -141,12 +141,18 @@ colonnes. Il faut absolument connaître les types suivants :
 *   ``INTEGER`` : Nombres entiers. Correspond au type ``int`` de Python
 
 *   ``NUMERIC(p,s)`` : Nombre entier dont le nombre de chiffres significatifs
-    est ``p``, dont ``s`` se trouvent après la virgule.
+    est ``p``, dont ``s`` se trouvent après la virgule. Ce type de données est
+    essentiel pour stocker des montants financiers ou d'autres données
+    numériques pour lesquels la précision doit être garantie.
 
     **Exemple** : ``NUMERIC(6,2)`` permet de stocker des nombres qui ont 4 chiffres
     avant la virgule et 2 chiffres après la virgule
 
-*   ``VARCHAR(n)`` : Chaînes de caractères de longueur maximale ``n``
+*   ``VARCHAR(n)`` : Chaînes de caractères de longueur variable et de longueur maximale ``n``
+
+*   ``CHAR(n)`` : Chaînes de caractères de longueur fixe ``n``. Ce type permet
+    d'optimiser le stockage pour les chaînes de caratères de longueur fixe tels
+    que numéros IBAN, ISBN, AVS, de téléphone etc.
 
 *   ``FLOAT`` : correspond au type ``float`` de Python
 
@@ -155,7 +161,7 @@ colonnes. Il faut absolument connaître les types suivants :
 *   ``DATETIME`` : permet de stocker une date et une heure
 
 *   ``BLOB`` : données binaires telles que des images, des vidéos etc ... 
-    Lataille des données stockable peut être très grande.
+    La taille des données stockable peut être très grande.
 
 
 ..  ===========================================================================

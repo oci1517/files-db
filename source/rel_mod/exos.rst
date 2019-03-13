@@ -10,7 +10,7 @@ Modèle relationnel : exercer les notions de base
 
     ..  admonition:: @prof Aspects didactiques
 
-        Les retours ont été posifis sur cet exercice. Les étudiants ont pu le
+        Les retours ont été positifs sur cet exercice. Les étudiants ont pu le
         faire sans problème uniquement à l'aide de la vidéo. Ils ont donc pu
         saisir les notions essentielles du modèle relationnel.
 
@@ -63,7 +63,8 @@ Voici un extrait de la base de données de la banque :
 Consignes
 ---------
 
-Répondez aux questions suivantes :
+Répondez aux questions suivantes dans le formulaire Google
+https://docs.google.com/forms/d/e/1FAIpQLSfAebHGD487RKEDXtKwhzwImvgXCU_kCK6acw1mB-yMSzzqFg/viewform.
 
 #)  Quel est le but de la table ``POSSESSION`` ?
 
@@ -155,7 +156,7 @@ Répondez aux questions suivantes :
 
 
 
-#)  Y a-t-il un compte possédé par plusieurs clients? Si oui, par qui ?
+#)  Y a-t-il des comptes possédés par plusieurs clients? Si oui, lesquels?
 
     ..  only:: corrige and not latex
 

@@ -7,12 +7,14 @@
 Module 6 : Persistance et bases de données
 #######################################
 
-..  admonition:: Référence et sources
-    :class: danger
+.. comment::
 
-    Source : Ce cours est une adaptation de la section `Bases de données & SQL <http://www.tigerjython.ch/franz/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=datenbanken/datenbanken.inc.php>`_
-    du magnifique ouvrage *Concepts de programmation* de Jarka Arnold, Tobias
-    Kohn et Aegidius Plüss (www.tigerjython.fr).
+   ..  admonition:: Référence et sources
+      :class: danger
+
+      Source : Ce cours est une adaptation de la section `Bases de données & SQL <http://www.tigerjython.ch/franz/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=datenbanken/datenbanken.inc.php>`_
+      du magnifique ouvrage *Concepts de programmation* de Jarka Arnold, Tobias
+      Kohn et Aegidius Plüss (www.tigerjython.fr).
 
 
 .. only:: html
@@ -22,19 +24,11 @@ Module 6 : Persistance et bases de données
 
       *  :download:`files/oci-files-db.pdf`
 
-
-   .. admonition:: Bloc-notes OneNote pour le déroulement et les devoirs
-      :class: tip
-
-      Les déroulement de ce chapitre ainsi que les devoirs sont notés dans ce
-      `bloc-notes OneNote <https://www.onenote.com/webapp/pages?token=dwrvNUzDi3fZ5hyQWliFGPYmkkoKQluwnJjan-zRljG7dLfuw36DdyKiGhR6iHjcPEYkj4x2kGMtgg1KGOn51FaCMw-ROzYd0&id=636173250453596194>`_
-      (accessible en lecture seule)
-
    .. admonition:: Cours avec corrigés
       :class: info
 
       Une version de ce cours avec corrigés se trouve sous
-      http://oci.donner-online.ch/files-db/corrige/
+      http://corrige.files-db.surge.sh/
 
 
 ..  toctree::

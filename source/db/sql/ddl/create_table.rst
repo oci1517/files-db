@@ -155,7 +155,7 @@ colonnes. Il faut absolument connaître les types suivants :
 *   ``DATETIME`` : permet de stocker une date et une heure
 
 *   ``BLOB`` : données binaires telles que des images, des vidéos etc ... 
-    Lataille des données stockable peut être très grande.
+    La taille des données stockable peut être très grande.
 
 
 ..  ===========================================================================
